@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-a&x=3h(oij5(4%=%^p7_uqbu5+)!&b6-wa7w1(1w0*)^%(cnx9
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['onlinecourses.pythonanywhere.com']
+ALLOWED_HOSTS = ['onlinecourses.pythonanywhere.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
