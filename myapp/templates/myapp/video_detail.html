@@ -1,0 +1,79 @@
+{% extends 'myapp/base.html' %}
+{% block page_title %} {{video.title}} | {{video.chapter.title}} | {{video.chapter.course.title}} {% endblock page_title %}
+{% block page_content %} 
+    {% if video.type == 'video' %}
+        <video src="{{video.download_link}}"  class="w-100 border" controls></video>
+    {% else %}
+        <h3 class="text-center">
+            <a href="{{video.download_page}}" target="_blank">Resource: {{video.title}}</a>
+        </h3>
+    {% endif %}
+    <div class="d-flex justify-content-between w-100">
+        
+        <div class="">
+            <a href="{% if prev %}{% url 'video-detail-page' prev.id %}{% else %}#{% endif %}" class="{% if not prev %}disabled{% endif %} btn btn-secondary">
+                <i class="fa fa-arrow-left" aria-hidden="true"></i> 
+                Prev
+            </a>
+        </div>
+        
+        
+        <div class="">
+            <select class="mr-2 mt-1 p-0 d-inline" id="speed-changer">
+                <option value="1" selected>1x</option>
+                <option value="1.25">1.25x</option>
+                <option value="1.50">1.50x</option>
+                <option value="1.75">1.75x</option>
+                <option value="2">2x</option>
+                <option value="2.25">2.25x</option>
+                <option value="2.50">2.50x</option>
+            </select>
+            <a href="{% if next %}{% url 'video-detail-page' next.id %}{% else %}#{% endif %}" class="d-inline {% if not next %}disabled{% endif %} btn btn-secondary">
+            Next 
+            <i class="fa fa-arrow-right" aria-hidden="true"></i>
+            </a>
+        </div>
+        
+    </div>
+    <div>
+        {% if video.chapter.google_docs_link %}
+            <iframe src="{{video.chapter.google_docs_link}}" frameborder="0" class="w-100" height="800"></iframe>
+        {% endif %}
+    </div>
+    <p class="lead text-center">
+        {{video.title}} 
+        {% if video.chapter.google_docs_link %}
+            <a class="small" target="_blank" href="{{video.chapter.google_docs_link}}">docs</a>
+        {% endif %}
+    </p>
+    <br><br>
+    <a href="{% url 'video-update-page' video.id %}">Update video details</a>
+    <br>
+    <br>
+    <p class="lead">
+        <a href="{% url 'course-detail-page' video.chapter.course.id %}" class="bg-light p-1">{{video.chapter.course.title}}</a>
+         > 
+        <a href="{% url 'chapter-update-page' video.chapter.id %}" class="bg-light p-1">{{video.chapter.title}}</a>
+         > 
+        <a href="{% url 'video-detail-page' video.id %}" class="bg-light p-1">{{video.title}}</a>
+    </p>
+
+<script>
+    var speedChanger = document.querySelector('#speed-changer')
+    var video = document.querySelector('video')
+    if(speedChanger){
+        speedChanger.addEventListener('change', (e)=>{
+            if(video){
+                video.playbackRate = e.target.value
+            }
+        })
+    }
+    if(video){
+        video.addEventListener('error', e=>{
+            window.open('{% url "video-update-page" video.id %}')
+            window.open('{{video.download_page}}')
+        })
+    }
+</script>
+
+{% endblock page_content %} 

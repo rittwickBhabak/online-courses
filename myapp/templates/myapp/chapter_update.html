@@ -1,0 +1,27 @@
+{% extends 'myapp/base.html' %}
+{% block page_title %} {{chapter.title}} | Update {% endblock page_title %}
+{% block page_content %} 
+    <p class="lead">
+        <a href="{% url 'course-detail-page' chapter.course.id %}" class="bg-light p-1">{{chapter.course.title}}</a>
+         > 
+        <a  href="{% url 'chapter-update-page' chapter.id %}" class="bg-light p-1">{{chapter.title}}</a>
+    </p>
+    <form action="{% url 'chapter-update-page' chapter.id %}" method="POST">
+        {% csrf_token %}
+        <div class="mb-3">
+            <label for="title" class="form-label">Title</label>
+            <input type="text" class="form-control" id="title" {% if chapter.title %} value="{{chapter.title}}" {% endif %} name="title" placeholder="Enter Title">
+        </div>
+        <div class="mb-3">
+            <label for="google-docs-link" class="form-label">Google Docs Link</label>
+            <input type="text" class="form-control" id="google-docs-link" {% if chapter.google_docs_link %} value="{{chapter.google_docs_link}}" {% endif %} name="google-docs-link" placeholder="Enter Download Page">
+        </div>
+        <button type="submit" class="btn btn-primary">Update</button>
+    </form>
+    {{chapter.title}}
+    <ol>
+        {% for video in chapter.video_set.all %}
+            <li><a href="{% url 'video-detail-page' video.id %}">{{video.title}}</a></li>
+        {% endfor %}
+    </ol>
+{% endblock page_content %} 

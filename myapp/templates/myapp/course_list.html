@@ -1,0 +1,27 @@
+{% extends 'myapp/base.html' %}
+{% block page_title %} All Courses {% endblock page_title %}
+{% block home_active %} active {% endblock home_active %}
+{% block page_content %} 
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">Id</th>
+                <th scope="col">Course Name</th>
+                <th scope="col">Notes</th>
+                <th scope="col">Link</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for course in courses %}
+                <tr>
+                    <th>{{course.id}}</th>
+                    <td><a href="{% url 'course-detail-page' course.id %}">{{course.title}}</a></td>
+                    <td><a href="{% if course.google_docs_link %}{{course.google_docs_link}}{% endif %}" target="_blank">Notes</a></td>
+                    <td><a href="{% if course.link %}{{course.link}}{% endif %}" target="_blank">Link</a></td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+
+{% endblock page_content %}

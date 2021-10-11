@@ -1,0 +1,27 @@
+{% extends 'myapp/base.html' %}
+{% block page_title %} {{course.title}} | Update {% endblock page_title %}
+{% block course_add_active %} active {% endblock course_add_active %}
+{% block page_content %} 
+
+    <form action="{% url 'course-add-page' %}" method="POST">
+        {% csrf_token %}
+        <div class="mb-3">
+            <label for="title" class="form-label">Title</label>
+            <input type="text" class="form-control" id="title" name="title" value="{{course.title}}" placeholder="Enter Title">
+        </div>
+        <div class="mb-3">
+            <label for="google_docs_link" class="form-label">Google Docs Link</label>
+            <input type="text" class="form-control" id="google_docs_link" name="google_docs_link" value="{{course.google_docs_link}}" placeholder="Enter Google Docs Link">
+        </div>
+        <div class="mb-3">
+            <label for="link" class="form-label">Original Coruse Link</label>
+            <input type="text" class="form-control" id="link" name="link" value="{{course.link}}" placeholder="Enter Original Coruse Link">
+        </div>
+        <div class="mb-3">
+            <label for="chapters-videos-json" class="form-label">Chapters and Videos JSON</label>
+            <textarea class="form-control" id="chapters-videos-json" rows="3" value="{{course.chapters_videos_json}}" name="chapters-videos-json"></textarea>
+        </div>
+        <button type="submit" class="btn btn-primary">Update</button>
+    </form>
+
+{% endblock page_content %} 

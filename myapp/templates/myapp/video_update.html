@@ -1,0 +1,29 @@
+{% extends 'myapp/base.html' %}
+{% block page_title %} {{video.title}} | Update {% endblock page_title %}
+{% block page_content %} 
+    <p class="lead">
+        <a href="{% url 'course-detail-page' video.chapter.course.id %}" class="bg-light p-1">{{video.chapter.course.title}}</a>
+         > 
+        <a  href="{% url 'chapter-update-page' video.chapter.id %}" class="bg-light p-1">{{video.chapter.title}}</a>
+         > 
+        <a href="{% url 'video-detail-page' video.id %}" class="bg-light p-1">{{video.title}}</a>
+    </p>
+    <form action="{% url 'video-update-page' video.id %}" method="POST">
+        {% csrf_token %}
+        <div class="mb-3">
+            <label for="title" class="form-label">Title</label>
+            <input type="text" class="form-control" id="title" {% if video.title %} value="{{video.title}}" {% endif %} name="title" placeholder="Enter Title">
+        </div>
+        <label for="download-page" class="form-label">Downlaod Page</label>
+        <div class="input-group mb-3">
+            <input type="text" class="form-control" id="download-page" {% if video.download_page %} value="{{video.download_page}}" {% endif %} name="download-page" placeholder="Enter Download Page">
+            <a class="btn btn-outline-secondary" href="{{video.download_page}}" target="_blank" type="button">Visit</a>
+        </div>
+        <div class="mb-3">
+            <label for="download-link" class="form-label">Downlaod Link</label>
+            <input type="text" class="form-control" id="download-link" {% if video.download_link %} value="{{video.download_link}}" {% endif %} name="download-link" placeholder="Enter Download Link">
+        </div>
+        <button type="submit" class="btn btn-primary">Update</button>
+    </form>
+
+{% endblock page_content %} 
