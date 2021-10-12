@@ -39,10 +39,11 @@ def course_detail(request, id):
     course = get_object_or_404(Course, pk=id)
     chapters = course.chapter_set.all()
     videos = Video.objects.all()
-    for chapter in chapters[1:]:
-        videos.union(Video.objects.filter(chapter=chapter))
-    print(videos.count())
-    last_seen = videos.latest('last_seen')
+    last_seen = None 
+    videos = list(filter(lambda x: x.chapter in chapters, videos))
+    videos = sorted(videos, key=lambda x: x.last_seen)
+    last_seen = videos[-1]
+
 
     context = {
         'course': course,

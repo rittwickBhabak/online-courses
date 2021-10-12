@@ -1,3 +1,4 @@
+from datetime import datetime
 from django.db import models
 
 # Create your models here.
@@ -35,7 +36,7 @@ class Video(models.Model):
     chapter = models.ForeignKey(Chapter, on_delete=models.CASCADE)
     download_page = models.URLField()
     download_link = models.URLField(null=True, blank=True)
-    last_seen = models.DateTimeField(null=True, blank=True)
+    last_seen = models.DateTimeField(default=datetime.now())
     type = models.CharField(max_length=20, null=True, blank=True)
 
     def __str__(self):
