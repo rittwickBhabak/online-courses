@@ -1,3 +1,4 @@
+from datetime import datetime
 from django.db import models
 
 # Create your models here.
@@ -17,7 +18,7 @@ class Course(models.Model):
     storage = models.ForeignKey(Storage, on_delete=models.CASCADE, null=True, blank=True)
 
     def __str__(self):
-        return self.title 
+        return self.title
 
 
 class Chapter(models.Model):
@@ -26,7 +27,7 @@ class Chapter(models.Model):
     course = models.ForeignKey(Course, on_delete=models.CASCADE, null=True, blank=True)
 
     def __str__(self):
-        return self.title 
+        return self.title
 
 
 
@@ -35,9 +36,8 @@ class Video(models.Model):
     chapter = models.ForeignKey(Chapter, on_delete=models.CASCADE)
     download_page = models.URLField()
     download_link = models.URLField(null=True, blank=True)
-    last_seen = models.DateTimeField(null=True, blank=True)
+    last_seen = models.DateTimeField(auto_now=True)
     type = models.CharField(max_length=20, null=True, blank=True)
 
     def __str__(self):
         return f"{self.title} from {self.chapter.title} of course {self.chapter.course.title}"
-    

@@ -19,6 +19,7 @@
         
         
         <div class="">
+            {% if video.type == 'video' %}
             <select class="mr-2 mt-1 p-0 d-inline" id="speed-changer">
                 <option value="1" selected>1x</option>
                 <option value="1.25">1.25x</option>
@@ -28,6 +29,7 @@
                 <option value="2.25">2.25x</option>
                 <option value="2.50">2.50x</option>
             </select>
+            {% endif %}
             <a href="{% if next %}{% url 'video-detail-page' next.id %}{% else %}#{% endif %}" class="d-inline {% if not next %}disabled{% endif %} btn btn-secondary">
             Next 
             <i class="fa fa-arrow-right" aria-hidden="true"></i>
@@ -58,6 +60,7 @@
         <a href="{% url 'video-detail-page' video.id %}" class="bg-light p-1">{{video.title}}</a>
     </p>
 
+{% if video.type == 'video' %}
 <script>
     var speedChanger = document.querySelector('#speed-changer')
     var video = document.querySelector('video')
@@ -75,5 +78,6 @@
         })
     }
 </script>
+{% endif %}
 
 {% endblock page_content %} 

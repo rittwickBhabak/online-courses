@@ -2,15 +2,15 @@ from django.db.models.fields import CharField
 from django.http.response import HttpResponseRedirect
 from django.shortcuts import get_object_or_404, redirect, render
 from .models import Storage, Course, Chapter, Video
-from django.contrib import messages 
+from django.contrib import messages
 from django.urls import reverse
 
-import json 
-from datetime import datetime 
+import json
+from datetime import datetime
 
 # Create your views here.
 def create_chapters_and_videos(course, json_string):
-    data = json.loads(json_string) 
+    data = json.loads(json_string)
     try:
         for chapter, value in data.items():
             print(chapter)
@@ -25,24 +25,24 @@ def create_chapters_and_videos(course, json_string):
 
     except Exception as e:
         print(e)
-    
+
 def update_chapters_and_videos(course, json_string):
-    pass 
+    pass
 
 def course_list(request):
     context = {
         'courses': Course.objects.all()
-    } 
+    }
     return render(request, 'myapp/course_list.html', context=context)
 
 def course_detail(request, id):
     course = get_object_or_404(Course, pk=id)
     chapters = course.chapter_set.all()
     videos = Video.objects.all()
-    for chapter in chapters[1:]:
-        videos.union(Video.objects.filter(chapter=chapter))
-    print(videos.count())
-    last_seen = videos.latest('last_seen')
+    last_seen = None
+    videos = list(filter(lambda x: x.chapter in chapters, videos))
+    videos = sorted(videos, key=lambda x: x.last_seen)
+    last_seen = videos[-1]
 
     context = {
         'course': course,
@@ -99,7 +99,6 @@ def course_add(request):
 
 def video_detail(request, id):
     video = get_object_or_404(Video, pk=id)
-    video.last_seen = datetime.now()
     video.save()
     next_video = Video.objects.filter(chapter=video.chapter, id__gt=video.id).order_by('id').first()
     prev_video = Video.objects.filter(chapter=video.chapter, id__lt=video.id).order_by('-id').first()
@@ -147,9 +146,9 @@ def storage_add(request):
             password = request.POST.get('password')
             description = request.POST.get('description')
             Storage.objects.create(email = email, password = password, description = description)
-            messages.success(request, 'New storage added.') 
+            messages.success(request, 'New storage added.')
         except:
-            messages.error(request, 'Failed to add new storage.') 
+            messages.error(request, 'Failed to add new storage.')
     return HttpResponseRedirect(redirect_path)
 
 def chapter_update(request, id):

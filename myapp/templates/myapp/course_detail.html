@@ -1,8 +1,9 @@
 {% extends 'myapp/base.html' %}
 {% block page_title %} {{course.title}} {% endblock page_title %}
-{% block page_content %} 
+{% block page_content %}
 <h1 class="text-center">{{course.title}}</h1>
 <p class="lead">Last seen: <a href="{% url 'video-detail-page' last_seen.id %}">{{last_seen.title}}</a></p>
+
 <ol>
     {% for chapter in course.chapter_set.all %}
         <li>
@@ -18,4 +19,4 @@
 
 <a href="{% url 'course-edit-page' course.id %}">Update this course</a>
 
-{% endblock page_content %} 
+{% endblock page_content %}
