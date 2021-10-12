@@ -1,0 +1,612 @@
+{
+    "1. Introduction": {
+        "link": "https://www.mediafire.com/folder/h0ry0d406eqov/1.+Introduction",
+        "slno": 1.0,
+        "videos": {
+            "1. Introduction to Privacy, Anonymity & Security.mp4": {
+                "link": "https://www.mediafire.com/file/ifuip3uqzhenvwn/1._Introduction_to_Privacy%252C_Anonymity_%2526_Security.mp4/file",
+                "slno": 1.0
+            },
+            "1.1 TOR-section-slides.pdf.pdf": {
+                "link": "https://www.mediafire.com/file/l5pzah142094rdb/1.1_TOR-section-slides.pdf.pdf/file",
+                "slno": 1.1
+            },
+            "2. Course Breakdown.mp4": {
+                "link": "https://www.mediafire.com/file/3q2illvyq4atlc2/2._Course_Breakdown.mp4/file",
+                "slno": 2.0
+            },
+            "3. What is TOR.mp4": {
+                "link": "https://www.mediafire.com/file/p7tuk76r24dw9ln/3._What_is_TOR.mp4/file",
+                "slno": 3.0
+            },
+            "4. Hidden Services  Onion Services.mp4": {
+                "link": "https://www.mediafire.com/file/lso1vt7lk5njztv/4._Hidden_Services__Onion_Services.mp4/file",
+                "slno": 4.0
+            },
+            "5. Connecting to TOR.mp4": {
+                "link": "https://www.mediafire.com/file/qv61ht0g5fj2k2o/5._Connecting_to_TOR.mp4/file",
+                "slno": 5.0
+            }
+        }
+    },
+    "2. The TOR Browser": {
+        "link": "https://www.mediafire.com/folder/brfzn2zwsjcgx/2.+The+TOR+Browser",
+        "slno": 2.0,
+        "videos": {
+            "1. Section Intro & Breakdown.mp4": {
+                "link": "https://www.mediafire.com/file/6hoptfkrkxge2fs/1._Section_Intro_%2526_Breakdown.mp4/file",
+                "slno": 1.0
+            },
+            "1.1 TOR-Browser-section-slides.pdf.pdf": {
+                "link": "https://www.mediafire.com/file/a9fxu9u9z8p4oby/1.1_TOR-Browser-section-slides.pdf.pdf/file",
+                "slno": 1.1
+            },
+            "2. What is The TOR Browser.mp4": {
+                "link": "https://www.mediafire.com/file/5c7olmfixha5ai6/2._What_is_The_TOR_Browser.mp4/file",
+                "slno": 2.0
+            },
+            "2.1 Download TOR Browser From Google Drive.html": {
+                "link": "https://www.mediafire.com/file/qdmoiw9k6jsp3lg/2.1_Download_TOR_Browser_From_Google_Drive.html/file",
+                "slno": 2.1
+            },
+            "2.2 Download TOR Browser From Official Download Page.html": {
+                "link": "https://www.mediafire.com/file/46dzyym9m0lk0ch/2.2_Download_TOR_Browser_From_Official_Download_Page.html/file",
+                "slno": 2.2
+            },
+            "2.3 Download TOR Browser From GitLab.html": {
+                "link": "https://www.mediafire.com/file/m48188rfu7vcwy4/2.3_Download_TOR_Browser_From_GitLab.html/file",
+                "slno": 2.3
+            },
+            "3. Verifying & Installing TOR Browser on Windows.mp4": {
+                "link": "https://www.mediafire.com/file/nwivmho3nbd0b2c/3._Verifying_%2526_Installing_TOR_Browser_on_Windows.mp4/file",
+                "slno": 3.0
+            },
+            "3.1 TOR-Browser-verification-commands.txt.txt": {
+                "link": "https://www.mediafire.com/file/qqcfxqg529zm3m3/3.1_TOR-Browser-verification-commands.txt.txt/file",
+                "slno": 3.1
+            },
+            "3.2 GPG4win Download Page.html": {
+                "link": "https://www.mediafire.com/file/yaonke5snv64hpd/3.2_GPG4win_Download_Page.html/file",
+                "slno": 3.2
+            },
+            "3.3 TOR Browser Official Download Page.html": {
+                "link": "https://www.mediafire.com/file/fyqzs411qts56mu/3.3_TOR_Browser_Official_Download_Page.html/file",
+                "slno": 3.3
+            },
+            "4. Verifying & Installing TOR Browser on Mac OS X.mp4": {
+                "link": "https://www.mediafire.com/file/euytfnaby685sjb/4._Verifying_%2526_Installing_TOR_Browser_on_Mac_OS_X.mp4/file",
+                "slno": 4.0
+            },
+            "4.1 GPGtools Download Page.html": {
+                "link": "https://www.mediafire.com/file/y7usz1nui3k58vl/4.1_GPGtools_Download_Page.html/file",
+                "slno": 4.1
+            },
+            "4.2 TOR Browser Official Download Page.html": {
+                "link": "https://www.mediafire.com/file/4mqpvm6ch24nve1/4.2_TOR_Browser_Official_Download_Page.html/file",
+                "slno": 4.2
+            },
+            "4.3 TOR-Browser-verification-commands.txt.txt": {
+                "link": "https://www.mediafire.com/file/008yz72vln9fr8h/4.3_TOR-Browser-verification-commands.txt.txt/file",
+                "slno": 4.3
+            },
+            "5. Verifying & Installing TOR Browser on Linux.mp4": {
+                "link": "https://www.mediafire.com/file/ajwy5yxclcrkrv0/5._Verifying_%2526_Installing_TOR_Browser_on_Linux.mp4/file",
+                "slno": 5.0
+            },
+            "5.1 TOR Browser Official Download Page.html": {
+                "link": "https://www.mediafire.com/file/t069mvdbiuug449/5.1_TOR_Browser_Official_Download_Page.html/file",
+                "slno": 5.1
+            },
+            "5.2 TOR-Browser-verification-commands.txt.txt": {
+                "link": "https://www.mediafire.com/file/rgrjvhvtnep7omo/5.2_TOR-Browser-verification-commands.txt.txt/file",
+                "slno": 5.2
+            },
+            "6. TOR Bridges & Pluggable Transports.mp4": {
+                "link": "https://www.mediafire.com/file/zbvos0h0z4oahdx/6._TOR_Bridges_%2526_Pluggable_Transports.mp4/file",
+                "slno": 6.0
+            },
+            "7. Bypassing TOR Censorship.mp4": {
+                "link": "https://www.mediafire.com/file/qyv6bilvymssoyh/7._Bypassing_TOR_Censorship.mp4/file",
+                "slno": 7.0
+            },
+            "7.1 TOR Bridges Database.html": {
+                "link": "https://www.mediafire.com/file/ozo3bv3gi3mzppa/7.1_TOR_Bridges_Database.html/file",
+                "slno": 7.1
+            },
+            "8. Virtual Private Network (VPN) - What is it & How to Use it with TOR.mp4": {
+                "link": "https://www.mediafire.com/file/gxd6b6vl9g4krhm/8._Virtual_Private_Network_%2528VPN%2529_-_What_is_it_%2526_How_to_Use_it_with_TOR.mp4/file",
+                "slno": 8.0
+            },
+            "8.1 zSecurity VPN Website (ZSVPN).html": {
+                "link": "https://www.mediafire.com/file/b2fohpf6xohrmtf/8.1_zSecurity_VPN_Website_%2528ZSVPN%2529.html/file",
+                "slno": 8.1
+            },
+            "9. Configuring TOR Browser For Maximum Security & Anonymity.mp4": {
+                "link": "https://www.mediafire.com/file/n7rskoa79gk4kyg/9._Configuring_TOR_Browser_For_Maximum_Security_%2526_Anonymity.mp4/file",
+                "slno": 9.0
+            },
+            "10. TOR Browser Security Settings & Intro to Information Theory.mp4": {
+                "link": "https://www.mediafire.com/file/v8rfc71mfmlad3y/10._TOR_Browser_Security_Settings_%2526_Intro_to_Information_Theory.mp4/file",
+                "slno": 10.0
+            },
+            "10.1 Panopticlick - Browser Privacy Analyser.html": {
+                "link": "https://www.mediafire.com/file/8g967vaqhbpajxa/10.1_Panopticlick_-_Browser_Privacy_Analyser.html/file",
+                "slno": 10.1
+            },
+            "10.2 More information on Information Theory.html": {
+                "link": "https://www.mediafire.com/file/ucczow7ocadd656/10.2_More_information_on_Information_Theory.html/file",
+                "slno": 10.2
+            }
+        }
+    },
+    "3. TAILS - The Amnesic Incognito Live System": {
+        "link": "https://www.mediafire.com/folder/lnqi0muslj7zh/3.+TAILS+-+The+Amnesic+Incognito+Live+System",
+        "slno": 3.0,
+        "videos": {
+            "1. Disadvantages of Using The TOR Browser on Windows, OS X or Linux.mp4": {
+                "link": "https://www.mediafire.com/file/49dwwccl3n2ijh6/1._Disadvantages_of_Using_The_TOR_Browser_on_Windows%252C_OS_X_or_Linux.mp4/file",
+                "slno": 1.0
+            },
+            "1.1 Tails-section-slides.pdf.pdf": {
+                "link": "https://www.mediafire.com/file/4eztdtivlb2wjxf/1.1_Tails-section-slides.pdf.pdf/file",
+                "slno": 1.1
+            },
+            "2. What is TAILS.mp4": {
+                "link": "https://www.mediafire.com/file/4wjbq0r8jyserp6/2._What_is_TAILS.mp4/file",
+                "slno": 2.0
+            },
+            "3. Installation Options.mp4": {
+                "link": "https://www.mediafire.com/file/76xsz7pe3f9wqq2/3._Installation_Options.mp4/file",
+                "slno": 3.0
+            },
+            "4. Installing TAILS From All Operating Systems.mp4": {
+                "link": "https://www.mediafire.com/file/1k7lshgbved9i5x/4._Installing_TAILS_From_All_Operating_Systems.mp4/file",
+                "slno": 4.0
+            },
+            "4.1 Etcher Download Page.html": {
+                "link": "https://www.mediafire.com/file/cl2vgv81llbb994/4.1_Etcher_Download_Page.html/file",
+                "slno": 4.1
+            },
+            "4.2 TAILS Download Page.html": {
+                "link": "https://www.mediafire.com/file/adm85hs6tm7fw8g/4.2_TAILS_Download_Page.html/file",
+                "slno": 4.2
+            },
+            "5. Starting TAILS on All Operating Systems.mp4": {
+                "link": "https://www.mediafire.com/file/ytjuj5c6olk52r1/5._Starting_TAILS_on_All_Operating_Systems.mp4/file",
+                "slno": 5.0
+            },
+            "5.1 Click here if you face issues starting Tails on a PC.html": {
+                "link": "https://www.mediafire.com/file/f8v6496m17pt46h/5.1_Click_here_if_you_face_issues_starting_Tails_on_a_PC.html/file",
+                "slno": 5.1
+            },
+            "5.2 Click here if you face issues starting Tails on a Mac.html": {
+                "link": "https://www.mediafire.com/file/0mcfc87yp3rx1y7/5.2_Click_here_if_you_face_issues_starting_Tails_on_a_Mac.html/file",
+                "slno": 5.2
+            },
+            "6. TAILS Basics - Part 1.mp4": {
+                "link": "https://www.mediafire.com/file/x4ho6urm5f96zfu/6._TAILS_Basics_-_Part_1.mp4/file",
+                "slno": 6.0
+            },
+            "7. TAILS Basics - Part 2.mp4": {
+                "link": "https://www.mediafire.com/file/xpbowwf4cb9mmfc/7._TAILS_Basics_-_Part_2.mp4/file",
+                "slno": 7.0
+            },
+            "8. What is Persistence & Why We Need it!.mp4": {
+                "link": "https://www.mediafire.com/file/puaxd6o2nkm1b16/8._What_is_Persistence_%2526_Why_We_Need_it%2521.mp4/file",
+                "slno": 8.0
+            },
+            "9. Enabling Encrypted Persistence.mp4": {
+                "link": "https://www.mediafire.com/file/mct0e6340q4ah7i/9._Enabling_Encrypted_Persistence.mp4/file",
+                "slno": 9.0
+            },
+            "10. Bypassing Censorship Using Bridges & Plugable Transports.mp4": {
+                "link": "https://www.mediafire.com/file/tabi7bak6kmjrj5/10._Bypassing_Censorship_Using_Bridges_%2526_Plugable_Transports.mp4/file",
+                "slno": 10.0
+            },
+            "10.1 TOR Bridges Database.html": {
+                "link": "https://www.mediafire.com/file/azjeeynmms1e6qr/10.1_TOR_Bridges_Database.html/file",
+                "slno": 10.1
+            },
+            "11. Using The TOR Browser on Tails.mp4": {
+                "link": "https://www.mediafire.com/file/8aln39dfs450qur/11._Using_The_TOR_Browser_on_Tails.mp4/file",
+                "slno": 11.0
+            },
+            "12. Connecting to Captive Portals.mp4": {
+                "link": "https://www.mediafire.com/file/ly6y6jude4k1xo3/12._Connecting_to_Captive_Portals.mp4/file",
+                "slno": 12.0
+            }
+        }
+    },
+    "4. Accessing the Dark Net - Entry Points": {
+        "link": "https://www.mediafire.com/folder/2t16vy7kjp02q/4.+Accessing+the+Dark+Net+-+Entry+Points",
+        "slno": 4.0,
+        "videos": {
+            "1. Introduction & Breakdown of Next Sections.mp4": {
+                "link": "https://www.mediafire.com/file/zvnate061htrlx6/1._Introduction_%2526_Breakdown_of_Next_Sections.mp4/file",
+                "slno": 1.0
+            },
+            "2. Discovering Hidden Services Using Darknet Search Engines.mp4": {
+                "link": "https://www.mediafire.com/file/drkwvxymre3hfos/2._Discovering_Hidden_Services_Using_Darknet_Search_Engines.mp4/file",
+                "slno": 2.0
+            },
+            "2.1 search-engines.txt.txt": {
+                "link": "https://www.mediafire.com/file/e452urzpbh0aoga/2.1_search-engines.txt.txt/file",
+                "slno": 2.1
+            },
+            "3. Discovering Hidden Services Using Listings & Onion Services.mp4": {
+                "link": "https://www.mediafire.com/file/1th0y36ol3z6p5d/3._Discovering_Hidden_Services_Using_Listings_%2526_Onion_Services.mp4/file",
+                "slno": 3.0
+            },
+            "3.1 other-entry-points.txt.txt": {
+                "link": "https://www.mediafire.com/file/l3bq5o7its2m7xo/3.1_other-entry-points.txt.txt/file",
+                "slno": 3.1
+            }
+        }
+    },
+    "5. Communicating Privately & Anonymously - Using Email": {
+        "link": "https://www.mediafire.com/folder/iwoco3yt12bp1/5.+Communicating+Privately+&+Anonymously+-+Using+Email",
+        "slno": 5.0,
+        "videos": {
+            "1. Creating a Fake Anonymous Identity.mp4": {
+                "link": "https://www.mediafire.com/file/jz4jhigddokrrym/1._Creating_a_Fake_Anonymous_Identity.mp4/file",
+                "slno": 1.0
+            },
+            "1.1 fake-id-hidden-service.txt.txt": {
+                "link": "https://www.mediafire.com/file/jg8w7jtemngkg50/1.1_fake-id-hidden-service.txt.txt/file",
+                "slno": 1.1
+            },
+            "1.2 Emails.pdf.pdf": {
+                "link": "https://www.mediafire.com/file/uq639q27w8zt2sc/1.2_Emails.pdf.pdf/file",
+                "slno": 1.2
+            },
+            "2. Using Temporary Email Accounts.mp4": {
+                "link": "https://www.mediafire.com/file/e1tq6t9pxan4l3q/2._Using_Temporary_Email_Accounts.mp4/file",
+                "slno": 2.0
+            },
+            "2.1 temp-mail-providers.txt.txt": {
+                "link": "https://www.mediafire.com/file/1o6f59buz8e54ao/2.1_temp-mail-providers.txt.txt/file",
+                "slno": 2.1
+            },
+            "3. Using Privacy Focused Email Providers.mp4": {
+                "link": "https://www.mediafire.com/file/b7pz1pyxfcgunso/3._Using_Privacy_Focused_Email_Providers.mp4/file",
+                "slno": 3.0
+            },
+            "3.1 Proton Mail Onion Service.html": {
+                "link": "https://www.mediafire.com/file/ur3ot5a4krz435b/3.1_Proton_Mail_Onion_Service.html/file",
+                "slno": 3.1
+            },
+            "3.2 Proton Mail.html": {
+                "link": "https://www.mediafire.com/file/37akkv1e0bsigfb/3.2_Proton_Mail.html/file",
+                "slno": 3.2
+            },
+            "4. Using DarkNet Email Providers.mp4": {
+                "link": "https://www.mediafire.com/file/c23fdkckye2te4y/4._Using_DarkNet_Email_Providers.mp4/file",
+                "slno": 4.0
+            },
+            "4.1 mail-providers.txt.txt": {
+                "link": "https://www.mediafire.com/file/p8s46iwn57vvemr/4.1_mail-providers.txt.txt/file",
+                "slno": 4.1
+            },
+            "5. Picking The Right Email Service.mp4": {
+                "link": "https://www.mediafire.com/file/7csuwtr93bhgrvd/5._Picking_The_Right_Email_Service.mp4/file",
+                "slno": 5.0
+            }
+        }
+    },
+    "6. Communicating Privately & Anonymously Instant Messaging": {
+        "link": "https://www.mediafire.com/folder/2cqkdiywmcdxb/6.+Communicating+Privately+&+Anonymously+Instant+Messaging",
+        "slno": 6.0,
+        "videos": {
+            "1. What is Jabber  XMPP & How it Works.mp4": {
+                "link": "https://www.mediafire.com/file/k08xs10nmwhneqk/1._What_is_Jabber__XMPP_%2526_How_it_Works.mp4/file",
+                "slno": 1.0
+            },
+            "1.1 Instant Messaging.pdf.pdf": {
+                "link": "https://www.mediafire.com/file/mg8ejmttfmjccyd/1.1_Instant_Messaging.pdf.pdf/file",
+                "slno": 1.1
+            },
+            "1.2 XMPP Servers List.html": {
+                "link": "https://www.mediafire.com/file/p1xprv9ffmrgvdk/1.2_XMPP_Servers_List.html/file",
+                "slno": 1.2
+            },
+            "2. Setting up XMPP with Pidgin.mp4": {
+                "link": "https://www.mediafire.com/file/lsg744rpjo5kv3d/2._Setting_up_XMPP_with_Pidgin.mp4/file",
+                "slno": 2.0
+            },
+            "3. Enabling End-to-end Encryption in Pidgin.mp4": {
+                "link": "https://www.mediafire.com/file/ywc40u3mgastevr/3._Enabling_End-to-end_Encryption_in_Pidgin.mp4/file",
+                "slno": 3.0
+            },
+            "4. Verifying Contacts.mp4": {
+                "link": "https://www.mediafire.com/file/86eg79bxwu44eln/4._Verifying_Contacts.mp4/file",
+                "slno": 4.0
+            }
+        }
+    },
+    "7. File Management & File Sharing": {
+        "link": "https://www.mediafire.com/folder/e0zru0jj6ap6w/7.+File+Management+&+File+Sharing",
+        "slno": 7.0,
+        "videos": {
+            "1. Introduction.mp4": {
+                "link": "https://www.mediafire.com/file/lrs8d12hcdguxjl/1._Introduction.mp4/file",
+                "slno": 1.0
+            },
+            "1.1 File Sharing & Handling.pdf.pdf": {
+                "link": "https://www.mediafire.com/file/85gcsuvxc05osks/1.1_File_Sharing_%2526_Handling.pdf.pdf/file",
+                "slno": 1.1
+            },
+            "2. Clearing Metadata & Basic File Sharing.mp4": {
+                "link": "https://www.mediafire.com/file/sgeokkct1t891df/2._Clearing_Metadata_%2526_Basic_File_Sharing.mp4/file",
+                "slno": 2.0
+            },
+            "2.1 Firefox Send.html": {
+                "link": "https://www.mediafire.com/file/sci72evucpi87ea/2.1_Firefox_Send.html/file",
+                "slno": 2.1
+            },
+            "3. Sharing Files Privately & Anonymously.mp4": {
+                "link": "https://www.mediafire.com/file/f76tlivfc0ylqpj/3._Sharing_Files_Privately_%2526_Anonymously.mp4/file",
+                "slno": 3.0
+            },
+            "4. Securely Removing Files.mp4": {
+                "link": "https://www.mediafire.com/file/295y3cljy5keafr/4._Securely_Removing_Files.mp4/file",
+                "slno": 4.0
+            },
+            "5. Securely Wiping & Encrypting Storage Devices.mp4": {
+                "link": "https://www.mediafire.com/file/cejb5k6ahktvu3i/5._Securely_Wiping_%2526_Encrypting_Storage_Devices.mp4/file",
+                "slno": 5.0
+            }
+        }
+    },
+    "8. Encryption": {
+        "link": "https://www.mediafire.com/folder/dwfiuki4au1bw/8.+Encryption",
+        "slno": 8.0,
+        "videos": {
+            "1. What is Encryption & Why Its Important.mp4": {
+                "link": "https://www.mediafire.com/file/wh5gkl6te6dr4v5/1._What_is_Encryption_%2526_Why_Its_Important.mp4/file",
+                "slno": 1.0
+            },
+            "2. Symmetric VS Asymmetric encryption.mp4": {
+                "link": "https://www.mediafire.com/file/e76wb8m2z3zml06/2._Symmetric_VS_Asymmetric_encryption.mp4/file",
+                "slno": 2.0
+            },
+            "3. Generating a PGP Key Pair.mp4": {
+                "link": "https://www.mediafire.com/file/1l699ul5rm76a5u/3._Generating_a_PGP_Key_Pair.mp4/file",
+                "slno": 3.0
+            },
+            "4. Importing & Exporting Keys.mp4": {
+                "link": "https://www.mediafire.com/file/debfp2nc9ymixsf/4._Importing_%2526_Exporting_Keys.mp4/file",
+                "slno": 4.0
+            },
+            "5. Encrypting & Decrypting Text.mp4": {
+                "link": "https://www.mediafire.com/file/b4genk9ckbebji6/5._Encrypting_%2526_Decrypting_Text.mp4/file",
+                "slno": 5.0
+            },
+            "6. Signing - How it Works.mp4": {
+                "link": "https://www.mediafire.com/file/t4k34v6ilj70u2k/6._Signing_-_How_it_Works.mp4/file",
+                "slno": 6.0
+            },
+            "7. Signing Messages & Verifying Signatures.mp4": {
+                "link": "https://www.mediafire.com/file/bvwiejc5m59ggvq/7._Signing_Messages_%2526_Verifying_Signatures.mp4/file",
+                "slno": 7.0
+            },
+            "8. Encrypting, Signing, Verifying & Decrypting Files.mp4": {
+                "link": "https://www.mediafire.com/file/i057miz5b2cnybb/8._Encrypting%252C_Signing%252C_Verifying_%2526_Decrypting_Files.mp4/file",
+                "slno": 8.0
+            },
+            "9. Using Key Servers.mp4": {
+                "link": "https://www.mediafire.com/file/yaqfob8qh34pe9f/9._Using_Key_Servers.mp4/file",
+                "slno": 9.0
+            }
+        }
+    },
+    "9. Cryptocurrencies": {
+        "link": "https://www.mediafire.com/folder/fi27oisjdtyl9/9.+Cryptocurrencies",
+        "slno": 9.0,
+        "videos": {
+            "1. Introduction - Why Use Cryptocurrency.mp4": {
+                "link": "https://www.mediafire.com/file/vkqpfvjvw1q6dm3/1._Introduction_-_Why_Use_Cryptocurrency.mp4/file",
+                "slno": 1.0
+            },
+            "2. What is Cryptocurrency & How It works.mp4": {
+                "link": "https://www.mediafire.com/file/8697vq5semidfsd/2._What_is_Cryptocurrency_%2526_How_It_works.mp4/file",
+                "slno": 2.0
+            }
+        }
+    },
+    "10. Cryptocurrencies - Bitcoin": {
+        "link": "https://www.mediafire.com/folder/6vuawy9inwlzi/10.+Cryptocurrencies+-+Bitcoin",
+        "slno": 10.0,
+        "videos": {
+            "1. Installing a Bitcoin Wallet.mp4": {
+                "link": "https://www.mediafire.com/file/qfdxmq5aykrwqly/1._Installing_a_Bitcoin_Wallet.mp4/file",
+                "slno": 1.0
+            },
+            "1.1 Electrum Wallet Download page.html": {
+                "link": "https://www.mediafire.com/file/u5m3avf4bsi0uzu/1.1_Electrum_Wallet_Download_page.html/file",
+                "slno": 1.1
+            },
+            "2. Creating a Bitcoin Wallet.mp4": {
+                "link": "https://www.mediafire.com/file/v067vf500vymk1r/2._Creating_a_Bitcoin_Wallet.mp4/file",
+                "slno": 2.0
+            },
+            "3. 4 Ways to Anonymously Get Biotcoins.mp4": {
+                "link": "https://www.mediafire.com/file/rntoujl6nakhv69/3._4_Ways_to_Anonymously_Get_Biotcoins.mp4/file",
+                "slno": 3.0
+            },
+            "3.1 Bitcoin Exchanges.html": {
+                "link": "https://www.mediafire.com/file/ss8o3luj2sf4rq8/3.1_Bitcoin_Exchanges.html/file",
+                "slno": 3.1
+            },
+            "3.2 Coinbase.html": {
+                "link": "https://www.mediafire.com/file/vfskbb9njfx7x5u/3.2_Coinbase.html/file",
+                "slno": 3.2
+            },
+            "3.3 Coin ATM Radar.html": {
+                "link": "https://www.mediafire.com/file/fjj8lj9gklu75um/3.3_Coin_ATM_Radar.html/file",
+                "slno": 3.3
+            },
+            "4. Using Bitcoin ATMs.mp4": {
+                "link": "https://www.mediafire.com/file/nug003pxp43t5l9/4._Using_Bitcoin_ATMs.mp4/file",
+                "slno": 4.0
+            },
+            "5. Using P2P Services.mp4": {
+                "link": "https://www.mediafire.com/file/tkxnze0cf6nsqxe/5._Using_P2P_Services.mp4/file",
+                "slno": 5.0
+            },
+            "5.1 Bitcoin Exchanges.html": {
+                "link": "https://www.mediafire.com/file/rwwc8qhprp8cv03/5.1_Bitcoin_Exchanges.html/file",
+                "slno": 5.1
+            },
+            "6. Sending & Receiving Bitcoins.mp4": {
+                "link": "https://www.mediafire.com/file/qy66fz3ij75crob/6._Sending_%2526_Receiving_Bitcoins.mp4/file",
+                "slno": 6.0
+            },
+            "7. What Are MixersTumblers & Why Use Them.mp4": {
+                "link": "https://www.mediafire.com/file/dcme07pd8s4yhx3/7._What_Are_MixersTumblers_%2526_Why_Use_Them.mp4/file",
+                "slno": 7.0
+            },
+            "7.1 mixers.txt.txt": {
+                "link": "https://www.mediafire.com/file/r05pnxgap8afy8y/7.1_mixers.txt.txt/file",
+                "slno": 7.1
+            },
+            "8. Improve Bitcoin Anonymity Using Mixers.mp4": {
+                "link": "https://www.mediafire.com/file/qsww2n2dehg6azh/8._Improve_Bitcoin_Anonymity_Using_Mixers.mp4/file",
+                "slno": 8.0
+            }
+        }
+    },
+    "11. Cryptocurrencies - Monero": {
+        "link": "https://www.mediafire.com/folder/e51of2zqcenjh/11.+Cryptocurrencies+-+Monero",
+        "slno": 11.0,
+        "videos": {
+            "1. What is Monero.mp4": {
+                "link": "https://www.mediafire.com/file/ix5c5hzbbuckh7l/1._What_is_Monero.mp4/file",
+                "slno": 1.0
+            },
+            "2. Creating a Monero Wallet.mp4": {
+                "link": "https://www.mediafire.com/file/11citbh0w7rczko/2._Creating_a_Monero_Wallet.mp4/file",
+                "slno": 2.0
+            },
+            "2.1 Monero Download Page.html": {
+                "link": "https://www.mediafire.com/file/cud25kj3fpwe939/2.1_Monero_Download_Page.html/file",
+                "slno": 2.1
+            },
+            "3. Restoring Wallet on TAILS.mp4": {
+                "link": "https://www.mediafire.com/file/c2kb1kz934jttsw/3._Restoring_Wallet_on_TAILS.mp4/file",
+                "slno": 3.0
+            },
+            "4. 4 ways to Anonymously Get Monero.mp4": {
+                "link": "https://www.mediafire.com/file/ki4xa5u9lq952hi/4._4_ways_to_Anonymously_Get_Monero.mp4/file",
+                "slno": 4.0
+            },
+            "4.1 Monero Exchanges.html": {
+                "link": "https://www.mediafire.com/file/6avh388tnlk2ls3/4.1_Monero_Exchanges.html/file",
+                "slno": 4.1
+            },
+            "4.2 Coin ATM Radar.html": {
+                "link": "https://www.mediafire.com/file/pbkff3x85bm6hl5/4.2_Coin_ATM_Radar.html/file",
+                "slno": 4.2
+            },
+            "4.3 Local Monero.html": {
+                "link": "https://www.mediafire.com/file/sj2cu7npfs7qps8/4.3_Local_Monero.html/file",
+                "slno": 4.3
+            },
+            "5. Crypt-exchanges - Converting One Cryptocurrency to Another.mp4": {
+                "link": "https://www.mediafire.com/file/uls056lhl5et5bm/5._Crypt-exchanges_-_Converting_One_Cryptocurrency_to_Another.mp4/file",
+                "slno": 5.0
+            },
+            "6. Using a Crypto Exchanges to Increase Anonymity.mp4": {
+                "link": "https://www.mediafire.com/file/ovg2q5r7ooijf8j/6._Using_a_Crypto_Exchanges_to_Increase_Anonymity.mp4/file",
+                "slno": 6.0
+            },
+            "6.1 MorphToken.html": {
+                "link": "https://www.mediafire.com/file/wsj62qcjsneoa0p/6.1_MorphToken.html/file",
+                "slno": 6.1
+            },
+            "7. Conclusion.mp4": {
+                "link": "https://www.mediafire.com/file/25u4qaiuwf9n75e/7._Conclusion.mp4/file",
+                "slno": 7.0
+            }
+        }
+    },
+    "12. Qubes OS": {
+        "link": "https://www.mediafire.com/folder/p7u5wro8x5ep5/12.+Qubes+OS",
+        "slno": 12.0,
+        "videos": {
+            "1. What is Qubes & Why Use it.mp4": {
+                "link": "https://www.mediafire.com/file/zxzidpkkeqing0k/1._What_is_Qubes_%2526_Why_Use_it.mp4/file",
+                "slno": 1.0
+            },
+            "1.1 Qubes OS System Requirements.html": {
+                "link": "https://www.mediafire.com/file/ubcirehkzbecoi1/1.1_Qubes_OS_System_Requirements.html/file",
+                "slno": 1.1
+            },
+            "2. Installation Options & Verifying Qubes.mp4": {
+                "link": "https://www.mediafire.com/file/ybt7fx22rwiqw8x/2._Installation_Options_%2526_Verifying_Qubes.mp4/file",
+                "slno": 2.0
+            },
+            "2.1 Qubes OS System Requirements.html": {
+                "link": "https://www.mediafire.com/file/3mss7uo5jn5zed2/2.1_Qubes_OS_System_Requirements.html/file",
+                "slno": 2.1
+            },
+            "2.2 Qubes OS Download Page.html": {
+                "link": "https://www.mediafire.com/file/v0j91lkkj7slep1/2.2_Qubes_OS_Download_Page.html/file",
+                "slno": 2.2
+            },
+            "3. Flashing Qubes to USB.mp4": {
+                "link": "https://www.mediafire.com/file/77gpfmpl67lquw0/3._Flashing_Qubes_to_USB.mp4/file",
+                "slno": 3.0
+            },
+            "4. Preparing Computer For Qubes.mp4": {
+                "link": "https://www.mediafire.com/file/zs9ac7sh0ouidy7/4._Preparing_Computer_For_Qubes.mp4/file",
+                "slno": 4.0
+            },
+            "5. Installing Qubes.mp4": {
+                "link": "https://www.mediafire.com/file/kwtswfaqml747i7/5._Installing_Qubes.mp4/file",
+                "slno": 5.0
+            },
+            "6. Qubes Basics.mp4": {
+                "link": "https://www.mediafire.com/file/iqz42b67sphq9wa/6._Qubes_Basics.mp4/file",
+                "slno": 6.0
+            },
+            "7. Overview of The Security Domains in Qubes.mp4": {
+                "link": "https://www.mediafire.com/file/lewjwt37l2rb27g/7._Overview_of_The_Security_Domains_in_Qubes.mp4/file",
+                "slno": 7.0
+            },
+            "8. Working With Multiple Security Domains Simultaneously.mp4": {
+                "link": "https://www.mediafire.com/file/jny8fdee7i8g69t/8._Working_With_Multiple_Security_Domains_Simultaneously.mp4/file",
+                "slno": 8.0
+            },
+            "9. Handling Files & Text Across The Different Security Domains.mp4": {
+                "link": "https://www.mediafire.com/file/l50spc2h5qhdb9g/9._Handling_Files_%2526_Text_Across_The_Different_Security_Domains.mp4/file",
+                "slno": 9.0
+            },
+            "10. Installing Software to Specific Domains.mp4": {
+                "link": "https://www.mediafire.com/file/jfe5jnxup7r1w18/10._Installing_Software_to_Specific_Domains.mp4/file",
+                "slno": 10.0
+            },
+            "11. Handling MalwareViruses & Suspicious Files Securely.mp4": {
+                "link": "https://www.mediafire.com/file/luiy7tvri76efae/11._Handling_MalwareViruses_%2526_Suspicious_Files_Securely.mp4/file",
+                "slno": 11.0
+            },
+            "12. Connecting to TOR From Qubes Using Whonix Gateway.mp4": {
+                "link": "https://www.mediafire.com/file/gd3ptm8k8ioetm8/12._Connecting_to_TOR_From_Qubes_Using_Whonix_Gateway.mp4/file",
+                "slno": 12.0
+            },
+            "13. Whonix - Installing Software.mp4": {
+                "link": "https://www.mediafire.com/file/r1rbs6zdve9dqib/13._Whonix_-_Installing_Software.mp4/file",
+                "slno": 13.0
+            }
+        }
+    },
+    "13. Bonus Section": {
+        "link": "https://www.mediafire.com/folder/2x3bo8h6l83tb/13.+Bonus+Section",
+        "slno": 13.0,
+        "videos": {
+            "1. Bonus Lecture - What's Next.html": {
+                "link": "https://www.mediafire.com/file/86n87cw1wxpoiap/1._Bonus_Lecture_-_What%2527s_Next.html/file",
+                "slno": 1.0
+            }
+        }
+    }
+}
