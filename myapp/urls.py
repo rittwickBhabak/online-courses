@@ -10,5 +10,7 @@ urlpatterns = [
     path('video/update/<int:id>', views.video_update, name='video-update-page'),
     path('storage', views.storage_list, name='storage-list-page'),
     path('storage/add', views.storage_add, name='storage-add-page'),
-    path('chapter/update/<int:id>', views.chapter_update, name="chapter-update-page")
+    path('chapter/update/<int:id>', views.chapter_update, name="chapter-update-page"),
+    path('video-completed', views.video_completed, name="video-completed"),
+    path('course-completed', views.course_completed, name="course-completed"),
 ]

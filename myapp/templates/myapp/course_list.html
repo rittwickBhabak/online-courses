@@ -16,7 +16,7 @@
             {% for course in courses %}
                 <tr>
                     <th>{{course.id}}</th>
-                    <td><a href="{% url 'course-detail-page' course.id %}">{{course.title}}</a></td>
+                    <td><a href="{% url 'course-detail-page' course.id %}">{{course.title}} {% if course.is_done %} <span class="done"></span> {% endif %} </a></td>
                     <td><a href="{% if course.google_docs_link %}{{course.google_docs_link}}{% endif %}" target="_blank">Notes</a></td>
                     <td><a href="{% if course.link %}{{course.link}}{% endif %}" target="_blank">Link</a></td>
                 </tr>

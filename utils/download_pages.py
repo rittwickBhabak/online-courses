@@ -1,6 +1,6 @@
 from selenium import webdriver 
 import clipboard 
-import time , json
+import time , json, datetime
 
 driver = webdriver.Chrome("D:\chromedriver.exe")
 def wait(second):
@@ -9,11 +9,19 @@ def wait(second):
         print(f'Waiting {second-i}')
 
 def convert(x):
-    x = x.split(' ')[0]
-    if x.endswith('.'):
-        return float(x[:-1])
-    else:
-        return float(x)
+    try:
+        x = x.split(' ')[0]
+        if x.endswith('.'):
+            return float(x[:-1])
+        else:
+            return float(x)
+    except Exception as e:
+        print(f"ERROR AT {x}")
+        print(str(e))
+        filename = str(datetime.datetime.now()).replace(":", '-')
+        with open(f"json/{filename}.txt", 'w') as f:
+            f.write(f"Error at {x}")
+        return -1
 
 def sort_dict(data):
     data = dict(sorted(data.items(), key=lambda x: x[1]['slno']))
@@ -33,7 +41,7 @@ pass_elem.send_keys(password)
 pass_elem.submit()
 input("Page Loaded?")
 
-all_chapters = "https://app.mediafire.com/d8i7hnvbmxbwl"
+all_chapters =input('Enter all chapters url: ')
 
 driver.get(all_chapters)
 
@@ -45,7 +53,7 @@ cpyBtns = driver.find_elements_by_css_selector('button[title="Copy share link"]'
 for cpyBtn in cpyBtns:
     cpyBtn.click()
     link = clipboard.paste()
-    # wait(5)
+    wait(5)
     parent_div = cpyBtn.find_element_by_xpath('../..')
     childern = parent_div.find_elements_by_xpath('*')
     child = childern[2].find_element_by_css_selector('button')
@@ -60,7 +68,8 @@ for chapter, link in chapters_list.items():
 
     driver.get(all_chapters)
 
-    input('Page loaded?')
+    # input('Page loaded?')
+    wait(15)
 
     videos_list = {}
 
@@ -86,7 +95,7 @@ for chapter, link in chapters_list.items():
 
 with open('json/data.json', 'r') as f:
     data = json.loads(f.read()) 
-    with open('sorted.json', 'w') as f:
+    with open('json/sorted.json', 'w') as f:
         f.write(json.dumps(sort_dict(data)))
 
 

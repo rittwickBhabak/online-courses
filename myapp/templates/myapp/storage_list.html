@@ -16,9 +16,9 @@
             {% for storage in storages %}
                 <tr>
                     <th>{{forloop.counter}}</th>
-                    <td>{{storage.email}}</td>
-                    <td>{{storage.password}}</td>
-                    <td>{{storage.description}}</td>
+                    <td class="copy-able" data-content="{{storage.email}}">{{storage.email}}</td>
+                    <td class="copy-able" data-content="{{storage.password}}">{{storage.password}}</td>
+                    <td class="copy-able" data-content="{{storage.description}}">{{storage.description}}</td>
                 </tr>
             {% empty %}
                 <p class="lead">No storage available</p>
@@ -45,4 +45,28 @@
             <button type="submit" class="btn btn-primary">Add</button>
         </form>
     </div>
+
+    <script>
+        var copyText = (text) => {
+            var input = document.createElement('input')
+            input.type = 'text'
+            input.value = text.trim()
+            input.select()
+            navigator.clipboard.writeText(input.value);   
+        }
+
+        var copyAbles = document.querySelectorAll('.copy-able')
+        copyAbles.forEach(elem => {
+            elem.addEventListener('click', (e)=>{
+                var text = e.target.dataset.content
+                copyText(text)
+                e.target.classList.add('fw-bold')
+                e.target.classList.add('fst-italic')
+                setTimeout(()=>{
+                    e.target.classList.remove('fw-bold')
+                    e.target.classList.remove('fst-italic')
+                }, 0.4*1000)
+            })
+        })
+    </script>
 {% endblock page_content %}

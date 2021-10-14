@@ -13,9 +13,12 @@ def create_chapters_and_videos(course, json_string):
     data = json.loads(json_string)
     try:
         for chapter, value in data.items():
-            print(chapter)
             videos = value['videos']
-            chapter = Chapter.objects.create(title=chapter, course=course)
+            email = value['email']
+            password = value['password']
+            description = value['description']
+            storage = Storage.objects.get_or_create(email=email, password=password, description=description)[0]
+            chapter = Chapter.objects.create(title=chapter, course=course, storage=storage)
             for video, link_value in videos.items():
                 link = link_value['link']
                 if video.endswith('.mp4'):
@@ -99,6 +102,9 @@ def course_add(request):
 
 def video_detail(request, id):
     video = get_object_or_404(Video, pk=id)
+    if video.type != 'video':
+        video.is_done = True
+    video.is_visited = True 
     video.save()
     next_video = Video.objects.filter(chapter=video.chapter, id__gt=video.id).order_by('id').first()
     prev_video = Video.objects.filter(chapter=video.chapter, id__lt=video.id).order_by('-id').first()
@@ -155,7 +161,17 @@ def chapter_update(request, id):
     if request.method == 'POST':
         chapter = get_object_or_404(Chapter, pk=id)
         title = request.POST.get('title')
+        email = request.POST.get('storage')
         google_docs_link = request.POST.get('google-docs-link')
+        storage = Storage.objects.filter(email=email).first()
+        is_done = request.POST.get('is-done')
+        print(is_done)
+        if storage:
+            chapter.storage = storage
+        if is_done is None:
+            chapter.is_done = False
+        if is_done == 'on':
+            chapter.is_done = True 
         chapter.title = title
         chapter.google_docs_link = google_docs_link
         chapter.save()
@@ -163,6 +179,30 @@ def chapter_update(request, id):
         return redirect(reverse('chapter-update-page', args=[id]))
     else:
         context = {
-            'chapter': get_object_or_404(Chapter, pk=id)
+            'chapter': get_object_or_404(Chapter, pk=id),
+            'storages': Storage.objects.all()
         }
         return render(request, 'myapp/chapter_update.html', context=context)
+
+def video_completed(request):
+    if request.method=='POST':
+        vid = request.POST.get('vid')
+        video = get_object_or_404(Video, pk=vid)
+        is_done = video.is_done
+        video.is_done = not is_done
+        video.save()
+        redirect_path = reverse('video-detail-page', args=[vid])
+        return redirect(redirect_path)
+    
+def course_completed(request):
+    if request.method=='POST':
+        cid = request.POST.get('cid')
+        course = get_object_or_404(Course, pk=cid)
+        print(course.is_done)
+        is_done = course.is_done
+        course.is_done = not is_done
+        course.save()
+        redirect_path = reverse('course-detail-page', args=[cid])
+        print(course.is_done)
+        return redirect(redirect_path)
+    

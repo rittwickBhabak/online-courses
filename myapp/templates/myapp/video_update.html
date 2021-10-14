@@ -21,9 +21,16 @@
         </div>
         <div class="mb-3">
             <label for="download-link" class="form-label">Downlaod Link</label>
-            <input type="text" class="form-control" id="download-link" {% if video.download_link %} value="{{video.download_link}}" {% endif %} name="download-link" placeholder="Enter Download Link">
+            <input type="text" class="form-control" id="download-link" {% if video.download_link %} value="{{video.download_link}}" {% endif %} name="download-link" placeholder="Enter Download Link" autofocus>
         </div>
         <button type="submit" class="btn btn-primary">Update</button>
     </form>
+    <script>
+        var dwnldLink = document.querySelector('#download-link')
+        dwnldLink.addEventListener('blur', e=>{
+            var form = document.querySelector('form')
+            form.submit()
+        })
+    </script>
 
 {% endblock page_content %} 

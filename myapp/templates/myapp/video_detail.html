@@ -1,14 +1,66 @@
 {% extends 'myapp/base.html' %}
 {% block page_title %} {{video.title}} | {{video.chapter.title}} | {{video.chapter.course.title}} {% endblock page_title %}
 {% block page_content %} 
+    <div class="row mb-2">
+        <div class="col-sm-12 col-md-9 col-12 mb-2">
+            <p class="lead mb-2">
+                <a href="{% url 'course-detail-page' video.chapter.course.id %}" class="bg-light p-1">{{video.chapter.course.title}}</a>
+                > 
+                <a href="{% url 'chapter-update-page' video.chapter.id %}" class="bg-light p-1">{{video.chapter.title}}</a>
+                > 
+                <a href="{% url 'video-detail-page' video.id %}" class="bg-light p-1">{{video.title}}</a>
+                {% if video.type == 'video' %}
+                    {% if video.is_done %}
+                        <span class="done"></span>
+                    {% endif %}
+                {% else %}
+                    {% if video.is_visited %}
+                        <span class="done"></span>
+                    {% endif %}
+                {% endif %}
+            </p>
+        </div>
+        <div class="col-sm-12 col-md-3 col-12">
+            <div class="btn-group float-end" role="group">
+                <button id="video-options" type="button" class="btn btn-outline-secondary dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false"></button>
+                <ul class="dropdown-menu" aria-labelledby="video-options">
+                    <li><a class="dropdown-item" href="{% url 'video-update-page' video.id %}">Update ? </a></li>
+                    {% if video.chapter.google_docs_link %}
+                        <li><a href="{{video.chapter.google_docs_link}}" class="dropdown-item" target="_blank">Docs</a></li>
+                    {% endif %}
+                    <li><a href="/admin/myapp/video/{{video.id}}/change/" class="dropdown-item" target="_blank">Open in Admin</a></li>
+                    {% if video.type == 'video' %}
+                        <li>
+                            <form action="{% url 'video-completed' %}" method="POST" class="dropdown-item pl-0">
+                                {% csrf_token %}
+                                <input type="number" name="vid" id="vid" value="{{video.id}}"  hidden>
+                                {% if video.is_done %}
+                                    <button type="submit" class="blank">Done</button>
+                                    <span class="done"></span>
+                                {% else %}
+                                    <button type="submit" class="blank">Done ?</button>
+                                {% endif %}
+                            </form>
+                        </li>
+                    {% endif %}
+                </ul>
+            </div>
+        </div>
+    </div>
     {% if video.type == 'video' %}
-        <video src="{{video.download_link}}"  class="w-100 border" controls></video>
+        <div class="row">
+            <video src="{{video.download_link}}"  class="col-sm-12 col-md-9 col-12 m-auto mb-2" controls></video>
+            <div class="col-sm-12 col-md-3 col-12">
+                {% comment %} <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias, unde.</p> {% endcomment %}
+            </div>
+        </div>
     {% else %}
         <h3 class="text-center">
-            <a href="{{video.download_page}}" target="_blank">Resource: {{video.title}}</a>
+            <h4>Resource: {{video.title}} <span><a href="{{video.download_page}}" target="_blank">Download Resources<i class="fa fa-download" aria-hidden="true"></i></a></span></h4>
+            
         </h3>
     {% endif %}
-    <div class="d-flex justify-content-between w-100">
+    <div class="d-flex justify-content-between col-sm-12 col-md-9 col-12 mb-3">
         
         <div class="">
             <a href="{% if prev %}{% url 'video-detail-page' prev.id %}{% else %}#{% endif %}" class="{% if not prev %}disabled{% endif %} btn btn-secondary">
@@ -42,23 +94,11 @@
             <iframe src="{{video.chapter.google_docs_link}}" frameborder="0" class="w-100" height="800"></iframe>
         {% endif %}
     </div>
-    <p class="lead text-center">
-        {{video.title}} 
-        {% if video.chapter.google_docs_link %}
-            <a class="small" target="_blank" href="{{video.chapter.google_docs_link}}">docs</a>
-        {% endif %}
-    </p>
+    
     <br><br>
-    <a href="{% url 'video-update-page' video.id %}">Update video details</a>
     <br>
     <br>
-    <p class="lead">
-        <a href="{% url 'course-detail-page' video.chapter.course.id %}" class="bg-light p-1">{{video.chapter.course.title}}</a>
-         > 
-        <a href="{% url 'chapter-update-page' video.chapter.id %}" class="bg-light p-1">{{video.chapter.title}}</a>
-         > 
-        <a href="{% url 'video-detail-page' video.id %}" class="bg-light p-1">{{video.title}}</a>
-    </p>
+    
 
 {% if video.type == 'video' %}
 <script>

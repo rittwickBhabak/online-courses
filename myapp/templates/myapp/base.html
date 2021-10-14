@@ -24,6 +24,65 @@
         outline: none;
         border: none;        
       }
+      .blank{
+        border: none;
+        outline: none;
+        background-color: transparent;
+        color: #000;
+        cursor: pointer;
+        padding-left: 0;
+      }
+      .invert{
+        filter: opacity(0.1);
+      }
+      ul {
+        list-style: none;
+        padding: 0;
+      }
+      li {
+        padding-left: 1.3em;
+      }
+      li.video-item:before {
+        content: "\f04b";
+        font-family: FontAwesome;
+        display: inline-block;
+        margin-left: -1.3em;
+        width: 1.3em;
+      }
+      li.chapter:before {
+        content: "\f0c9";
+        font-family: FontAwesome;
+        display: inline-block;
+        margin-left: -1.3em;
+        width: 1.3em;
+      }
+      .chapter-name{
+        font-size: x-large;
+      }
+      li.resource-item:before {
+        content: "\f15b";
+        font-family: FontAwesome;
+        display: inline-block;
+        margin-left: -1.3em;
+        width: 1.3em;
+      }
+      li.done:after {
+        content: "\f05d";
+        font-family: FontAwesome;
+        display: inline-block;
+        color: green;
+        /* margin-left: -1.3em; */
+        /* width: 1.3em; */
+      }
+      span.done::before{
+        content: "\f05d";
+        font-family: FontAwesome;
+        display: inline-block;
+        color: green;
+      }
+      .copy-able{
+        cursor: pointer;
+      }
     </style>
   </head>
   <body>

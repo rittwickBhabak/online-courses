@@ -18,15 +18,6 @@
             <input type="text" class="form-control" id="link" name="link" placeholder="Enter Original Coruse Link">
         </div>
         <div class="mb-3">
-            <label for="link" class="form-label">Storage</label>
-            <select class="form-select" required>
-                <option selected>Select Storage</option>
-                {% for storage in storages %}
-                    <option value="{{storage.email}}">{{storage.email}}</option>
-                {% endfor %}
-            </select>
-        </div>
-        <div class="mb-3">
             <label for="chapters-videos-json" class="form-label">Chapters and Videos JSON</label>
             <textarea class="form-control" id="chapters-videos-json" rows="3" name="chapters-videos-json"></textarea>
         </div>

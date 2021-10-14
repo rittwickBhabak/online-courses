@@ -1,22 +1,87 @@
 {% extends 'myapp/base.html' %}
 {% block page_title %} {{course.title}} {% endblock page_title %}
 {% block page_content %}
-<h1 class="text-center">{{course.title}}</h1>
+<h1 class="text-center">
+    {{course.title}} {% if course.is_done %}<span class="done"></span>{% endif %}
+    <span class="float-end">
+        <div class="btn-group" role="group">
+            <button id="course-options" type="button" class="btn btn-outline-secondary btn-sm dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false"></button>
+            <ul class="dropdown-menu" aria-labelledby="course-options">
+                <li><a class="dropdown-item" href="{% url 'course-edit-page' course.id %}">Update</a></li>
+                <li><a class="dropdown-item" href="{{course.google_docs_link}}">Docs</a></li>
+                <li>
+                    <form action="{% url 'course-completed' %}" method="POST" class="dropdown-item pl-0">
+                        {% csrf_token %}
+                        <input type="number" name="cid" id="cid" value="{{course.id}}" hidden>
+                        <button type="submit" class="blank">
+                            {% if course.is_done %}
+                            Completed
+                            <span class="done"></span>
+                            {% else %}
+                            Completed ?
+                            {% endif %}
+                        </button>
+                    </form>
+                </li>
+                <li><a href="admin/myapp/course/{{course.id}}/change/" class="dropdown-item" target="_blank">Open In Admin</a></li>
+            </ul>
+        </div>
+    </span>
+</h1>
 <p class="lead">Last seen: <a href="{% url 'video-detail-page' last_seen.id %}">{{last_seen.title}}</a></p>
 
-<ol>
+<ul>
     {% for chapter in course.chapter_set.all %}
-        <li>
-            {{chapter.title}} <span><a href="{% url 'chapter-update-page' chapter.id %}"><i class="fa fa-pencil" aria-hidden="true"></i></a></span>
-            <ol>
+        <li class="chapter mb-3">
+            <span class="chapter-name">{{chapter.title}}</span> 
+            <span>
+                <a href="{% url 'chapter-update-page' chapter.id %}">
+                    <i class="fa fa-pencil" aria-hidden="true"></i>
+                </a>
+            </span>
+            {% if chapter.is_done %}
+                <span class="done"></span>
+            {% endif %}
+            <ul>
                 {% for video in chapter.video_set.all %}
-                    <li><a href="{% url 'video-detail-page' video.id %}">{{video.title}}</a></li>
+                    {% if video.type == 'video' %}
+                        {% if video.is_done %}
+                            <li class="video-item done lesson">
+                        {% else %}
+                            <li class="video-item lesson">
+                        {% endif %}
+                    {% else %}
+                        {% if video.is_visited %}
+                            <li class="resource-item done lesson">
+                        {% else %}
+                            <li class="resource-item lesson">
+                        {% endif %}
+                    {% endif %}
+                        <a href="{% url 'video-detail-page' video.id %}">{{video.title}}</a>
+                    </li>
                 {% endfor %}
-            </ol>
+            </ul>
         </li>
     {% endfor %}
-</ol>
+</ul>
 
-<a href="{% url 'course-edit-page' course.id %}">Update this course</a>
+<script>
+    var lis = document.querySelectorAll('li.lesson > a')
+    var convert = e => {
+        var newName = ''
+        var words = e.split(' ')
+        for(var i=1; i<words.length; i++){
+            newName = newName + words[i] + ' '
+        }
+        return newName
+    }
+    lis.forEach(li => {
+        li.textContent = convert(li.textContent)
+    })
+    var chapterNames = document.querySelectorAll('.chapter-name')
+    chapterNames.forEach(chapterName => {
+        chapterName.textContent = convert(chapterName.textContent)
+    })
+</script>
 
 {% endblock page_content %}
