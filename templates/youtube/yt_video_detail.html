@@ -1,0 +1,67 @@
+{% extends 'base.html' %}
+{% block page_title %} {{video.title}} | {{video.playlist.title}}| YouTube {% endblock page_title %}
+{% block youtube_active %} active {% endblock youtube_active %}
+{% block page_content %} 
+<h3 class="text-center mb-2">
+    <a href="{% url 'playlist-detail-page' video.playlist.id %}">
+        {{video.title}}
+        {% if video.is_done %}
+            <span class="done"></span>
+        {% endif %}
+    </a>
+    <span class="float-end">
+        <div class="btn-group" role="group">
+            <button id="yt-video-options" type="button" class="btn btn-outline-secondary dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false"></button>
+            <ul class="dropdown-menu" aria-labelledby="yt-video-options">
+            <li><a class="dropdown-item" href="/admin/youtube/ytvideo/{{video.id}}/change/" target="_blank">Open In Admin</a></li>
+            <li>
+                <form action="{% url 'yt-video-completed' %}" class="dropdown-item" method="POST">
+                    {% csrf_token %}
+                    <input type="number" name="vid" id="vid" value="{{video.id}}" hidden>
+                    <button class="blank" type="submit">
+                        {% if video.is_done %}
+                            Done <span class="done"></span>
+                        {% else %}
+                            Done ?
+                        {% endif %}
+                    </button>
+                </form>
+            </li>
+            </ul>
+        </div>
+    </span>
+</h3>
+<div class="d-flex justify-content-center align-items-center w-100" id="iframe-div">
+    <iframe src="https://www.youtube.com/embed/{{video.video_id}}" id="video-iframe" height="{{video.playlist.height}}"  width="{{video.playlist.width}}" frameborder="0"></iframe>
+</div>
+<div class="d-flex justify-content-around align-items-center w-100 my-3">
+    <div class="m-auto d-flex justify-content-between align-items-center" id="controls-div" style="width: {{video.playlist.width}}px;">
+        <a id="prev" href="{% if prev %} {% url 'yt-video-detail-page' prev.id %} {% else %} # {% endif %}" class="btn btn-secondary {% if prev %} {% else %} disabled {% endif %}"><i class="fa fa-chevron-left" aria-hidden="true"></i>&nbsp;Prev</a>
+        <a id="next" href="{% if next %} {% url 'yt-video-detail-page' next.id %} {% else %} # {% endif %}" class="btn btn-secondary {% if next %} {% else %} disabled {% endif %}">Next&nbsp;<i class="fa fa-chevron-right" aria-hidden="true"></i></a>
+    </div>
+</div>
+
+{% if video.playlist.google_docs_link %}
+    <iframe src="{{video.playlist.google_docs_link}}" class="w-100" height="800" frameborder="0"></iframe>
+{% endif %}
+
+<script>
+    window.onload = () => {
+        var iframe = document.querySelector('iframe#video-iframe')
+        var h = iframe.getAttribute('height')
+        var w = iframe.getAttribute('width')
+        var iframeDiv = document.querySelector('#iframe-div')
+        var ctrlsDiv = document.querySelector('#controls-div')
+        var availableWidth = iframeDiv.offsetWidth
+        var ratio = h/w 
+        var newWidth = availableWidth * 0.75
+        if(availableWidth<500){
+            newWidth = availableWidth
+        }
+        var newHeight = newWidth * ratio 
+        iframe.setAttribute('width', `${newWidth}px`)
+        iframe.setAttribute('height', `${newHeight}px`)
+        ctrlsDiv.setAttribute('style', `width:${newWidth}px;`)
+    }
+</script>
+{% endblock page_content %} 

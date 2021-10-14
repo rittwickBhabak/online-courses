@@ -1,0 +1,34 @@
+{% extends 'base.html' %}
+{% block page_title %} All Course From YouTube {% endblock page_title %}
+{% block youtube_active %} active {% endblock youtube_active %}
+{% block page_content %} 
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">Id</th>
+                <th scope="col">Course Name</th>
+                <th scope="col">Notes</th>
+                <th scope="col">Github</th>
+                <th scope="col">YouTube</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for playlist in playlists %}
+                <tr>
+                    <th>{{playlist.id}}</th>
+                    <td>
+                        <a href="{% url 'playlist-detail-page' playlist.id %}">
+                        {{playlist.title}} {% if playlist.is_done %} <span class="done"></span> {% endif %} 
+                        </a>
+                    </td>
+                    <td><a href="{% if playlist.google_docs_link %}{{playlist.google_docs_link}}{% endif %}" target="_blank">Notes</a></td>
+                    <td><a href="{% if playlist.github_link %}{{playlist.github_link}}{% endif %}" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a></td>
+                    <td><a href="{% if playlist.youtube_link %}{{playlist.youtube_link}}{% endif %}" target="_blank"><i class="fa fa-youtube" aria-hidden="true"></i></a></td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    <a href="{% url 'playlist-add-page' %}" class="btn btn-primary rounded-circle my-5" title="Add New Course"><i class="fa fa-plus" aria-hidden="true"></i></a>
+
+{% endblock page_content %}

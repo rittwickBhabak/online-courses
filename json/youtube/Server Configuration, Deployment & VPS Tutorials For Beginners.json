@@ -1,0 +1,54 @@
+{
+    "Configuring a non root user & firewall on a brand new Ubuntu 20.04 server": {
+        "index": 1,
+        "vid": "MdF6H0WAhSk"
+    },
+    "Uploading Files & PasswordLess Login on Ubuntu VPS": {
+        "index": 2,
+        "vid": "pMJ0_pj5IJI"
+    },
+    "Installing Linux, Apache, MySQL, PHP (LAMP) Stack on Ubuntu 20.04": {
+        "index": 3,
+        "vid": "zWTRNXmtVYM"
+    },
+    "How to Host Multiple Websites on One Server": {
+        "index": 4,
+        "vid": "BEGtS3XE6j4"
+    },
+    "How to install phpMyAdmin on Ubuntu?": {
+        "index": 5,
+        "vid": "NboJeJTRzic"
+    },
+    "How to enable HTTPs on Your Website in 2 minutes?": {
+        "index": 6,
+        "vid": "Wa2rnINf_tg"
+    },
+    "How to Open Remote Server directly in VS Code (in 2 mins)!": {
+        "index": 7,
+        "vid": "jVKw5njDpVc"
+    },
+    "How to install LEMP stack on Ubuntu VPS?": {
+        "index": 8,
+        "vid": "D4ou3geDstk"
+    },
+    "How to install phpMyAdmin on Nginx (in 5 minutes)": {
+        "index": 9,
+        "vid": "mCKKKGCyugM"
+    },
+    "How deploy a Django application using Nginx & Gunicorn in Production": {
+        "index": 10,
+        "vid": "tnJBalPzeAo"
+    },
+    "Install Ubuntu Full GUI Desktop on an Ubuntu VPS": {
+        "index": 11,
+        "vid": "pAczUF4aFxg"
+    },
+    "How to deploy Flask apps on Ubuntu VPS Using gunicorn and Ngnix": {
+        "index": 12,
+        "vid": "QxSHj_sldwc"
+    },
+    "How to Deploy NodeJs app on Ubuntu in Production": {
+        "index": 13,
+        "vid": "WUt7oi81oVY"
+    }
+}

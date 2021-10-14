@@ -1,0 +1,198 @@
+{
+    "Basics Of Computing - Soft Computing": {
+        "index": 1,
+        "vid": "8LdZMqcFEHs"
+    },
+    "Hard Computing - Soft Computing Course": {
+        "index": 2,
+        "vid": "WZh1rGQUFOw"
+    },
+    "Basics Of Soft Computing - Soft Computing Course": {
+        "index": 3,
+        "vid": "sMkgF2PzFY0"
+    },
+    "Soft Computing Tools / Paradigm : Fuzzy Logic, Neural Network, Evolutionary Computing Explained": {
+        "index": 4,
+        "vid": "GjKTJ9E-7RM"
+    },
+    "Hybrid Computing - Soft Computing Course": {
+        "index": 5,
+        "vid": "H7_hTwDbsV0"
+    },
+    "Hard Computing Vs Soft Computing - Soft Computing Course": {
+        "index": 6,
+        "vid": "OBFZPivcdqg"
+    },
+    "Basics Of Fuzzy Logic - Soft Computing Course": {
+        "index": 7,
+        "vid": "scIoh30WzIg"
+    },
+    "Crisp Logic Vs Fuzzy Logic - Soft Computing Course": {
+        "index": 8,
+        "vid": "p4V8qCd52sg"
+    },
+    "Crisp Set - Soft Computing Course": {
+        "index": 9,
+        "vid": "B_IYYUDj6mw"
+    },
+    "Fuzzy Set And Membership Function - Soft Computing Course with Examples": {
+        "index": 10,
+        "vid": "LZQzgql91AY"
+    },
+    "Features Of Membership Function - Soft Computing Course With Examples": {
+        "index": 11,
+        "vid": "kXVODwRNK94"
+    },
+    "Discrete And Continuous Membership Function - Soft Computing Course": {
+        "index": 12,
+        "vid": "1VuQgIZ5d_E"
+    },
+    "Fuzzy Set Operation : Union And Intersection - Soft Computing Course Explained with Example (Hindi)": {
+        "index": 13,
+        "vid": "sTKNYPhRpR0"
+    },
+    "Fuzzy Set Operation : Complement - Soft Computing Course Explained with Example": {
+        "index": 14,
+        "vid": "2UdIYpTjl-o"
+    },
+    "Fuzzy Set Operations : Vector Product,Scalar Product, Power And Equality Explained with Examples": {
+        "index": 15,
+        "vid": "_cFYIFl8cVo"
+    },
+    "Fuzzy Set Operations : Sum,Difference,Disjunctive Sum": {
+        "index": 16,
+        "vid": "ww5CS8mMj70"
+    },
+    "Fuzzy Set Operation : Cartesian Product Explained with Example": {
+        "index": 17,
+        "vid": "dk2lyZhH4nc"
+    },
+    "Fuzzy Set Properties - Soft Computing Course": {
+        "index": 18,
+        "vid": "yAG_To4DhDs"
+    },
+    "Crisp Relation - Soft Computing Course Explained with Examples": {
+        "index": 19,
+        "vid": "IYHh2POXX6o"
+    },
+    "Operation On Crisp Relation : Union,Intersection,Complement Explained with Examples": {
+        "index": 20,
+        "vid": "RoYWomLc1QU"
+    },
+    "Fuzzy Relation And It's Operations : Union,Intersection,Complement": {
+        "index": 21,
+        "vid": "dTdCptDpCO0"
+    },
+    "Fuzzy IF-THEN Rule / Fuzzy Implication - Soft Computing Course": {
+        "index": 22,
+        "vid": "yPZo40Nker4"
+    },
+    "Fuzzy IF-THEN Rule Explained with Example - Soft Computing Course": {
+        "index": 23,
+        "vid": "rLqI11p-Ci0"
+    },
+    "Fuzzification and Defuzzification - Soft Computing Course": {
+        "index": 24,
+        "vid": "_po4FxxE9c8"
+    },
+    "Lambda-Cut Method - Defuzzification Methodsll Soft Computing Course Explained with Example": {
+        "index": 25,
+        "vid": "ObwUk2pMjCU"
+    },
+    "Lambda-Cut Method On Fuzzy Relation - Defuzzification Technique - Soft Computing Course": {
+        "index": 26,
+        "vid": "sZ20eLTSUw4"
+    },
+    "Maxima Methods - Defuzzification Technique - Soft Computing Course Explained With Example": {
+        "index": 27,
+        "vid": "b4Yzwmes3mE"
+    },
+    "Weighted Average Method - Defuzzification Technique  Explained with Solved Example": {
+        "index": 28,
+        "vid": "BBBni--3yIM"
+    },
+    "Centroid Methods : Center Of Sum (COS) - Defuzzification Technique Explained with Solved Example": {
+        "index": 29,
+        "vid": "SCzCDK7UmJI"
+    },
+    "Centroid Methods : Center Of Gravity Method - Defuzzification Technique Explained with Examples": {
+        "index": 30,
+        "vid": "im8Tp68EadY"
+    },
+    "Truth Value and Tables in Fuzzy Logic - Soft Computing Course": {
+        "index": 31,
+        "vid": "wcw6raoHBRI"
+    },
+    "Fuzzy Proposition and Crisp Proposition - Soft Computing Course": {
+        "index": 32,
+        "vid": "UpOWN5doZbA"
+    },
+    "Decomposition Of Rules - Soft Computing Course": {
+        "index": 33,
+        "vid": "z7L4aoa5gI8"
+    },
+    "Aggregation Of Fuzzy Rules - Soft Computing Course": {
+        "index": 34,
+        "vid": "bviNOlLvM9g"
+    },
+    "Introduction To Genetic Algorithm": {
+        "index": 35,
+        "vid": "Q530u_g2CWE"
+    },
+    "Genetic Algorithm Explained With Flowchart": {
+        "index": 36,
+        "vid": "nas28_u-dJw"
+    },
+    "Simple Genetic Algorithm (SGA)  Explained With Flowchart": {
+        "index": 37,
+        "vid": "jLhFWNA029Y"
+    },
+    "Genetic Algorithm Vs Traditional Algorithm": {
+        "index": 38,
+        "vid": "ew0kqWuNpMo"
+    },
+    "Convergence Criteria / Termination Condition in Genetic Algorithm": {
+        "index": 39,
+        "vid": "lQz9oVot6fE"
+    },
+    "Encoding Technique : Binary Encoding in Genetic Algorithm Explained with Examples": {
+        "index": 40,
+        "vid": "2cPwk4fBAUA"
+    },
+    "Fitness Evaluation : Fitness Function / Objective Function Explained with Examples": {
+        "index": 41,
+        "vid": "6xsxHr6e0zY"
+    },
+    "Single Point Crossover, Two Point Crossover, MultiPoint Crossover Explained with Examples": {
+        "index": 42,
+        "vid": "BAii8Yqnrmw"
+    },
+    "Uniform Crossover with Crossover Mask Explained with Solved Example": {
+        "index": 43,
+        "vid": "Pa3cujzzFMw"
+    },
+    "Mutation in Genetic Algorithm - Mutation Techniques Explained with Examples": {
+        "index": 44,
+        "vid": "8yHacuE_wcA"
+    },
+    "Tournament Selection in Genetic Algorithm": {
+        "index": 45,
+        "vid": "DD_qDjt2Es4"
+    },
+    "Roulette Wheel Selection in Genetic Algorithm Explained with Example": {
+        "index": 46,
+        "vid": "rZBH3Z8N1Dc"
+    },
+    "Rank Based Selection in Genetic Algorithm Explained With Example": {
+        "index": 47,
+        "vid": "QX7D-dRgtW0"
+    },
+    "Particle Swarm Optimization (PSO) Algorithm Part-1": {
+        "index": 48,
+        "vid": "Rn1kcmG9AUU"
+    },
+    "Particle Swarm Optimization (PSO) Algorithm Part-2": {
+        "index": 49,
+        "vid": "efVwSGuK4J0"
+    }
+}

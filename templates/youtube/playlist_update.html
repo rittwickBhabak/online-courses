@@ -1,0 +1,33 @@
+{% extends 'base.html' %}
+{% block page_title %} All Playlist {% endblock page_title %}
+{% block youtube_active %} active {% endblock youtube_active %}
+{% block page_content %}
+<form>
+  <div class="mb-3">
+    <label for="title" class="form-label">Course Title</label>
+    <input type="text" class="form-control" placeholder="Enter Course Name" id="title" name="title">
+  </div>
+  <div class="mb-3">
+    <label for="github-link" class="form-label">Github Repository Link</label>
+    <input type="text" class="form-control"placeholder="Enter Github Link"  id="github-link" name="github-link">
+  </div>
+  <div class="mb-3">
+    <label for="github-link" class="form-label">View Full Playlist in YouTube</label>
+    <input type="text" class="form-control"placeholder="Enter YouTube Link"  id="youtube-link" name="youtube-link">
+  </div>
+  <div class="mb-3">
+    <label for="google-docs-link" class="form-label">Google Link</label>
+    <input type="text" class="form-control"placeholder="Enter Google Docs Link"  id="google-docs-link" name="google-docs-link">
+  </div>
+  <div class="mb-3">
+    <label for="youtube-videos" class="form-label">Enter Videos Info in JSON</label>
+    <textarea class="form-control" placeholder="Enter Videos Info in JSON" id="youtube-videos" rows="3" name="youtube-videos"></textarea>
+  </div>
+  <div class="mb-3 form-check">
+    <input type="checkbox" class="form-check-input" id="is-done" name="is-done">
+    <label class="form-check-label" for="is-done">Completed? </label>
+  </div>
+  <button type="submit" class="btn btn-primary">Add</button>
+</form>
+
+{% endblock page_content %}

@@ -1,0 +1,122 @@
+{
+    "System Design like never before | Launching System Design Course": {
+        "index": 1,
+        "vid": "fH5LPt-4Xi0"
+    },
+    "What is Scalability ? | Concurrency | Interaction rates | System Design Course": {
+        "index": 2,
+        "vid": "OjOUNhBE404"
+    },
+    "Horizontal vs Vertical Scalability | Single Server Configuration| Round-Robin DNS": {
+        "index": 3,
+        "vid": "r7X5U7jXXRw"
+    },
+    "Scalability | Scalability for Global Audience | geoDNS | Edge Cache | System Design Course": {
+        "index": 4,
+        "vid": "29gJ6BUpw0M"
+    },
+    "Data Center Infrastructure | Load Balancer | Front Line | System Design Course": {
+        "index": 5,
+        "vid": "pHuM3Sff6d4"
+    },
+    "Application Architecture | System Design Course": {
+        "index": 6,
+        "vid": "fb8sbz8Mw0I"
+    },
+    "Principles of Good Software Design | Simplicity | System Design Course": {
+        "index": 7,
+        "vid": "EqWzP5bbqCo"
+    },
+    "Principles of Good Software Design | Loose Coupling | System Design Course": {
+        "index": 8,
+        "vid": "qE73RrqRbRw"
+    },
+    "Principles of Good Software Design | Coding to Contract | System Design Course": {
+        "index": 10,
+        "vid": "u_WNQsDLstI"
+    },
+    "System Design | Use Case Diagrams| Class Diagrams | Module Diagrams": {
+        "index": 11,
+        "vid": "bhd4Wv-Iee4"
+    },
+    "System design - single responsibility": {
+        "index": 12,
+        "vid": "zF3BQ1ouFDQ"
+    },
+    "System design — open close systems": {
+        "index": 13,
+        "vid": "vfN-xyAc5Rk"
+    },
+    "System design — dependency injection": {
+        "index": 14,
+        "vid": "dUuJsLIzac0"
+    },
+    "System Design - Principles of Good Software Design | Inversion of Control": {
+        "index": 15,
+        "vid": "JvtIkeXSGaM"
+    },
+    "Scope of System Programming": {
+        "index": 16,
+        "vid": "OHlxztZywH4"
+    },
+    "System Design - Designing for Scale |  Ravindrababu Ravula": {
+        "index": 17,
+        "vid": "gu2LPr33HhQ"
+    },
+    "Principles of Good Software Design | Design for Self-Healing": {
+        "index": 18,
+        "vid": "NHkmkLSt08k"
+    },
+    "System Design | Building the Front-End Layer | Managing States | Managing HTTP session": {
+        "index": 19,
+        "vid": "388m8Xx-8FQ"
+    },
+    "System Design | Building the Front-End Layer | Managing Files": {
+        "index": 20,
+        "vid": "7CCG0WKve4M"
+    },
+    "System Design | Components of Scalable Front End | Load Balancer": {
+        "index": 21,
+        "vid": "S4D_vMQVMbg"
+    },
+    "System Design | Components of Scalable Front End | DNS": {
+        "index": 22,
+        "vid": "3C1TokzYTkE"
+    },
+    "System design | Components of Scalable Front End | Web Servers & Caching": {
+        "index": 23,
+        "vid": "Ck0dQQR8KbE"
+    },
+    "System Design | Deployment Examples | AWS Scenario | Private Data Center": {
+        "index": 24,
+        "vid": "B_tDdtxHog4"
+    },
+    "System Design | Web Services | API - First Approach | Pragmatic Approach": {
+        "index": 25,
+        "vid": "KVKQKtEPm7g"
+    },
+    "System Design - Types of Web Services | Function- Oriented Web Services | Resource-Centric Services": {
+        "index": 26,
+        "vid": "_1KLYNdVEX0"
+    },
+    "System Design - Scaling with MySQL": {
+        "index": 27,
+        "vid": "qTSDhr4LybQ"
+    },
+    "System Design | Scaling with MySQL | MySQL replication | Failures | L:26": {
+        "index": 28,
+        "vid": "oD60_Icotg0"
+    },
+    "System Design | Scaling with MySQL | Replication Challenges | L:27": {
+        "index": 29,
+        "vid": "TiqVAks_Dtc"
+    },
+    "System Design | Scaling with MySQL | Data Partitioning | Sharding | L:28": {
+        "index": 30,
+        "vid": "dwXQ_xpgjro"
+    },
+    "System Design | Scaling with MySQL | Challenges of Sharding | L:29": {
+        "index": 31,
+        "vid": "YBr2dX2LTAQ"
+    }
+}

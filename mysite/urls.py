@@ -22,4 +22,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('course/', include('myapp.urls')),
     path('', include('myapp.urls')),
+    path('youtube/', include('youtube.urls')),
 ] + static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)

@@ -1,0 +1,62 @@
+{% extends 'base.html' %}
+{% block page_title %} {{playlist.title}}| YouTube {% endblock page_title %}
+{% block youtube_active %} active {% endblock youtube_active %}
+{% block page_content %} 
+    <h1 class="text-center">
+        {{playlist.title}}
+        {% if playlist.is_done %}
+            <span class="done"></span>
+        {% endif %}
+        <span class="float-end">
+            <div class="btn-group" role="group">
+                <button id="playlist-options" type="button" class="btn btn-outline-secondary dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false"></button>
+                <ul class="dropdown-menu" aria-labelledby="playlist-options">
+                <li><a class="dropdown-item" href="/admin/youtube/playlist/{{playlist.id}}/change/" target="_blank">Open In Admin</a></li>
+                <li><a href="{{playlist.youtube_link}}" class="dropdown-item" target="_blank">YouTube</a></li>
+                {% if playlist.google_docs_link %}
+                    <li><a href="{{playlist.google_docs_link}}" class="dropdown-item">Docs</a></li>
+                {% endif %}
+                <li>
+                    <form action="{% url 'playlist-completed' %}" class="dropdown-item" method="POST">
+                        {% csrf_token %}
+                        <input type="number" name="pid" id="pid" value="{{playlist.id}}" hidden>
+                        <button class="blank" type="submit">
+                            {% if playlist.is_done %}
+                                Done <span class="done"></span>
+                            {% else %}
+                                Done ?
+                            {% endif %}
+                        </button>
+                    </form>
+                </li>
+                </ul>
+            </div>
+        </span>
+    </h1>
+    <ul>
+        {% for video in playlist.ytvideo_set.all %}
+            <li class="video-item">
+                <a href="{% url 'yt-video-detail-page' video.id %}">{{video.title}}</a>
+                {% if video.is_done %}
+                    <span class="done"></span>
+                {% endif %}
+            </li>
+        {% endfor %}
+    </ul>
+    <br><br><br>
+    <form action="{% url 'yt-video-add-page' %}" method="POST">
+        {% csrf_token %}
+        <p>Add New Video</p>
+        <div class="mb-3">
+            <label for="title" class="form-label">Email address</label>
+            <input type="text" class="form-control" id="title" name="title" placeholder="Enter Title" required>
+        </div>
+        <div class="mb-3">
+            <label for="vid" class="form-label">Email address</label>
+            <input type="text" class="form-control" id="vid" name="vid" placeholder="Enter YouTube Video ID" required>
+        </div>
+        <input type="number" name="pid" id="pid" value="{{playlist.id}}" hidden>
+        <input type="submit" value="Add New Video" class="btn btn-primary">
+    </form>
+
+{% endblock page_content %} 
