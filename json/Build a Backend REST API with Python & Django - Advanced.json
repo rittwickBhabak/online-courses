@@ -1,0 +1,1108 @@
+{
+    "1. Introduction": {
+        "link": "https://www.mediafire.com/folder/ru2y4sytod4id/1.+Introduction",
+        "slno": 1.0,
+        "videos": {
+            "1. Welcome to Build a Backend API with Django REST Framework - Advanced.mp4": {
+                "link": "https://www.mediafire.com/file/liu5l1wzpcszvis/1._Welcome_to_Build_a_Backend_API_with_Django_REST_Framework_-_Advanced.mp4/file",
+                "slno": 1.0
+            },
+            "2. Intro to the course.mp4": {
+                "link": "https://www.mediafire.com/file/kev24l1vrapjvde/2._Intro_to_the_course.mp4/file",
+                "slno": 2.0
+            },
+            "2.1 Finished project on GitHub.html": {
+                "link": "https://www.mediafire.com/file/p2kdaizrzcgwv1b/2.1_Finished_project_on_GitHub.html/file",
+                "slno": 2.1
+            },
+            "3. Course structure.mp4": {
+                "link": "https://www.mediafire.com/file/69e9zj97efe7j8h/3._Course_structure.mp4/file",
+                "slno": 3.0
+            },
+            "4. How to get the most out of this course.mp4": {
+                "link": "https://www.mediafire.com/file/yv1989epq9i1wpx/4._How_to_get_the_most_out_of_this_course.mp4/file",
+                "slno": 4.0
+            },
+            "5. How to get help.mp4": {
+                "link": "https://www.mediafire.com/file/gxfldjj0stkwmgd/5._How_to_get_help.mp4/file",
+                "slno": 5.0
+            },
+            "5.1 How to ask questions on Stack Overflow (and get answers!).html": {
+                "link": "https://www.mediafire.com/file/isf08imovftfeux/5.1_How_to_ask_questions_on_Stack_Overflow_%2528and_get_answers%2521%2529.html/file",
+                "slno": 5.1
+            },
+            "6. Windows 10 Home Workaround.html": {
+                "link": "https://www.mediafire.com/file/19lb8cvdwu3ysx9/6._Windows_10_Home_Workaround.html/file",
+                "slno": 6.0
+            }
+        }
+    },
+    "2. Technologies used in this course": {
+        "link": "https://www.mediafire.com/folder/f6wcabnz0cffp/2.+Technologies+used+in+this+course",
+        "slno": 2.0,
+        "videos": {
+            "1. Python.mp4": {
+                "link": "https://www.mediafire.com/file/792fexm1b875gb7/1._Python.mp4/file",
+                "slno": 1.0
+            },
+            "1.1 Django.html": {
+                "link": "https://www.mediafire.com/file/3fmfe5pra565dfq/1.1_Django.html/file",
+                "slno": 1.1
+            },
+            "1.2 Python.html": {
+                "link": "https://www.mediafire.com/file/4wrwri1n6e508yp/1.2_Python.html/file",
+                "slno": 1.2
+            },
+            "1.3 Django REST Framework.html": {
+                "link": "https://www.mediafire.com/file/kw9pmc28tr0bjnx/1.3_Django_REST_Framework.html/file",
+                "slno": 1.3
+            },
+            "1.4 Docker.html": {
+                "link": "https://www.mediafire.com/file/6vn8tqw5ws66p9q/1.4_Docker.html/file",
+                "slno": 1.4
+            },
+            "1.5 Travis-CI.html": {
+                "link": "https://www.mediafire.com/file/931wzr701pa494l/1.5_Travis-CI.html/file",
+                "slno": 1.5
+            },
+            "1.6 PostgreSQL.html": {
+                "link": "https://www.mediafire.com/file/c5kwgyxe6ng5txg/1.6_PostgreSQL.html/file",
+                "slno": 1.6
+            },
+            "2. Django.mp4": {
+                "link": "https://www.mediafire.com/file/w00ufmuz7su7p47/2._Django.mp4/file",
+                "slno": 2.0
+            },
+            "3. Django REST Framework.mp4": {
+                "link": "https://www.mediafire.com/file/t52rqbd7hl1kj6z/3._Django_REST_Framework.mp4/file",
+                "slno": 3.0
+            },
+            "4. Docker.mp4": {
+                "link": "https://www.mediafire.com/file/vht7lxtys7ybxew/4._Docker.mp4/file",
+                "slno": 4.0
+            },
+            "5. Travis-CI.mp4": {
+                "link": "https://www.mediafire.com/file/sc2gnef5zpywodi/5._Travis-CI.mp4/file",
+                "slno": 5.0
+            },
+            "6. Postgres.mp4": {
+                "link": "https://www.mediafire.com/file/ilpw4cqc8ef3rfh/6._Postgres.mp4/file",
+                "slno": 6.0
+            },
+            "7. What is test driven development.mp4": {
+                "link": "https://www.mediafire.com/file/xfgyct6fb9ug8qa/7._What_is_test_driven_development.mp4/file",
+                "slno": 7.0
+            }
+        }
+    },
+    "3. Installation and setup": {
+        "link": "https://www.mediafire.com/folder/doj0qs0m8qjmv/3.+Installation+and+setup",
+        "slno": 3.0,
+        "videos": {
+            "1. System setup.html": {
+                "link": "https://www.mediafire.com/file/urxy9a3zygqvdfo/1._System_setup.html/file",
+                "slno": 1.0
+            },
+            "2. Windows 10 Home Workaround.html": {
+                "link": "https://www.mediafire.com/file/wz5k6xkr1ned0ia/2._Windows_10_Home_Workaround.html/file",
+                "slno": 2.0
+            }
+        }
+    },
+    "4. Create new project": {
+        "link": "https://www.mediafire.com/folder/5xl99aco072mq/4.+Create+new+project",
+        "slno": 4.0,
+        "videos": {
+            "1. Setup new GitHub project.mp4": {
+                "link": "https://www.mediafire.com/file/8shmbcrhiqzpbi3/1._Setup_new_GitHub_project.mp4/file",
+                "slno": 1.0
+            },
+            "1.1 GitHub.html": {
+                "link": "https://www.mediafire.com/file/vd9c2dqotjdsbwx/1.1_GitHub.html/file",
+                "slno": 1.1
+            },
+            "1.2 Connecting to GitHub with SSH.html": {
+                "link": "https://www.mediafire.com/file/k5e7hg66nmli4oz/1.2_Connecting_to_GitHub_with_SSH.html/file",
+                "slno": 1.2
+            },
+            "2. Add Dockerfile.mp4": {
+                "link": "https://www.mediafire.com/file/0dbgk2d8nnx6fv0/2._Add_Dockerfile.mp4/file",
+                "slno": 2.0
+            },
+            "2.1 Dockerfile reference.html": {
+                "link": "https://www.mediafire.com/file/9zifi2jv0irpmr2/2.1_Dockerfile_reference.html/file",
+                "slno": 2.1
+            },
+            "2.2 Docker Hub.html": {
+                "link": "https://www.mediafire.com/file/mggzt72syv5bzs6/2.2_Docker_Hub.html/file",
+                "slno": 2.2
+            },
+            "2.3 CODE Dockerfile.html": {
+                "link": "https://www.mediafire.com/file/h316iibgewml17a/2.3_CODE_Dockerfile.html/file",
+                "slno": 2.3
+            },
+            "2.4 CODE requirements.txt.html": {
+                "link": "https://www.mediafire.com/file/r67b1kp4mbfmjk6/2.4_CODE_requirements.txt.html/file",
+                "slno": 2.4
+            },
+            "2.5 Python Package Index PyPi.html": {
+                "link": "https://www.mediafire.com/file/w6r1ybbj5c4c3bn/2.5_Python_Package_Index_PyPi.html/file",
+                "slno": 2.5
+            },
+            "3. Configure Docker Compose.mp4": {
+                "link": "https://www.mediafire.com/file/uq1ztkunjhtv757/3._Configure_Docker_Compose.mp4/file",
+                "slno": 3.0
+            },
+            "3.1 CODE docker-compose.yml.html": {
+                "link": "https://www.mediafire.com/file/u45ujkw7nq80qy7/3.1_CODE_docker-compose.yml.html/file",
+                "slno": 3.1
+            },
+            "3.2 Docker Compose.html": {
+                "link": "https://www.mediafire.com/file/mmnxn0eq3ndfc1j/3.2_Docker_Compose.html/file",
+                "slno": 3.2
+            },
+            "4. Custom configuration for Linux users.html": {
+                "link": "https://www.mediafire.com/file/jo2dt44oi7qopr7/4._Custom_configuration_for_Linux_users.html/file",
+                "slno": 4.0
+            },
+            "5. Create Django project.mp4": {
+                "link": "https://www.mediafire.com/file/bbz4mrusdi9m205/5._Create_Django_project.mp4/file",
+                "slno": 5.0
+            },
+            "5.1 Django startproject docs.html": {
+                "link": "https://www.mediafire.com/file/rs4gh2ri97ghlkn/5.1_Django_startproject_docs.html/file",
+                "slno": 5.1
+            },
+            "5.2 Docker compose run command reference.html": {
+                "link": "https://www.mediafire.com/file/hns1l4hqhkbh4vr/5.2_Docker_compose_run_command_reference.html/file",
+                "slno": 5.2
+            }
+        }
+    },
+    "5. Setup automation": {
+        "link": "https://www.mediafire.com/folder/8znnegfvfgoxx/5.+Setup+automation",
+        "slno": 5.0,
+        "videos": {
+            "1. Enable Travis-CI for project.mp4": {
+                "link": "https://www.mediafire.com/file/qqaeyt8k1uozrv7/1._Enable_Travis-CI_for_project.mp4/file",
+                "slno": 1.0
+            },
+            "1.1 Travis-CI.html": {
+                "link": "https://www.mediafire.com/file/di864x3bqtjkfo6/1.1_Travis-CI.html/file",
+                "slno": 1.1
+            },
+            "2. Create Travis-CI configuration file.mp4": {
+                "link": "https://www.mediafire.com/file/oulyktnuwnidrw0/2._Create_Travis-CI_configuration_file.mp4/file",
+                "slno": 2.0
+            },
+            "2.1 Travis-CI Tutorial.html": {
+                "link": "https://www.mediafire.com/file/ph7kuhcommonz0c/2.1_Travis-CI_Tutorial.html/file",
+                "slno": 2.1
+            },
+            "2.2 CODE requirements.txt.html": {
+                "link": "https://www.mediafire.com/file/bqi0tbf4vhagxjm/2.2_CODE_requirements.txt.html/file",
+                "slno": 2.2
+            },
+            "2.3 Python Flake8.html": {
+                "link": "https://www.mediafire.com/file/wmj41dbmju6zdkf/2.3_Python_Flake8.html/file",
+                "slno": 2.3
+            },
+            "2.4 CODE .flake8.html": {
+                "link": "https://www.mediafire.com/file/h8lozcpl6gkf43e/2.4_CODE_.flake8.html/file",
+                "slno": 2.4
+            },
+            "2.5 CODE .travis.yml.html": {
+                "link": "https://www.mediafire.com/file/rnlxl74h6mwad7i/2.5_CODE_.travis.yml.html/file",
+                "slno": 2.5
+            },
+            "3. Travis-CI.html": {
+                "link": "https://www.mediafire.com/file/2p3akog96dk1tpc/3._Travis-CI.html/file",
+                "slno": 3.0
+            }
+        }
+    },
+    "6. Introduction to test driven development (TDD)": {
+        "link": "https://www.mediafire.com/folder/qumk43gis3fje/6.+Introduction+to+test+driven+development+(TDD)",
+        "slno": 6.0,
+        "videos": {
+            "1. Writing a simple unit test.mp4": {
+                "link": "https://www.mediafire.com/file/u59mzt5tgrkm84m/1._Writing_a_simple_unit_test.mp4/file",
+                "slno": 1.0
+            },
+            "1.1 Django unit tests.html": {
+                "link": "https://www.mediafire.com/file/kz190x0f2f04qxy/1.1_Django_unit_tests.html/file",
+                "slno": 1.1
+            },
+            "1.2 CODE calc.py.html": {
+                "link": "https://www.mediafire.com/file/effsmezh790r1di/1.2_CODE_calc.py.html/file",
+                "slno": 1.2
+            },
+            "1.3 CODE tests.py.html": {
+                "link": "https://www.mediafire.com/file/sm15rhf6oq9d5nd/1.3_CODE_tests.py.html/file",
+                "slno": 1.3
+            },
+            "2. Writing a unit test with TDD.mp4": {
+                "link": "https://www.mediafire.com/file/kpue9mfbsf08ri3/2._Writing_a_unit_test_with_TDD.mp4/file",
+                "slno": 2.0
+            },
+            "2.1 unittest library assert statements.html": {
+                "link": "https://www.mediafire.com/file/okpgx407nqh2rug/2.1_unittest_library_assert_statements.html/file",
+                "slno": 2.1
+            },
+            "2.2 CODE tests.py.html": {
+                "link": "https://www.mediafire.com/file/r84g49atn9pmduy/2.2_CODE_tests.py.html/file",
+                "slno": 2.2
+            },
+            "2.3 Django manage.py test.html": {
+                "link": "https://www.mediafire.com/file/iouicnht60wezex/2.3_Django_manage.py_test.html/file",
+                "slno": 2.3
+            },
+            "2.4 CODE tests.py (before).html": {
+                "link": "https://www.mediafire.com/file/oqx5k1hclqpbx5r/2.4_CODE_tests.py_%2528before%2529.html/file",
+                "slno": 2.4
+            },
+            "2.5 CODE tests.py (after).html": {
+                "link": "https://www.mediafire.com/file/ffd0dly06oa0kh8/2.5_CODE_tests.py_%2528after%2529.html/file",
+                "slno": 2.5
+            },
+            "3. Django Unit Tests.html": {
+                "link": "https://www.mediafire.com/file/yslj4ih7phm46tl/3._Django_Unit_Tests.html/file",
+                "slno": 3.0
+            }
+        }
+    },
+    "7. Configure Django custom user model": {
+        "link": "https://www.mediafire.com/folder/wjml5c04v385k/7.+Configure+Django+custom+user+model",
+        "slno": 7.0,
+        "videos": {
+            "1. Create core app.mp4": {
+                "link": "https://www.mediafire.com/file/e9y114mrhyoofbu/1._Create_core_app.mp4/file",
+                "slno": 1.0
+            },
+            "1.1 Django manage.py startapp docs.html": {
+                "link": "https://www.mediafire.com/file/cl3mctaqwbttr3d/1.1_Django_manage.py_startapp_docs.html/file",
+                "slno": 1.1
+            },
+            "1.2 Django settings INSTALLED_APPS.html": {
+                "link": "https://www.mediafire.com/file/dbum2igt0dq8s4i/1.2_Django_settings_INSTALLED_APPS.html/file",
+                "slno": 1.2
+            },
+            "2. Add tests for custom user model.mp4": {
+                "link": "https://www.mediafire.com/file/occpaieytj4t2zd/2._Add_tests_for_custom_user_model.mp4/file",
+                "slno": 2.0
+            },
+            "2.1 Substituting a custom User model in Django.html": {
+                "link": "https://www.mediafire.com/file/tepmtf0pb5w5y7a/2.1_Substituting_a_custom_User_model_in_Django.html/file",
+                "slno": 2.1
+            },
+            "2.2 check_password() docs.html": {
+                "link": "https://www.mediafire.com/file/ns59lt7ypei61mk/2.2_check_password%2528%2529_docs.html/file",
+                "slno": 2.2
+            },
+            "2.3 get_user_model() docs.html": {
+                "link": "https://www.mediafire.com/file/7sjosazb3cilynf/2.3_get_user_model%2528%2529_docs.html/file",
+                "slno": 2.3
+            },
+            "2.4 CODE test_models.py.html": {
+                "link": "https://www.mediafire.com/file/tzzb7puwlm2cnqo/2.4_CODE_test_models.py.html/file",
+                "slno": 2.4
+            },
+            "3. Implement custom user model.mp4": {
+                "link": "https://www.mediafire.com/file/hxi3q637pe3e1fo/3._Implement_custom_user_model.mp4/file",
+                "slno": 3.0
+            },
+            "3.1 CODE models.py.html": {
+                "link": "https://www.mediafire.com/file/c3ce7jjwfn55ysq/3.1_CODE_models.py.html/file",
+                "slno": 3.1
+            },
+            "3.2 PermissionsMixin docs.html": {
+                "link": "https://www.mediafire.com/file/4ggjri9zxbn0iwu/3.2_PermissionsMixin_docs.html/file",
+                "slno": 3.2
+            },
+            "3.3 CODE settings.py.html": {
+                "link": "https://www.mediafire.com/file/hye182jg9jfjxg8/3.3_CODE_settings.py.html/file",
+                "slno": 3.3
+            },
+            "3.4 AbstractBaseUser docs.html": {
+                "link": "https://www.mediafire.com/file/iczeqrhi6gvqq89/3.4_AbstractBaseUser_docs.html/file",
+                "slno": 3.4
+            },
+            "3.5 BaseUserManager docs.html": {
+                "link": "https://www.mediafire.com/file/wv0hjiu02wyg0c7/3.5_BaseUserManager_docs.html/file",
+                "slno": 3.5
+            },
+            "4. Normalize email addresses.mp4": {
+                "link": "https://www.mediafire.com/file/8xzluoms0fe6cbl/4._Normalize_email_addresses.mp4/file",
+                "slno": 4.0
+            },
+            "4.1 CODE test_models.py.html": {
+                "link": "https://www.mediafire.com/file/hfermvvjctf89ri/4.1_CODE_test_models.py.html/file",
+                "slno": 4.1
+            },
+            "4.2 Django docs for normalize_email function.html": {
+                "link": "https://www.mediafire.com/file/57099m6gsfdlhvp/4.2_Django_docs_for_normalize_email_function.html/file",
+                "slno": 4.2
+            },
+            "4.3 CODE models.py.html": {
+                "link": "https://www.mediafire.com/file/20d0aj2bi8ji54n/4.3_CODE_models.py.html/file",
+                "slno": 4.3
+            },
+            "5. Add validation for email field.mp4": {
+                "link": "https://www.mediafire.com/file/avejyu640cwg7ye/5._Add_validation_for_email_field.mp4/file",
+                "slno": 5.0
+            },
+            "5.1 CODE test_models.py.html": {
+                "link": "https://www.mediafire.com/file/63v9gxf5nrupqi1/5.1_CODE_test_models.py.html/file",
+                "slno": 5.1
+            },
+            "5.2 CODE models.py.html": {
+                "link": "https://www.mediafire.com/file/vlwbnhq1sgctuz3/5.2_CODE_models.py.html/file",
+                "slno": 5.2
+            },
+            "6. Add support for creating superusers.mp4": {
+                "link": "https://www.mediafire.com/file/hshyurpm1pkidh5/6._Add_support_for_creating_superusers.mp4/file",
+                "slno": 6.0
+            },
+            "6.1 CODE models.py.html": {
+                "link": "https://www.mediafire.com/file/00yfbwo5kb25ypw/6.1_CODE_models.py.html/file",
+                "slno": 6.1
+            },
+            "6.2 CODE test_models.py.html": {
+                "link": "https://www.mediafire.com/file/mjqd3zubr06w2om/6.2_CODE_test_models.py.html/file",
+                "slno": 6.2
+            },
+            "6.3 Django manage.py createsuperuser docs.html": {
+                "link": "https://www.mediafire.com/file/qzxnltezmlcif6a/6.3_Django_manage.py_createsuperuser_docs.html/file",
+                "slno": 6.3
+            },
+            "7. Django custom user model.html": {
+                "link": "https://www.mediafire.com/file/nxeggtk91wjhz48/7._Django_custom_user_model.html/file",
+                "slno": 7.0
+            }
+        }
+    },
+    "8. Setup Django admin": {
+        "link": "https://www.mediafire.com/folder/g81x24vu7aees/8.+Setup+Django+admin",
+        "slno": 8.0,
+        "videos": {
+            "1. Add tests for listing users in Django admin.mp4": {
+                "link": "https://www.mediafire.com/file/fdatvikz3pmgj2e/1._Add_tests_for_listing_users_in_Django_admin.mp4/file",
+                "slno": 1.0
+            },
+            "1.1 Django test client docs.html": {
+                "link": "https://www.mediafire.com/file/pdvf51kbnc8pmn7/1.1_Django_test_client_docs.html/file",
+                "slno": 1.1
+            },
+            "1.2 CODE test_admin.py.html": {
+                "link": "https://www.mediafire.com/file/jkl5i4r6bxrf5jd/1.2_CODE_test_admin.py.html/file",
+                "slno": 1.2
+            },
+            "1.3 Django admin docs.html": {
+                "link": "https://www.mediafire.com/file/gkaxeratack30dk/1.3_Django_admin_docs.html/file",
+                "slno": 1.3
+            },
+            "2. Modify Django admin to list our custom user model.mp4": {
+                "link": "https://www.mediafire.com/file/7d5iau6v3mej6ui/2._Modify_Django_admin_to_list_our_custom_user_model.mp4/file",
+                "slno": 2.0
+            },
+            "2.1 CODE admin.py.html": {
+                "link": "https://www.mediafire.com/file/8riq20txyd2wec0/2.1_CODE_admin.py.html/file",
+                "slno": 2.1
+            },
+            "3. Modify Django admin to support changing user model.mp4": {
+                "link": "https://www.mediafire.com/file/dtjfy2b5a38rifk/3._Modify_Django_admin_to_support_changing_user_model.mp4/file",
+                "slno": 3.0
+            },
+            "3.1 CODE admin.py.html": {
+                "link": "https://www.mediafire.com/file/ujkonk36hp28iv7/3.1_CODE_admin.py.html/file",
+                "slno": 3.1
+            },
+            "3.2 CODE test_admin.py.html": {
+                "link": "https://www.mediafire.com/file/s7bq8o4rq7funl6/3.2_CODE_test_admin.py.html/file",
+                "slno": 3.2
+            },
+            "3.3 Django admin fieldsets.html": {
+                "link": "https://www.mediafire.com/file/6i5f0an4k5zebdg/3.3_Django_admin_fieldsets.html/file",
+                "slno": 3.3
+            },
+            "4. Modify Django admin to support creating users.mp4": {
+                "link": "https://www.mediafire.com/file/jsxdmzs9shh96em/4._Modify_Django_admin_to_support_creating_users.mp4/file",
+                "slno": 4.0
+            },
+            "4.1 CODE test_admin.py.html": {
+                "link": "https://www.mediafire.com/file/23kkqln6ij3jolu/4.1_CODE_test_admin.py.html/file",
+                "slno": 4.1
+            },
+            "4.2 CODE admin.py.html": {
+                "link": "https://www.mediafire.com/file/vjtks3cb2ecjlhx/4.2_CODE_admin.py.html/file",
+                "slno": 4.2
+            }
+        }
+    },
+    "9. Setting up database": {
+        "link": "https://www.mediafire.com/folder/fv2vyyonf8zr9/9.+Setting+up+database",
+        "slno": 9.0,
+        "videos": {
+            "1. Add postgres to docker compose.mp4": {
+                "link": "https://www.mediafire.com/file/vzpageh7z2o2dus/1._Add_postgres_to_docker_compose.mp4/file",
+                "slno": 1.0
+            },
+            "1.1 Environment variables in Docker Compose.html": {
+                "link": "https://www.mediafire.com/file/cnpgm479ywbgcy5/1.1_Environment_variables_in_Docker_Compose.html/file",
+                "slno": 1.1
+            },
+            "1.2 Docker Compose depends_on.html": {
+                "link": "https://www.mediafire.com/file/54ifaqwtnhcpxug/1.2_Docker_Compose_depends_on.html/file",
+                "slno": 1.2
+            },
+            "1.3 Postgres on Docker Hub.html": {
+                "link": "https://www.mediafire.com/file/ooj16tw3y5bbgtc/1.3_Postgres_on_Docker_Hub.html/file",
+                "slno": 1.3
+            },
+            "1.4 CODE docker-compose.yml.html": {
+                "link": "https://www.mediafire.com/file/y9986ykhr8v79bm/1.4_CODE_docker-compose.yml.html/file",
+                "slno": 1.4
+            },
+            "2. Add postgres support to Dockerfile.mp4": {
+                "link": "https://www.mediafire.com/file/8vsjvogrhy3grq4/2._Add_postgres_support_to_Dockerfile.mp4/file",
+                "slno": 2.0
+            },
+            "2.1 CODE Dockerfile.html": {
+                "link": "https://www.mediafire.com/file/5zum763aha5hsnv/2.1_CODE_Dockerfile.html/file",
+                "slno": 2.1
+            },
+            "2.2 psycopg2 on PyPi.html": {
+                "link": "https://www.mediafire.com/file/01ys6dytqhebxx4/2.2_psycopg2_on_PyPi.html/file",
+                "slno": 2.2
+            },
+            "2.3 Alpine Linux package management.html": {
+                "link": "https://www.mediafire.com/file/rjg8wqngxir575q/2.3_Alpine_Linux_package_management.html/file",
+                "slno": 2.3
+            },
+            "2.4 CODE requirements.txt.html": {
+                "link": "https://www.mediafire.com/file/wi8fn13e0pa32fz/2.4_CODE_requirements.txt.html/file",
+                "slno": 2.4
+            },
+            "3. Configure database in Django.mp4": {
+                "link": "https://www.mediafire.com/file/y9hnunngxcpaa8t/3._Configure_database_in_Django.mp4/file",
+                "slno": 3.0
+            },
+            "3.1 Python os.envion.html": {
+                "link": "https://www.mediafire.com/file/5r8farow6o94xdx/3.1_Python_os.envion.html/file",
+                "slno": 3.1
+            },
+            "3.2 Django DATABASES setting.html": {
+                "link": "https://www.mediafire.com/file/k7i2kf8u6ojtuxb/3.2_Django_DATABASES_setting.html/file",
+                "slno": 3.2
+            },
+            "3.3 CODE settings.py.html": {
+                "link": "https://www.mediafire.com/file/woxd6kbacqib9wx/3.3_CODE_settings.py.html/file",
+                "slno": 3.3
+            },
+            "3.4 Django PostgreSQL database notes.html": {
+                "link": "https://www.mediafire.com/file/52uxkdsf9zxrv6b/3.4_Django_PostgreSQL_database_notes.html/file",
+                "slno": 3.4
+            }
+        }
+    },
+    "10. Waiting for postgres to start": {
+        "link": "https://www.mediafire.com/folder/7b5wkeflgt23h/10.+Waiting+for+postgres+to+start",
+        "slno": 10.0,
+        "videos": {
+            "1. Mocking with unittests.mp4": {
+                "link": "https://www.mediafire.com/file/has6vdi2m2v7h9l/1._Mocking_with_unittests.mp4/file",
+                "slno": 1.0
+            },
+            "2. Add tests for wait_for_db command.mp4": {
+                "link": "https://www.mediafire.com/file/sq09664903synh7/2._Add_tests_for_wait_for_db_command.mp4/file",
+                "slno": 2.0
+            },
+            "2.1 Writing custom django-admin commands.html": {
+                "link": "https://www.mediafire.com/file/w5rcftvvq49fden/2.1_Writing_custom_django-admin_commands.html/file",
+                "slno": 2.1
+            },
+            "2.2 Django management call_command.html": {
+                "link": "https://www.mediafire.com/file/3iiqkdwkh4fyl49/2.2_Django_management_call_command.html/file",
+                "slno": 2.2
+            },
+            "2.3 CODE test_commands.py.html": {
+                "link": "https://www.mediafire.com/file/ym7vywccq5nnjy3/2.3_CODE_test_commands.py.html/file",
+                "slno": 2.3
+            },
+            "2.4 Stack Overflow question for unit testing wait_for_db command.html": {
+                "link": "https://www.mediafire.com/file/9w9jnqq580bje66/2.4_Stack_Overflow_question_for_unit_testing_wait_for_db_command.html/file",
+                "slno": 2.4
+            },
+            "2.5 GitHub Django code for connection handler.html": {
+                "link": "https://www.mediafire.com/file/b7789s9p1c3mo4z/2.5_GitHub_Django_code_for_connection_handler.html/file",
+                "slno": 2.5
+            },
+            "3. Add wait_for_db command.mp4": {
+                "link": "https://www.mediafire.com/file/os5zbrqlo0gofqj/3._Add_wait_for_db_command.mp4/file",
+                "slno": 3.0
+            },
+            "3.1 Writing custom django-admin commands.html": {
+                "link": "https://www.mediafire.com/file/fdp4es1v035d1ha/3.1_Writing_custom_django-admin_commands.html/file",
+                "slno": 3.1
+            },
+            "3.2 CODE wait_for_db.py.html": {
+                "link": "https://www.mediafire.com/file/chof56i8okfn1uk/3.2_CODE_wait_for_db.py.html/file",
+                "slno": 3.2
+            },
+            "4. Make docker compose wait for db.mp4": {
+                "link": "https://www.mediafire.com/file/hps8gvz7j51i13u/4._Make_docker_compose_wait_for_db.mp4/file",
+                "slno": 4.0
+            },
+            "4.1 CODE docker-compose.yml.html": {
+                "link": "https://www.mediafire.com/file/p6oucl091vxho82/4.1_CODE_docker-compose.yml.html/file",
+                "slno": 4.1
+            },
+            "5. Test in browser.mp4": {
+                "link": "https://www.mediafire.com/file/e5bjcqvlfdkfd9r/5._Test_in_browser.mp4/file",
+                "slno": 5.0
+            },
+            "6. Mocking.html": {
+                "link": "https://www.mediafire.com/file/zgd8ke6tjz95jrt/6._Mocking.html/file",
+                "slno": 6.0
+            }
+        }
+    },
+    "11. Create user management endpoints": {
+        "link": "https://www.mediafire.com/folder/i895cexmpdwql/11.+Create+user+management+endpoints",
+        "slno": 11.0,
+        "videos": {
+            "1. Create users app.mp4": {
+                "link": "https://www.mediafire.com/file/p8kj7xqs4e9m1b1/1._Create_users_app.mp4/file",
+                "slno": 1.0
+            },
+            "2. Add tests for create user API.mp4": {
+                "link": "https://www.mediafire.com/file/hs3qd9mkfrrnbvk/2._Add_tests_for_create_user_API.mp4/file",
+                "slno": 2.0
+            },
+            "2.1 get_user_model official documentation.html": {
+                "link": "https://www.mediafire.com/file/y2lgdksmzvyayro/2.1_get_user_model_official_documentation.html/file",
+                "slno": 2.1
+            },
+            "2.2 CODE test_user_api.py.html": {
+                "link": "https://www.mediafire.com/file/k8rkezul4estieo/2.2_CODE_test_user_api.py.html/file",
+                "slno": 2.2
+            },
+            "3. Add create user API.mp4": {
+                "link": "https://www.mediafire.com/file/9ggen5sylduemjn/3._Add_create_user_API.mp4/file",
+                "slno": 3.0
+            },
+            "3.1 CODE urls.py.html": {
+                "link": "https://www.mediafire.com/file/eevdxnlwrh9cbx3/3.1_CODE_urls.py.html/file",
+                "slno": 3.1
+            },
+            "3.2 CODE serializers.py.html": {
+                "link": "https://www.mediafire.com/file/lb69egnsnr9dq6h/3.2_CODE_serializers.py.html/file",
+                "slno": 3.2
+            },
+            "3.3 Django REST Framework ModelSerializer docs.html": {
+                "link": "https://www.mediafire.com/file/n279ql370yzt3dg/3.3_Django_REST_Framework_ModelSerializer_docs.html/file",
+                "slno": 3.3
+            },
+            "3.4 CODE views.py.html": {
+                "link": "https://www.mediafire.com/file/7votso8cc8bcwsi/3.4_CODE_views.py.html/file",
+                "slno": 3.4
+            },
+            "3.5 Django REST Framework CreateAPIView docs.html": {
+                "link": "https://www.mediafire.com/file/3teb4nv014igorv/3.5_Django_REST_Framework_CreateAPIView_docs.html/file",
+                "slno": 3.5
+            },
+            "4. Add tests for creating a new token.mp4": {
+                "link": "https://www.mediafire.com/file/edfbigv8silglsj/4._Add_tests_for_creating_a_new_token.mp4/file",
+                "slno": 4.0
+            },
+            "4.1 CODE test_user_api.py.html": {
+                "link": "https://www.mediafire.com/file/pzq7reg8thzljnu/4.1_CODE_test_user_api.py.html/file",
+                "slno": 4.1
+            },
+            "5. Add create token API.mp4": {
+                "link": "https://www.mediafire.com/file/jn63pz1pd8czia8/5._Add_create_token_API.mp4/file",
+                "slno": 5.0
+            },
+            "5.1 GitHub Django REST Framework AuthTokenSerializer.html": {
+                "link": "https://www.mediafire.com/file/ym0dwcf3wim7ndg/5.1_GitHub_Django_REST_Framework_AuthTokenSerializer.html/file",
+                "slno": 5.1
+            },
+            "5.2 CODE urls.py.html": {
+                "link": "https://www.mediafire.com/file/6410fczfcczbvhr/5.2_CODE_urls.py.html/file",
+                "slno": 5.2
+            },
+            "5.3 CODE serializers.py.html": {
+                "link": "https://www.mediafire.com/file/ex0o5c3ageujn1u/5.3_CODE_serializers.py.html/file",
+                "slno": 5.3
+            },
+            "5.4 Django REST Framework ObtainAuthToken.html": {
+                "link": "https://www.mediafire.com/file/cy49gafgt4c0eya/5.4_Django_REST_Framework_ObtainAuthToken.html/file",
+                "slno": 5.4
+            },
+            "5.5 CODE views.py.html": {
+                "link": "https://www.mediafire.com/file/bllsc2vvlp95w3k/5.5_CODE_views.py.html/file",
+                "slno": 5.5
+            },
+            "6. Add tests for manage user endpoint.mp4": {
+                "link": "https://www.mediafire.com/file/wme2mczvy9lenbz/6._Add_tests_for_manage_user_endpoint.mp4/file",
+                "slno": 6.0
+            },
+            "6.1 CODE test_user_api.py.html": {
+                "link": "https://www.mediafire.com/file/qbakezkpycyyzxm/6.1_CODE_test_user_api.py.html/file",
+                "slno": 6.1
+            },
+            "7. Add manage user endpoint.mp4": {
+                "link": "https://www.mediafire.com/file/zd0zfp9vzodnj0i/7._Add_manage_user_endpoint.mp4/file",
+                "slno": 7.0
+            },
+            "7.1 Django REST Framework RetrieveUpdateAPIView.html": {
+                "link": "https://www.mediafire.com/file/yc9snlx5eke7e5j/7.1_Django_REST_Framework_RetrieveUpdateAPIView.html/file",
+                "slno": 7.1
+            },
+            "7.2 CODE serializers.py.html": {
+                "link": "https://www.mediafire.com/file/enk6o0y3hvflhgd/7.2_CODE_serializers.py.html/file",
+                "slno": 7.2
+            },
+            "7.3 ModHeader.html": {
+                "link": "https://www.mediafire.com/file/nx6ezapvvlhduw0/7.3_ModHeader.html/file",
+                "slno": 7.3
+            },
+            "7.4 CODE urls.py.html": {
+                "link": "https://www.mediafire.com/file/9dzijmgr0iiqdx1/7.4_CODE_urls.py.html/file",
+                "slno": 7.4
+            },
+            "7.5 CODE views.py.html": {
+                "link": "https://www.mediafire.com/file/xnzgwnbxv4j6oue/7.5_CODE_views.py.html/file",
+                "slno": 7.5
+            }
+        }
+    },
+    "12. Create tags endpoint": {
+        "link": "https://www.mediafire.com/folder/xg8vc8qrqrcmx/12.+Create+tags+endpoint",
+        "slno": 12.0,
+        "videos": {
+            "1. Create recipe app.mp4": {
+                "link": "https://www.mediafire.com/file/8dizojkwgr7y5hs/1._Create_recipe_app.mp4/file",
+                "slno": 1.0
+            },
+            "2. Add tag model.mp4": {
+                "link": "https://www.mediafire.com/file/myaym73cdiwf16x/2._Add_tag_model.mp4/file",
+                "slno": 2.0
+            },
+            "2.1 Django model str.html": {
+                "link": "https://www.mediafire.com/file/92y2jq6nuj5hhvf/2.1_Django_model_str.html/file",
+                "slno": 2.1
+            },
+            "2.2 Django Admin Register.html": {
+                "link": "https://www.mediafire.com/file/21hvijrlaw67yt9/2.2_Django_Admin_Register.html/file",
+                "slno": 2.2
+            },
+            "2.3 CODE test_models.py.html": {
+                "link": "https://www.mediafire.com/file/2jpfhl841xb2f5h/2.3_CODE_test_models.py.html/file",
+                "slno": 2.3
+            },
+            "2.4 Django ForeignKey docs.html": {
+                "link": "https://www.mediafire.com/file/cjp6gaikrdw56jq/2.4_Django_ForeignKey_docs.html/file",
+                "slno": 2.4
+            },
+            "2.5 CODE models.py.html": {
+                "link": "https://www.mediafire.com/file/fclzlw2mc5iu24w/2.5_CODE_models.py.html/file",
+                "slno": 2.5
+            },
+            "2.6 Django ForeignKey on_delete docs.html": {
+                "link": "https://www.mediafire.com/file/dikjkimniq26vsm/2.6_Django_ForeignKey_on_delete_docs.html/file",
+                "slno": 2.6
+            },
+            "2.7 CODE admin.py.html": {
+                "link": "https://www.mediafire.com/file/gclahg72vqpr9v1/2.7_CODE_admin.py.html/file",
+                "slno": 2.7
+            },
+            "3. Add tests for listing tags.mp4": {
+                "link": "https://www.mediafire.com/file/664lpp2a0gxqa3o/3._Add_tests_for_listing_tags.mp4/file",
+                "slno": 3.0
+            },
+            "3.1 HTTP Status Codes.html": {
+                "link": "https://www.mediafire.com/file/5s0a4uswoc2cybn/3.1_HTTP_Status_Codes.html/file",
+                "slno": 3.1
+            },
+            "3.2 CODE test_tags_api.py.html": {
+                "link": "https://www.mediafire.com/file/rpz4brwiy2iz2j1/3.2_CODE_test_tags_api.py.html/file",
+                "slno": 3.2
+            },
+            "4. Add feature to list tags.txt": {
+                "link": "https://www.mediafire.com/file/1gxvunoheuoequh/4._Add_feature_to_list_tags.txt/file",
+                "slno": 4.0
+            },
+            "4. Add feature to list tags.mp4": {
+                "link": "https://www.mediafire.com/file/eyb0145ovbuddaw/4._Add_feature_to_list_tags.mp4/file",
+                "slno": 4.0
+            },
+            "4. Add feature to list tags.mp4.jpg": {
+                "link": "https://www.mediafire.com/view/2pxi3j7vla9spcd/4._Add_feature_to_list_tags.mp4.jpg/file",
+                "slno": 4.0
+            },
+            "4.1 Django REST Framework ModelSerializer.html": {
+                "link": "https://www.mediafire.com/file/5dx2edwi1n9odiy/4.1_Django_REST_Framework_ModelSerializer.html/file",
+                "slno": 4.1
+            },
+            "4.2 Django REST Framework GenericViewSet.html": {
+                "link": "https://www.mediafire.com/file/dh8zyglovf6iz2c/4.2_Django_REST_Framework_GenericViewSet.html/file",
+                "slno": 4.2
+            },
+            "4.3 CODE serializers.py.html": {
+                "link": "https://www.mediafire.com/file/cso3oz82w0oc30b/4.3_CODE_serializers.py.html/file",
+                "slno": 4.3
+            },
+            "4.4 CODE appurls.py.html": {
+                "link": "https://www.mediafire.com/file/dzhuv726s7hwi03/4.4_CODE_appurls.py.html/file",
+                "slno": 4.4
+            },
+            "4.5 CODE views.py.html": {
+                "link": "https://www.mediafire.com/file/66air5955lyzjbh/4.5_CODE_views.py.html/file",
+                "slno": 4.5
+            },
+            "4.6 CODE views.py.html": {
+                "link": "https://www.mediafire.com/file/ayjvw5v7r20iwhj/4.6_CODE_views.py.html/file",
+                "slno": 4.6
+            },
+            "4.7 CODE recipesurls.py.html": {
+                "link": "https://www.mediafire.com/file/hj5qju732lvbtun/4.7_CODE_recipesurls.py.html/file",
+                "slno": 4.7
+            },
+            "4.8 Django REST Framework Example of using GenericViewSet.html": {
+                "link": "https://www.mediafire.com/file/nx1rw03hnp5nhju/4.8_Django_REST_Framework_Example_of_using_GenericViewSet.html/file",
+                "slno": 4.8
+            },
+            "5. Add create tags feature.mp4": {
+                "link": "https://www.mediafire.com/file/su0y1kn43f8jemd/5._Add_create_tags_feature.mp4/file",
+                "slno": 5.0
+            },
+            "5.1 CODE test_tags_api.py.html": {
+                "link": "https://www.mediafire.com/file/52w4hgd7uvlccrx/5.1_CODE_test_tags_api.py.html/file",
+                "slno": 5.1
+            },
+            "5.2 CODE views.py.html": {
+                "link": "https://www.mediafire.com/file/znwf5ssyhp2tl1q/5.2_CODE_views.py.html/file",
+                "slno": 5.2
+            }
+        }
+    },
+    "13. Create ingredients endpoint": {
+        "link": "https://www.mediafire.com/folder/0mu8vrj76fp2c/13.+Create+ingredients+endpoint",
+        "slno": 13.0,
+        "videos": {
+            "1. Add ingredient model.mp4": {
+                "link": "https://www.mediafire.com/file/3bg2scw7wolx3ll/1._Add_ingredient_model.mp4/file",
+                "slno": 1.0
+            },
+            "1.1 CODE test_models.py.html": {
+                "link": "https://www.mediafire.com/file/1b4owqnkpc5o1x2/1.1_CODE_test_models.py.html/file",
+                "slno": 1.1
+            },
+            "1.2 CODE models.py.html": {
+                "link": "https://www.mediafire.com/file/3jck5o3awkurlnj/1.2_CODE_models.py.html/file",
+                "slno": 1.2
+            },
+            "1.3 CODE admin.py.html": {
+                "link": "https://www.mediafire.com/file/6dw0dbd0vh61ti1/1.3_CODE_admin.py.html/file",
+                "slno": 1.3
+            },
+            "2. Add tests for listing ingredients.mp4": {
+                "link": "https://www.mediafire.com/file/u63qxnu1d4gqhs2/2._Add_tests_for_listing_ingredients.mp4/file",
+                "slno": 2.0
+            },
+            "2.1 CODE test_ingredients_api.py.html": {
+                "link": "https://www.mediafire.com/file/gycif9eoks5qf1i/2.1_CODE_test_ingredients_api.py.html/file",
+                "slno": 2.1
+            },
+            "3. Implement feature for list ingredients.mp4": {
+                "link": "https://www.mediafire.com/file/beuukbn99p9vi3i/3._Implement_feature_for_list_ingredients.mp4/file",
+                "slno": 3.0
+            },
+            "3.1 CODE views.py.html": {
+                "link": "https://www.mediafire.com/file/is1qdbly53x4dj6/3.1_CODE_views.py.html/file",
+                "slno": 3.1
+            },
+            "3.2 CODE urls.py.html": {
+                "link": "https://www.mediafire.com/file/topilmej8670f8o/3.2_CODE_urls.py.html/file",
+                "slno": 3.2
+            },
+            "3.3 CODE serializers.py.html": {
+                "link": "https://www.mediafire.com/file/6x6pweunbcgffyi/3.3_CODE_serializers.py.html/file",
+                "slno": 3.3
+            },
+            "4. Implement feature for creating ingredients.mp4": {
+                "link": "https://www.mediafire.com/file/ljf0hkdo8cjfe56/4._Implement_feature_for_creating_ingredients.mp4/file",
+                "slno": 4.0
+            },
+            "4.1 CODE test_ingredients_api.py.html": {
+                "link": "https://www.mediafire.com/file/1vmkj36iyk37467/4.1_CODE_test_ingredients_api.py.html/file",
+                "slno": 4.1
+            },
+            "4.2 CODE views.py.html": {
+                "link": "https://www.mediafire.com/file/d5j3u5v9iur9957/4.2_CODE_views.py.html/file",
+                "slno": 4.2
+            },
+            "5. Re-factor tags and ingredients viewsets.mp4": {
+                "link": "https://www.mediafire.com/file/5fc9iqqpgbjqei2/5._Re-factor_tags_and_ingredients_viewsets.mp4/file",
+                "slno": 5.0
+            },
+            "5.1 CODE views.py.html": {
+                "link": "https://www.mediafire.com/file/au7o5hk9mcaqyq1/5.1_CODE_views.py.html/file",
+                "slno": 5.1
+            }
+        }
+    },
+    "14. Create recipe endpoint": {
+        "link": "https://www.mediafire.com/folder/x7amlz6i2dw5n/14.+Create+recipe+endpoint",
+        "slno": 14.0,
+        "videos": {
+            "1. Add recipe model.mp4": {
+                "link": "https://www.mediafire.com/file/cwozds0z4tu62aw/1._Add_recipe_model.mp4/file",
+                "slno": 1.0
+            },
+            "1.1 CODE test_models.py.html": {
+                "link": "https://www.mediafire.com/file/kvls14ofbhba4qp/1.1_CODE_test_models.py.html/file",
+                "slno": 1.1
+            },
+            "1.2 CODE models.py.html": {
+                "link": "https://www.mediafire.com/file/psuemod7go6g4ys/1.2_CODE_models.py.html/file",
+                "slno": 1.2
+            },
+            "1.3 Django ManyToManyField.html": {
+                "link": "https://www.mediafire.com/file/g4mjcpby2ah88dg/1.3_Django_ManyToManyField.html/file",
+                "slno": 1.3
+            },
+            "1.4 CODE admin.py.html": {
+                "link": "https://www.mediafire.com/file/tjtpimlc68kknxu/1.4_CODE_admin.py.html/file",
+                "slno": 1.4
+            },
+            "2. Add tests for listing recipes.mp4": {
+                "link": "https://www.mediafire.com/file/9kymq6fvv0267gr/2._Add_tests_for_listing_recipes.mp4/file",
+                "slno": 2.0
+            },
+            "2.1 CODE test_recipe_api.py.html": {
+                "link": "https://www.mediafire.com/file/u4o4wjpz4sxfjbb/2.1_CODE_test_recipe_api.py.html/file",
+                "slno": 2.1
+            },
+            "3. Implement feature for listing recipes.mp4": {
+                "link": "https://www.mediafire.com/file/hx7i8plxz3rqgpb/3._Implement_feature_for_listing_recipes.mp4/file",
+                "slno": 3.0
+            },
+            "3.1 Django REST Framework PrimaryKeyRelatedField.html": {
+                "link": "https://www.mediafire.com/file/i7qezw5x6jx9l7g/3.1_Django_REST_Framework_PrimaryKeyRelatedField.html/file",
+                "slno": 3.1
+            },
+            "3.2 CODE urls.py.html": {
+                "link": "https://www.mediafire.com/file/ko8s5kky3mtfcsh/3.2_CODE_urls.py.html/file",
+                "slno": 3.2
+            },
+            "3.3 CODE views.py.html": {
+                "link": "https://www.mediafire.com/file/jsno7gry1q6iyov/3.3_CODE_views.py.html/file",
+                "slno": 3.3
+            },
+            "3.4 CODE serializers.py.html": {
+                "link": "https://www.mediafire.com/file/97p6licq1q6ph14/3.4_CODE_serializers.py.html/file",
+                "slno": 3.4
+            },
+            "4. Add tests for retrieving recipe detail.mp4": {
+                "link": "https://www.mediafire.com/file/4pjqxg502yefiv4/4._Add_tests_for_retrieving_recipe_detail.mp4/file",
+                "slno": 4.0
+            },
+            "4.1 CODE test_recipe_api.py.html": {
+                "link": "https://www.mediafire.com/file/e3pp9jxd3jul4by/4.1_CODE_test_recipe_api.py.html/file",
+                "slno": 4.1
+            },
+            "5. Implement feature for retrieving recipe detail.mp4": {
+                "link": "https://www.mediafire.com/file/6z0a2n5zjbk73wb/5._Implement_feature_for_retrieving_recipe_detail.mp4/file",
+                "slno": 5.0
+            },
+            "5.1 CODE views.py.html": {
+                "link": "https://www.mediafire.com/file/twxy9ygit2mksa0/5.1_CODE_views.py.html/file",
+                "slno": 5.1
+            },
+            "5.2 CODE serializers.py.html": {
+                "link": "https://www.mediafire.com/file/h345tkz4ngdfuvq/5.2_CODE_serializers.py.html/file",
+                "slno": 5.2
+            },
+            "5.3 Django REST Framework get_serializer_class().html": {
+                "link": "https://www.mediafire.com/file/yz7y7xvuj0ypve9/5.3_Django_REST_Framework_get_serializer_class%2528%2529.html/file",
+                "slno": 5.3
+            },
+            "6. Add tests for creating recipes.mp4": {
+                "link": "https://www.mediafire.com/file/ksy2sw512hevv77/6._Add_tests_for_creating_recipes.mp4/file",
+                "slno": 6.0
+            },
+            "6.1 Python getattr docs.html": {
+                "link": "https://www.mediafire.com/file/ct369irwe3wcdby/6.1_Python_getattr_docs.html/file",
+                "slno": 6.1
+            },
+            "6.2 CODE test_recipe_api.py.html": {
+                "link": "https://www.mediafire.com/file/aabfociwcucyud5/6.2_CODE_test_recipe_api.py.html/file",
+                "slno": 6.2
+            },
+            "7. Implement feature for creating recipes.mp4": {
+                "link": "https://www.mediafire.com/file/84e2hfeb0x6bicq/7._Implement_feature_for_creating_recipes.mp4/file",
+                "slno": 7.0
+            },
+            "7.1 Django REST Framework assigning model items ot users.html": {
+                "link": "https://www.mediafire.com/file/jsy024zic6lex0x/7.1_Django_REST_Framework_assigning_model_items_ot_users.html/file",
+                "slno": 7.1
+            },
+            "7.2 CODE views.py.html": {
+                "link": "https://www.mediafire.com/file/a4g2k27swl26k4q/7.2_CODE_views.py.html/file",
+                "slno": 7.2
+            },
+            "8. Add tests for updating recipes.mp4": {
+                "link": "https://www.mediafire.com/file/0355k53ngqdbyp1/8._Add_tests_for_updating_recipes.mp4/file",
+                "slno": 8.0
+            },
+            "8.1 CODE test_recipe_api.py.html": {
+                "link": "https://www.mediafire.com/file/snagbkuqbvnri35/8.1_CODE_test_recipe_api.py.html/file",
+                "slno": 8.1
+            }
+        }
+    },
+    "15. Add upload image endpoint": {
+        "link": "https://www.mediafire.com/folder/ii704c1lbedmo/15.+Add+upload+image+endpoint",
+        "slno": 15.0,
+        "videos": {
+            "1. Add Pillow requirement.mp4": {
+                "link": "https://www.mediafire.com/file/oq7izzmd2doio36/1._Add_Pillow_requirement.mp4/file",
+                "slno": 1.0
+            },
+            "1.1 CODE urls.py.html": {
+                "link": "https://www.mediafire.com/file/hyq2pu9ndaf7idu/1.1_CODE_urls.py.html/file",
+                "slno": 1.1
+            },
+            "1.2 CODE Dockerfile.html": {
+                "link": "https://www.mediafire.com/file/qdltn2yxsfg3jie/1.2_CODE_Dockerfile.html/file",
+                "slno": 1.2
+            },
+            "1.3 Pillow.html": {
+                "link": "https://www.mediafire.com/file/79vnzbmjlfbaotw/1.3_Pillow.html/file",
+                "slno": 1.3
+            },
+            "1.4 CODE requirements.txt.html": {
+                "link": "https://www.mediafire.com/file/d6rx0jfzy14nivm/1.4_CODE_requirements.txt.html/file",
+                "slno": 1.4
+            },
+            "1.5 Django ImageField.html": {
+                "link": "https://www.mediafire.com/file/rm5z3srwtgz6tb2/1.5_Django_ImageField.html/file",
+                "slno": 1.5
+            },
+            "1.6 CODE settings.py.html": {
+                "link": "https://www.mediafire.com/file/j9878tnb3adxhlm/1.6_CODE_settings.py.html/file",
+                "slno": 1.6
+            },
+            "2. Modify recipe model.mp4": {
+                "link": "https://www.mediafire.com/file/zjdqy7qckdljafb/2._Modify_recipe_model.mp4/file",
+                "slno": 2.0
+            },
+            "2.1 Python uuid4.html": {
+                "link": "https://www.mediafire.com/file/1629m8f3cunuhnw/2.1_Python_uuid4.html/file",
+                "slno": 2.1
+            },
+            "2.2 CODE test_models.py.html": {
+                "link": "https://www.mediafire.com/file/qgac237y2mj6sh6/2.2_CODE_test_models.py.html/file",
+                "slno": 2.2
+            },
+            "2.3 Python FileField upload_to.html": {
+                "link": "https://www.mediafire.com/file/u6j8kjhjrhomf2j/2.3_Python_FileField_upload_to.html/file",
+                "slno": 2.3
+            },
+            "2.4 CODE models.py.html": {
+                "link": "https://www.mediafire.com/file/ghn3prs9x5wjo0t/2.4_CODE_models.py.html/file",
+                "slno": 2.4
+            },
+            "3. Add tests for uploading image to recipe.txt": {
+                "link": "https://www.mediafire.com/file/ois2x8lvvm63lw4/3._Add_tests_for_uploading_image_to_recipe.txt/file",
+                "slno": 3.0
+            },
+            "3. Add tests for uploading image to recipe.mp4": {
+                "link": "https://www.mediafire.com/file/152r2ib4acj7pvj/3._Add_tests_for_uploading_image_to_recipe.mp4/file",
+                "slno": 3.0
+            },
+            "3. Add tests for uploading image to recipe.mp4.jpg": {
+                "link": "https://www.mediafire.com/view/x57ge6ppbrggkrn/3._Add_tests_for_uploading_image_to_recipe.mp4.jpg/file",
+                "slno": 3
+            },
+            "3.1 Python NamedTemporaryFile.html": {
+                "link": "https://www.mediafire.com/file/fzneliew4vonor3/3.1_Python_NamedTemporaryFile.html/file",
+                "slno": 3.1
+            },
+            "3.2 CODE test_recipe_api.py.html": {
+                "link": "https://www.mediafire.com/file/218mgn899gmy69e/3.2_CODE_test_recipe_api.py.html/file",
+                "slno": 3.2
+            },
+            "4. Add feature to upload image.mp4": {
+                "link": "https://www.mediafire.com/file/prhzxjc03wzlns0/4._Add_feature_to_upload_image.mp4/file",
+                "slno": 4.0
+            },
+            "4.1 Django REST Framework adding action to viewset.html": {
+                "link": "https://www.mediafire.com/file/0b0cd3swmqr9klq/4.1_Django_REST_Framework_adding_action_to_viewset.html/file",
+                "slno": 4.1
+            },
+            "4.2 CODE serializers.py.html": {
+                "link": "https://www.mediafire.com/file/gf6lcqpvhh75jyr/4.2_CODE_serializers.py.html/file",
+                "slno": 4.2
+            },
+            "4.3 CODE views.py.html": {
+                "link": "https://www.mediafire.com/file/63d7ka7m17p96b8/4.3_CODE_views.py.html/file",
+                "slno": 4.3
+            }
+        }
+    },
+    "16. Add filtering": {
+        "link": "https://www.mediafire.com/folder/ik34aj37gcz7k/16.+Add+filtering",
+        "slno": 16.0,
+        "videos": {
+            "1. Add tests for filtering recipes.mp4": {
+                "link": "https://www.mediafire.com/file/br6b021mgziut13/1._Add_tests_for_filtering_recipes.mp4/file",
+                "slno": 1.0
+            },
+            "1.1 CODE test_recipe_api.py.html": {
+                "link": "https://www.mediafire.com/file/c7qxwjq7wl5wugh/1.1_CODE_test_recipe_api.py.html/file",
+                "slno": 1.1
+            },
+            "2. Implement feature to filter recipes.mp4": {
+                "link": "https://www.mediafire.com/file/ep4bz40fenjuzm2/2._Implement_feature_to_filter_recipes.mp4/file",
+                "slno": 2.0
+            },
+            "2.1 CODE views.py.html": {
+                "link": "https://www.mediafire.com/file/tg9md1d37we925f/2.1_CODE_views.py.html/file",
+                "slno": 2.1
+            },
+            "3. Add tests for filtering tags and ingredients.mp4": {
+                "link": "https://www.mediafire.com/file/c1s9rwovadjti9g/3._Add_tests_for_filtering_tags_and_ingredients.mp4/file",
+                "slno": 3.0
+            },
+            "3.1 CODE test_tags_api.py.html": {
+                "link": "https://www.mediafire.com/file/krgheky1fq5xzw9/3.1_CODE_test_tags_api.py.html/file",
+                "slno": 3.1
+            },
+            "3.2 CODE test_ingredients_api.py.html": {
+                "link": "https://www.mediafire.com/file/8inqgw449jfvm7r/3.2_CODE_test_ingredients_api.py.html/file",
+                "slno": 3.2
+            },
+            "4. Implement feature for filtering tags and ingredients.mp4": {
+                "link": "https://www.mediafire.com/file/72lnwkhj4aaz78z/4._Implement_feature_for_filtering_tags_and_ingredients.mp4/file",
+                "slno": 4.0
+            },
+            "4.1 CODE views.py.html": {
+                "link": "https://www.mediafire.com/file/gtlgvwakc3ib3qd/4.1_CODE_views.py.html/file",
+                "slno": 4.1
+            }
+        }
+    },
+    "17. Summary": {
+        "link": "https://www.mediafire.com/folder/clr0kkuhkqhre/17.+Summary",
+        "slno": 17.0,
+        "videos": {
+            "1. What was covered in this course.mp4": {
+                "link": "https://www.mediafire.com/file/oj05s8b3a5tbg2q/1._What_was_covered_in_this_course.mp4/file",
+                "slno": 1.0
+            }
+        }
+    }
+}

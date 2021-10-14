@@ -1,0 +1,569 @@
+{
+    "14. Python - Level One": {
+        "link": "https://www.mediafire.com/folder/6d2r1izt1z75g/14.+Python+-+Level+One",
+        "slno": 14.0,
+        "videos": {
+            "14.1 Introduction to Python Level One.mp4": {
+                "link": "https://www.mediafire.com/file/ssen1ryl2hka7oa/14.1_Introduction_to_Python_Level_One.mp4/file",
+                "slno": 14.1
+            },
+            "14.2 Python Installation and Set-Up.mp4": {
+                "link": "https://www.mediafire.com/file/nn55aq4116h6gwq/14.2_Python_Installation_and_Set-Up.mp4/file",
+                "slno": 14.2
+            },
+            "14.3 Part One Numbers.mp4": {
+                "link": "https://www.mediafire.com/file/2vhsm297immjfit/14.3_Part_One_Numbers.mp4/file",
+                "slno": 14.3
+            },
+            "14.4 Part Two Strings.mp4": {
+                "link": "https://www.mediafire.com/file/2chkesyih71e1p1/14.4_Part_Two_Strings.mp4/file",
+                "slno": 14.4
+            },
+            "14.5 Part Four Lists.mp4": {
+                "link": "https://www.mediafire.com/file/ug03lldn1mu0eks/14.5_Part_Four_Lists.mp4/file",
+                "slno": 14.5
+            },
+            "14.6 Part Four Dictionaries.mp4": {
+                "link": "https://www.mediafire.com/file/yi3znt5kgg6el0k/14.6_Part_Four_Dictionaries.mp4/file",
+                "slno": 14.6
+            },
+            "14.7 Part 5 - Tuples, Sets, and Booleans.mp4": {
+                "link": "https://www.mediafire.com/file/rhm6yrqez3f6kgu/14.7_Part_5_-_Tuples%252C_Sets%252C_and_Booleans.mp4/file",
+                "slno": 14.7
+            },
+            "14.8 Part - 6 Exercise Overview.mp4": {
+                "link": "https://www.mediafire.com/file/glluyx0dblok5s6/14.8_Part_-_6_Exercise_Overview.mp4/file",
+                "slno": 14.8
+            },
+            "14.9 Part - 6 Exercise Solutions.mp4": {
+                "link": "https://www.mediafire.com/file/jcfu35s9jfkqval/14.9_Part_-_6_Exercise_Solutions.mp4/file",
+                "slno": 14.9
+            },
+            "14.10 Part 7 - Control Flow.mp4": {
+                "link": "https://www.mediafire.com/file/5vngp3fpw1z3nbk/14.10_Part_7_-_Control_Flow.mp4/file",
+                "slno": 14.1
+            },
+            "14.11 Part Eight Functions.mp4": {
+                "link": "https://www.mediafire.com/file/cunoyfuvjub94k2/14.11_Part_Eight_Functions.mp4/file",
+                "slno": 14.11
+            },
+            "14.12 Part Nine Functions Exercises.mp4": {
+                "link": "https://www.mediafire.com/file/6utzv05djvnqhj7/14.12_Part_Nine_Functions_Exercises.mp4/file",
+                "slno": 14.12
+            },
+            "14.13 Function Exercise Solutions.mp4": {
+                "link": "https://www.mediafire.com/file/94lxnywlhpv150d/14.13_Function_Exercise_Solutions.mp4/file",
+                "slno": 14.13
+            },
+            "14.14 Part Ten Simple Game Project Overview.mp4": {
+                "link": "https://www.mediafire.com/file/puvf59dtig9d63b/14.14_Part_Ten_Simple_Game_Project_Overview.mp4/file",
+                "slno": 14.14
+            },
+            "14.15 Simple Game Project Solutions.mp4": {
+                "link": "https://www.mediafire.com/file/tkee3kg4fzjp8nw/14.15_Simple_Game_Project_Solutions.mp4/file",
+                "slno": 14.15
+            }
+        }
+    },
+    "15. Python - Level Two": {
+        "link": "https://www.mediafire.com/folder/lp1is0sdbcyx6/15.+Python+-+Level+Two",
+        "slno": 15.0,
+        "videos": {
+            "15.1 Introduction to Python Level Two.mp4": {
+                "link": "https://www.mediafire.com/file/xn80cproz1ce37l/15.1_Introduction_to_Python_Level_Two.mp4/file",
+                "slno": 15.1
+            },
+            "15.2 Scope.mp4": {
+                "link": "https://www.mediafire.com/file/5kmt5cd1cfcatvp/15.2_Scope.mp4/file",
+                "slno": 15.2
+            },
+            "15.3 Object Oriented Programming - Part One.mp4": {
+                "link": "https://www.mediafire.com/file/n21bg48qb6ax8vl/15.3_Object_Oriented_Programming_-_Part_One.mp4/file",
+                "slno": 15.3
+            },
+            "15.4 Object Oriented Programming - Part Two.mp4": {
+                "link": "https://www.mediafire.com/file/zzsdd3v5mvr441y/15.4_Object_Oriented_Programming_-_Part_Two.mp4/file",
+                "slno": 15.4
+            },
+            "15.5 Object Oriented Programming - Part Three.mp4": {
+                "link": "https://www.mediafire.com/file/zqhpm0xu0i9pl31/15.5_Object_Oriented_Programming_-_Part_Three.mp4/file",
+                "slno": 15.5
+            },
+            "15.6 OOP Project.mp4": {
+                "link": "https://www.mediafire.com/file/vtxdvghu3l1om0d/15.6_OOP_Project.mp4/file",
+                "slno": 15.6
+            },
+            "15.7 OOP Project Solutions.mp4": {
+                "link": "https://www.mediafire.com/file/d2qns9qesz350zj/15.7_OOP_Project_Solutions.mp4/file",
+                "slno": 15.7
+            },
+            "15.8 Errors and Exceptions.mp4": {
+                "link": "https://www.mediafire.com/file/qle5qzgsbgtfagn/15.8_Errors_and_Exceptions.mp4/file",
+                "slno": 15.8
+            },
+            "15.9 Regular Expressions.mp4": {
+                "link": "https://www.mediafire.com/file/a8dq2y2nyoh60yu/15.9_Regular_Expressions.mp4/file",
+                "slno": 15.9
+            },
+            "15.10 Modules and Packages.mp4": {
+                "link": "https://www.mediafire.com/file/81v8ykl68qsxl0f/15.10_Modules_and_Packages.mp4/file",
+                "slno": 15.1
+            },
+            "15.11 Decortors.mp4": {
+                "link": "https://www.mediafire.com/file/dv61jjcg9ugc8vq/15.11_Decortors.mp4/file",
+                "slno": 15.11
+            },
+            "15.12 Name and Main.mp4": {
+                "link": "https://www.mediafire.com/file/5g3s2l6dvjb1bgw/15.12_Name_and_Main.mp4/file",
+                "slno": 15.12
+            }
+            
+        }
+    },
+    "16. Django Level One - Basics": {
+        "link": "https://www.mediafire.com/folder/rzl80cps7l0or/16.+Django+Level+One+-+Basics",
+        "slno": 16.0,
+        "videos": {
+            "1. Django Level One - Part One - Django Setup.mp4": {
+                "link": "https://www.mediafire.com/file/qf8jf65bxmgelc2/1._Django_Level_One_-_Part_One_-_Django_Setup.mp4/file",
+                "slno": 1.0
+            },
+            "1.1 Django Level One Slides.html": {
+                "link": "https://www.mediafire.com/file/bqrzk5sr0murqnb/1.1_Django_Level_One_Slides.html/file",
+                "slno": 1.1
+            },
+            "2. Django Level One - Part Two - Django Project.mp4": {
+                "link": "https://www.mediafire.com/file/t63t1aykkaqogim/2._Django_Level_One_-_Part_Two_-_Django_Project.mp4/file",
+                "slno": 2.0
+            },
+            "3. Django Level One - Part Three - Django Application.mp4": {
+                "link": "https://www.mediafire.com/file/ht2cp6ou4ss4eln/3._Django_Level_One_-_Part_Three_-_Django_Application.mp4/file",
+                "slno": 3.0
+            },
+            "4. Django Level One - Part Four - Challenge Task.mp4": {
+                "link": "https://www.mediafire.com/file/uhkhm49nvndsw08/4._Django_Level_One_-_Part_Four_-_Challenge_Task.mp4/file",
+                "slno": 4.0
+            },
+            "5. Django Level One - Part Five - Challenge Solutions.mp4": {
+                "link": "https://www.mediafire.com/file/xjjfxf2p3zx74bz/5._Django_Level_One_-_Part_Five_-_Challenge_Solutions.mp4/file",
+                "slno": 5.0
+            },
+            "6. Django Level One - Part Six - URL Mappings.mp4": {
+                "link": "https://www.mediafire.com/file/9oeue1fyyglm7s2/6._Django_Level_One_-_Part_Six_-_URL_Mappings.mp4/file",
+                "slno": 6.0
+            },
+            "7. Django Level One - Part Seven - Templates.mp4": {
+                "link": "https://www.mediafire.com/file/l58uo38p8bt3y5g/7._Django_Level_One_-_Part_Seven_-_Templates.mp4/file",
+                "slno": 7.0
+            },
+            "8. Django Level One - Part Eight Templates Challenge.mp4": {
+                "link": "https://www.mediafire.com/file/eu7pvu9ah99bguo/8._Django_Level_One_-_Part_Eight_Templates_Challenge.mp4/file",
+                "slno": 8.0
+            },
+            "9. Django Level One - Part Nine - Templates Solutions.mp4": {
+                "link": "https://www.mediafire.com/file/1pfbst5bclr85dg/9._Django_Level_One_-_Part_Nine_-_Templates_Solutions.mp4/file",
+                "slno": 9.0
+            },
+            "10. Django Level One - Part Ten - Static Files.mp4": {
+                "link": "https://www.mediafire.com/file/t1ua660r7dnpdvw/10._Django_Level_One_-_Part_Ten_-_Static_Files.mp4/file",
+                "slno": 10.0
+            }
+        }
+    },
+    "17. Django Level Two": {
+        "link": "https://www.mediafire.com/folder/5qllj01ssad0x/17.+Django+Level+Two",
+        "slno": 17.0,
+        "videos": {
+            "1. Introduction to Django Level Two.mp4": {
+                "link": "https://www.mediafire.com/file/b10c12apimksvvi/1._Introduction_to_Django_Level_Two.mp4/file",
+                "slno": 1.0
+            },
+            "1.1 Django Level Two Slides.html": {
+                "link": "https://www.mediafire.com/file/c43rgzlfhs38hyq/1.1_Django_Level_Two_Slides.html/file",
+                "slno": 1.1
+            },
+            "2. Django Models Overview.mp4": {
+                "link": "https://www.mediafire.com/file/ioociwepr9xfldd/2._Django_Models_Overview.mp4/file",
+                "slno": 2.0
+            },
+            "3. Creating Models.mp4": {
+                "link": "https://www.mediafire.com/file/s5p6t3ozznxzagu/3._Creating_Models.mp4/file",
+                "slno": 3.0
+            },
+            "4. Population Scripts.mp4": {
+                "link": "https://www.mediafire.com/file/jp50n4lxxbagf2z/4._Population_Scripts.mp4/file",
+                "slno": 4.0
+            },
+            "5. Models-Templates-Views Paradigm.mp4": {
+                "link": "https://www.mediafire.com/file/okrf5lpf800ji7n/5._Models-Templates-Views_Paradigm.mp4/file",
+                "slno": 5.0
+            },
+            "6. Django Level Two Project Exercise.mp4": {
+                "link": "https://www.mediafire.com/file/gqly4vch9n19et7/6._Django_Level_Two_Project_Exercise.mp4/file",
+                "slno": 6.0
+            },
+            "7. Django Level Two Project Solutions.mp4": {
+                "link": "https://www.mediafire.com/file/n3fpbsig3btqro6/7._Django_Level_Two_Project_Solutions.mp4/file",
+                "slno": 7.0
+            }
+        }
+    },
+    "18. Django Level Three": {
+        "link": "https://www.mediafire.com/folder/95ue3dw8lb3td/18.+Django+Level+Three",
+        "slno": 18.0,
+        "videos": {
+            "1. Introduction to Django Level Three.mp4": {
+                "link": "https://www.mediafire.com/file/iklkmw6lgjjyvoj/1._Introduction_to_Django_Level_Three.mp4/file",
+                "slno": 1.0
+            },
+            "1.1 Django Level Three Slides.html": {
+                "link": "https://www.mediafire.com/file/u32n516n5ndxfu0/1.1_Django_Level_Three_Slides.html/file",
+                "slno": 1.1
+            },
+            "2. Django Forms.mp4": {
+                "link": "https://www.mediafire.com/file/e92nk0u41pdqyhk/2._Django_Forms.mp4/file",
+                "slno": 2.0
+            },
+            "3. Form Basics Code Along.mp4": {
+                "link": "https://www.mediafire.com/file/blp1vzpwhcsuhp8/3._Form_Basics_Code_Along.mp4/file",
+                "slno": 3.0
+            },
+            "4. Form Validation.mp4": {
+                "link": "https://www.mediafire.com/file/xo7phhzsg2uwjy3/4._Form_Validation.mp4/file",
+                "slno": 4.0
+            },
+            "5. Model Forms.mp4": {
+                "link": "https://www.mediafire.com/file/5w34t7ofcae9cyh/5._Model_Forms.mp4/file",
+                "slno": 5.0
+            },
+            "6. Model Forms Exercise.mp4": {
+                "link": "https://www.mediafire.com/file/6derstpfcplevc3/6._Model_Forms_Exercise.mp4/file",
+                "slno": 6.0
+            }
+        }
+    },
+    "19. Django Level Four": {
+        "link": "https://www.mediafire.com/folder/uial1m58lm7j5/19.+Django+Level+Four",
+        "slno": 19.0,
+        "videos": {
+            "1. Introduction to Django Level Four.mp4": {
+                "link": "https://www.mediafire.com/file/ehm75zbq0rga9q4/1._Introduction_to_Django_Level_Four.mp4/file",
+                "slno": 1.0
+            },
+            "1.1 Django Level Four Slides.html": {
+                "link": "https://www.mediafire.com/file/adny1msd0uepr9m/1.1_Django_Level_Four_Slides.html/file",
+                "slno": 1.1
+            },
+            "2. Relative URLs with Templates.mp4": {
+                "link": "https://www.mediafire.com/file/nni6u1odlr62q0p/2._Relative_URLs_with_Templates.mp4/file",
+                "slno": 2.0
+            },
+            "3. Relative URLs Coding Examples.mp4": {
+                "link": "https://www.mediafire.com/file/0fpt6l6jkm0hwjn/3._Relative_URLs_Coding_Examples.mp4/file",
+                "slno": 3.0
+            },
+            "4. URL Template Inheritance.mp4": {
+                "link": "https://www.mediafire.com/file/ypod6av9l1ad5w4/4._URL_Template_Inheritance.mp4/file",
+                "slno": 4.0
+            },
+            "5. Template Inheritance Coding Example.mp4": {
+                "link": "https://www.mediafire.com/file/tivn498qyerxial/5._Template_Inheritance_Coding_Example.mp4/file",
+                "slno": 5.0
+            },
+            "6. Quick Note on Custom Template Filters.html": {
+                "link": "https://www.mediafire.com/file/09cej5h09dlo763/6._Quick_Note_on_Custom_Template_Filters.html/file",
+                "slno": 6.0
+            },
+            "7. Template Filters and Custom Filters.mp4": {
+                "link": "https://www.mediafire.com/file/e390vriuoqa7ghu/7._Template_Filters_and_Custom_Filters.mp4/file",
+                "slno": 7.0
+            },
+            "8. Template Filters Coding Examples.mp4": {
+                "link": "https://www.mediafire.com/file/9nc24mvxxli6fpm/8._Template_Filters_Coding_Examples.mp4/file",
+                "slno": 8.0
+            }
+        }
+    },
+    "20. Django Level Five": {
+        "link": "https://www.mediafire.com/folder/h0wg1yhakc81k/20.+Django+Level+Five",
+        "slno": 20.0,
+        "videos": {
+            "1. Introduction to Django Level Five.mp4": {
+                "link": "https://www.mediafire.com/file/m8rol7dwd8wh6ub/1._Introduction_to_Django_Level_Five.mp4/file",
+                "slno": 1.0
+            },
+            "1.1 Level Five Slides.html": {
+                "link": "https://www.mediafire.com/file/gotogpq030uyqx2/1.1_Level_Five_Slides.html/file",
+                "slno": 1.1
+            },
+            "2. Django Passwords.mp4": {
+                "link": "https://www.mediafire.com/file/2qv6hnwf63x0t3y/2._Django_Passwords.mp4/file",
+                "slno": 2.0
+            },
+            "3. User Models.mp4": {
+                "link": "https://www.mediafire.com/file/5k49aa761gqvofx/3._User_Models.mp4/file",
+                "slno": 3.0
+            },
+            "4. Quick note about forms!.html": {
+                "link": "https://www.mediafire.com/file/emyfz7rccomamnq/4._Quick_note_about_forms%2521.html/file",
+                "slno": 4.0
+            },
+            "5. Coding User Models and Forms Part One.mp4": {
+                "link": "https://www.mediafire.com/file/5ba1jkokzcfzepk/5._Coding_User_Models_and_Forms_Part_One.mp4/file",
+                "slno": 5.0
+            },
+            "6. Coding User Models and Forms Part Two.mp4": {
+                "link": "https://www.mediafire.com/file/98a3ixmio9zyybl/6._Coding_User_Models_and_Forms_Part_Two.mp4/file",
+                "slno": 6.0
+            },
+            "7. Registration.mp4": {
+                "link": "https://www.mediafire.com/file/818mh012qf6mjm6/7._Registration.mp4/file",
+                "slno": 7.0
+            },
+            "8. Logins.mp4": {
+                "link": "https://www.mediafire.com/file/gda4wqd6zachoqh/8._Logins.mp4/file",
+                "slno": 8.0
+            }
+        }
+    },
+    "21. Django Deployment": {
+        "link": "https://www.mediafire.com/folder/5yq3vdku18pns/21.+Django+Deployment",
+        "slno": 21.0,
+        "videos": {
+            "1. Introduction to Django Deployment.mp4": {
+                "link": "https://www.mediafire.com/file/4tgpfktof45sxmi/1._Introduction_to_Django_Deployment.mp4/file",
+                "slno": 1.0
+            },
+            "1.1 Deploying to Heroku Guide.html": {
+                "link": "https://www.mediafire.com/file/at2ci3hooqhpc6t/1.1_Deploying_to_Heroku_Guide.html/file",
+                "slno": 1.1
+            },
+            "1.2 Deploying to Amazon Web Services.html": {
+                "link": "https://www.mediafire.com/file/uxj1zrxsk2mjpxm/1.2_Deploying_to_Amazon_Web_Services.html/file",
+                "slno": 1.2
+            },
+            "1.3 Deploying to Python Anywhere Guide.html": {
+                "link": "https://www.mediafire.com/file/an89jv5i60qevlz/1.3_Deploying_to_Python_Anywhere_Guide.html/file",
+                "slno": 1.3
+            },
+            "1.4 Deploying to VPS with Digital Ocean.html": {
+                "link": "https://www.mediafire.com/file/fnwjax8gk602v1n/1.4_Deploying_to_VPS_with_Digital_Ocean.html/file",
+                "slno": 1.4
+            },
+            "2. Setting up GitHub.mp4": {
+                "link": "https://www.mediafire.com/file/emu81dx9wpqb4an/2._Setting_up_GitHub.mp4/file",
+                "slno": 2.0
+            },
+            "3. Full Deployment Walkthrough on Python Anywhere.mp4": {
+                "link": "https://www.mediafire.com/file/qd1z2n5xiejswgd/3._Full_Deployment_Walkthrough_on_Python_Anywhere.mp4/file",
+                "slno": 3.0
+            }
+        }
+    },
+    "22. Advanced Topics - CBVs": {
+        "link": "https://www.mediafire.com/folder/v85zmnizoy0to/22.+Advanced+Topics+-+CBVs",
+        "slno": 22.0,
+        "videos": {
+            "1. Introduction to CBVs.mp4": {
+                "link": "https://www.mediafire.com/file/pv3pzgzmrs1nssz/1._Introduction_to_CBVs.mp4/file",
+                "slno": 1.0
+            },
+            "1.1 Advanced_Django_CBV.zip.zip": {
+                "link": "https://www.mediafire.com/file/q3acg22row2ojgf/1.1_Advanced_Django_CBV.zip.zip/file",
+                "slno": 1.1
+            },
+            "1.2 Slides for CBV.html": {
+                "link": "https://www.mediafire.com/file/q46sr6c9ule8pgo/1.2_Slides_for_CBV.html/file",
+                "slno": 1.2
+            },
+            "2. Hello World with CBVs.mp4": {
+                "link": "https://www.mediafire.com/file/ncv5igy7czp4b6t/2._Hello_World_with_CBVs.mp4/file",
+                "slno": 2.0
+            },
+            "3. Template Views with CBV.mp4": {
+                "link": "https://www.mediafire.com/file/virymu5isi4rho5/3._Template_Views_with_CBV.mp4/file",
+                "slno": 3.0
+            },
+            "4. Detail View and List View Part One.mp4": {
+                "link": "https://www.mediafire.com/file/9m3erkcw6r1ipq0/4._Detail_View_and_List_View_Part_One.mp4/file",
+                "slno": 4.0
+            },
+            "5. Detail View and List View Part Two.mp4": {
+                "link": "https://www.mediafire.com/file/hzr4iivr9gm94it/5._Detail_View_and_List_View_Part_Two.mp4/file",
+                "slno": 5.0
+            },
+            "6. CRUD Views.mp4": {
+                "link": "https://www.mediafire.com/file/5ufaxnbj12od3qp/6._CRUD_Views.mp4/file",
+                "slno": 6.0
+            }
+        }
+    },
+    "23. First Clone Project": {
+        "link": "https://www.mediafire.com/folder/yk4hm2c3004w9/23.+First+Clone+Project",
+        "slno": 23.0,
+        "videos": {
+            "1. Introduction to First Clone Project.mp4": {
+                "link": "https://www.mediafire.com/file/bbylkgh2jktjxg6/1._Introduction_to_First_Clone_Project.mp4/file",
+                "slno": 1.0
+            },
+            "1.1 Blog_Clone_Project.zip.zip": {
+                "link": "https://www.mediafire.com/file/98fccs778lt44e3/1.1_Blog_Clone_Project.zip.zip/file",
+                "slno": 1.1
+            },
+            "2. Blog Clone Project Part One.mp4": {
+                "link": "https://www.mediafire.com/file/ucxrlq5iha1bpfp/2._Blog_Clone_Project_Part_One.mp4/file",
+                "slno": 2.0
+            },
+            "3. Blog Clone Project Part Two.mp4": {
+                "link": "https://www.mediafire.com/file/5awsu5aemkmi0ei/3._Blog_Clone_Project_Part_Two.mp4/file",
+                "slno": 3.0
+            },
+            "4. Blog Clone Project Part Three.mp4": {
+                "link": "https://www.mediafire.com/file/fi3vc86r2r4a3o3/4._Blog_Clone_Project_Part_Three.mp4/file",
+                "slno": 4.0
+            },
+            "5. Blog Clone Project Part Four.mp4": {
+                "link": "https://www.mediafire.com/file/fhq1f4cyq83f2cz/5._Blog_Clone_Project_Part_Four.mp4/file",
+                "slno": 5.0
+            },
+            "6. Blog Project Part Five.mp4": {
+                "link": "https://www.mediafire.com/file/9gh7vmrz6jx8z98/6._Blog_Project_Part_Five.mp4/file",
+                "slno": 6.0
+            },
+            "7. Blog Project Part Six.mp4": {
+                "link": "https://www.mediafire.com/file/pwlaobgjpeqfneu/7._Blog_Project_Part_Six.mp4/file",
+                "slno": 7.0
+            },
+            "8. Blog Project Part Seven.mp4": {
+                "link": "https://www.mediafire.com/file/wvms7qaupt89srf/8._Blog_Project_Part_Seven.mp4/file",
+                "slno": 8.0
+            },
+            "9. Blog Post Project Part Eight.mp4": {
+                "link": "https://www.mediafire.com/file/8otynizkeui9zfh/9._Blog_Post_Project_Part_Eight.mp4/file",
+                "slno": 9.0
+            },
+            "10. Blog Project Part Nine.mp4": {
+                "link": "https://www.mediafire.com/file/0u25qbfarbiphss/10._Blog_Project_Part_Nine.mp4/file",
+                "slno": 10.0
+            },
+            "11. Blog Project Part Ten.mp4": {
+                "link": "https://www.mediafire.com/file/x04s0rtw248ujy0/11._Blog_Project_Part_Ten.mp4/file",
+                "slno": 11.0
+            }
+        }
+    },
+    "24. Social Media Site Clone Project": {
+        "link": "https://www.mediafire.com/folder/5l2pi5dyi25mg/24.+Social+Media+Site+Clone+Project",
+        "slno": 24.0,
+        "videos": {
+            "1. Introduction to Social Media Clone Project.mp4": {
+                "link": "https://www.mediafire.com/file/349aflmwtktujhj/1._Introduction_to_Social_Media_Clone_Project.mp4/file",
+                "slno": 1.0
+            },
+            "1.1 simple_social_clone.zip.zip": {
+                "link": "https://www.mediafire.com/file/zwy7zdlz26apswn/1.1_simple_social_clone.zip.zip/file",
+                "slno": 1.1
+            },
+            "2. Social Clone Part One.mp4": {
+                "link": "https://www.mediafire.com/file/l36tc72s7x0orbv/2._Social_Clone_Part_One.mp4/file",
+                "slno": 2.0
+            },
+            "3. Social Clone Part Two.mp4": {
+                "link": "https://www.mediafire.com/file/vx9mgppb4bny95t/3._Social_Clone_Part_Two.mp4/file",
+                "slno": 3.0
+            },
+            "4. Social Clone Part Three.mp4": {
+                "link": "https://www.mediafire.com/file/iue1m5ihpwiel1c/4._Social_Clone_Part_Three.mp4/file",
+                "slno": 4.0
+            },
+            "5. Social Clone Part Four.mp4": {
+                "link": "https://www.mediafire.com/file/n1w74ezo8ohp0fv/5._Social_Clone_Part_Four.mp4/file",
+                "slno": 5.0
+            },
+            "6. Social Clone Part Five.mp4": {
+                "link": "https://www.mediafire.com/file/bj9rtbc0ktt03ei/6._Social_Clone_Part_Five.mp4/file",
+                "slno": 6.0
+            },
+            "7. Social Clone Part Six.mp4": {
+                "link": "https://www.mediafire.com/file/uctehezczgoprb9/7._Social_Clone_Part_Six.mp4/file",
+                "slno": 7.0
+            },
+            "8. Social Clone Part Seven.mp4": {
+                "link": "https://www.mediafire.com/file/2dmyndy7al6ti5t/8._Social_Clone_Part_Seven.mp4/file",
+                "slno": 8.0
+            },
+            "9. Social Clone Part Eight.mp4": {
+                "link": "https://www.mediafire.com/file/wse3q6kuzqecvsy/9._Social_Clone_Part_Eight.mp4/file",
+                "slno": 9.0
+            },
+            "10. Social Clone Part Nine.mp4": {
+                "link": "https://www.mediafire.com/file/v6amcdc85utyaj5/10._Social_Clone_Part_Nine.mp4/file",
+                "slno": 10.0
+            },
+            "11. Social Clone Part Ten.mp4": {
+                "link": "https://www.mediafire.com/file/ghd2tplw0gf6gpu/11._Social_Clone_Part_Ten.mp4/file",
+                "slno": 11.0
+            },
+            "12. Social Clone Part Eleven.mp4": {
+                "link": "https://www.mediafire.com/file/fe32xymken36njd/12._Social_Clone_Part_Eleven.mp4/file",
+                "slno": 12.0
+            },
+            "13. Social Clone Part Twelve.mp4": {
+                "link": "https://www.mediafire.com/file/yro55wmwxqlvttx/13._Social_Clone_Part_Twelve.mp4/file",
+                "slno": 13.0
+            },
+            "14. Social Clone Final Part.mp4": {
+                "link": "https://www.mediafire.com/file/kitonf6bt7jx2cq/14._Social_Clone_Final_Part.mp4/file",
+                "slno": 14.0
+            }
+        }
+    },
+    "25. Advanced Topics Lecture - Debug Toolbar": {
+        "link": "https://www.mediafire.com/folder/v9bnzdvcht2re/25.+Advanced+Topics+Lecture+-+Debug+Toolbar",
+        "slno": 25.0,
+        "videos": {
+            "1. Introduction to Debug Toolbar.mp4": {
+                "link": "https://www.mediafire.com/file/1yagoamqs9s67sn/1._Introduction_to_Debug_Toolbar.mp4/file",
+                "slno": 1.0
+            },
+            "2. Debug Toolbar Overview.mp4": {
+                "link": "https://www.mediafire.com/file/8jb9ni4uolx0fbq/2._Debug_Toolbar_Overview.mp4/file",
+                "slno": 2.0
+            }
+        }
+    },
+    "26. Advanced Topics - Customizing the Django Admin": {
+        "link": "https://www.mediafire.com/folder/bkcjj1umlojhj/26.+Advanced+Topics+-+Customizing+the+Django+Admin",
+        "slno": 26.0,
+        "videos": {
+            "1. Introduction to Admin.mp4": {
+                "link": "https://www.mediafire.com/file/s038ds3t7laoe6v/1._Introduction_to_Admin.mp4/file",
+                "slno": 1.0
+            },
+            "2. Admin Templates.mp4": {
+                "link": "https://www.mediafire.com/file/j0svk81m7wafzzr/2._Admin_Templates.mp4/file",
+                "slno": 2.0
+            },
+            "3. Ordering Fields.mp4": {
+                "link": "https://www.mediafire.com/file/qbaxpaqbdzuzi13/3._Ordering_Fields.mp4/file",
+                "slno": 3.0
+            },
+            "4. Adding Search.mp4": {
+                "link": "https://www.mediafire.com/file/jxsftjy4kfv7b13/4._Adding_Search.mp4/file",
+                "slno": 4.0
+            },
+            "5. Adding Filters.mp4": {
+                "link": "https://www.mediafire.com/file/fqq58p4d93lyzqp/5._Adding_Filters.mp4/file",
+                "slno": 5.0
+            },
+            "6. Adding Fields.mp4": {
+                "link": "https://www.mediafire.com/file/hgsyox94krvqoh5/6._Adding_Fields.mp4/file",
+                "slno": 6.0
+            },
+            "7. Editable List View.mp4": {
+                "link": "https://www.mediafire.com/file/m5l7gd01k6uhk8q/7._Editable_List_View.mp4/file",
+                "slno": 7.0
+            }
+        }
+    }
+}

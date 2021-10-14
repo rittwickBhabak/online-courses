@@ -1,0 +1,654 @@
+{
+    "001 What Is Social Engineering": {
+        "link": "https://www.mediafire.com/folder/0v8ys11asu8ee/001+What+Is+Social+Engineering",
+        "slno": 1.0,
+        "videos": {
+            "001 What Is Social Engineering.mp4": {
+                "link": "https://www.mediafire.com/file/bjd9xn87udmm6oy/001_What_Is_Social_Engineering.mp4/file",
+                "slno": 1.0
+            },
+            "002 Teaser - Hacking An Android Phone  Accessing The Camera.mp4": {
+                "link": "https://www.mediafire.com/file/6hwrj7vm2jkmisd/002_Teaser_-_Hacking_An_Android_Phone__Accessing_The_Camera.mp4/file",
+                "slno": 2.0
+            },
+            "003 Course Overview.mp4": {
+                "link": "https://www.mediafire.com/file/y9us6rkvas0yhme/003_Course_Overview.mp4/file",
+                "slno": 3.0
+            }
+        }
+    },
+    "01 Preparation - Creating a Penetration Testing Lab": {
+        "link": "https://www.mediafire.com/folder/asl6ymwrp6tk8/01+Preparation+-+Creating+a+Penetration+Testing+Lab",
+        "slno": 1.0,
+        "videos": {
+            "004 Virtual-Box-Download-Page.txt": {
+                "link": "https://www.mediafire.com/file/tzsplpvmx00fxnt/004_Virtual-Box-Download-Page.txt/file",
+                "slno": 4.0
+            },
+            "004 Lab Overview  Needed Software.mp4": {
+                "link": "https://www.mediafire.com/file/vwuzl292q0lao5n/004_Lab_Overview__Needed_Software.mp4/file",
+                "slno": 4.0
+            },
+            "005 Kali-Linux-Ready-Images-Download-Page.txt": {
+                "link": "https://www.mediafire.com/file/wvtzyfrpgwp8whx/005_Kali-Linux-Ready-Images-Download-Page.txt/file",
+                "slno": 5.0
+            },
+            "005 Installing-Kali-Using-ISO-Image-use-this-to-install-Kali-as-a-MAIN-machine-.txt": {
+                "link": "https://www.mediafire.com/file/avl34pcywheyrfe/005_Installing-Kali-Using-ISO-Image-use-this-to-install-Kali-as-a-MAIN-machine-.txt/file",
+                "slno": 5.0
+            },
+            "005 Installing Kali E8 As a Virtual Machine Using a Ready Image.mp4": {
+                "link": "https://www.mediafire.com/file/petndxzbmkmida8/005_Installing_Kali_E8_As_a_Virtual_Machine_Using_a_Ready_Image.mp4/file",
+                "slno": 5.0
+            },
+            "005 How-To-Fix-No-Nat-Network-Issue.txt": {
+                "link": "https://www.mediafire.com/file/gsr7zrkbdm9ubek/005_How-To-Fix-No-Nat-Network-Issue.txt/file",
+                "slno": 5.0
+            },
+            "005 How-To-Fix-Blank-Screen-When-Starting-Kali.txt": {
+                "link": "https://www.mediafire.com/file/0abxpy1w1c9ur1f/005_How-To-Fix-Blank-Screen-When-Starting-Kali.txt/file",
+                "slno": 5.0
+            },
+            "006 Windows-Image-Download-Page.txt": {
+                "link": "https://www.mediafire.com/file/mbjucvq9v2juad9/006_Windows-Image-Download-Page.txt/file",
+                "slno": 6.0
+            },
+            "006 Installing Windows As a Virtual Machine.mp4": {
+                "link": "https://www.mediafire.com/file/5juptewhoy2bkr6/006_Installing_Windows_As_a_Virtual_Machine.mp4/file",
+                "slno": 6.0
+            },
+            "007 Ubuntu-Download-Link.txt": {
+                "link": "https://www.mediafire.com/file/es301twcfwrcphb/007_Ubuntu-Download-Link.txt/file",
+                "slno": 7.0
+            },
+            "007 Installing Ubuntu As a Virtual Machine.mp4": {
+                "link": "https://www.mediafire.com/file/eq4r9q809h1jq5p/007_Installing_Ubuntu_As_a_Virtual_Machine.mp4/file",
+                "slno": 7.0
+            }
+        }
+    },
+    "02 Preparation - Linux Basics": {
+        "link": "https://www.mediafire.com/folder/19yku4am9rvjp/02+Preparation+-+Linux+Basics",
+        "slno": 2.0,
+        "videos": {
+            "008 Basic Overview Of Kali Linux.mp4": {
+                "link": "https://www.mediafire.com/file/rdfzel2kzasngvv/008_Basic_Overview_Of_Kali_Linux.mp4/file",
+                "slno": 8.0
+            },
+            "009 The Linux Terminal  Basic Linux Commands.mp4": {
+                "link": "https://www.mediafire.com/file/79u4jfso9k9cd4v/009_The_Linux_Terminal__Basic_Linux_Commands.mp4/file",
+                "slno": 9.0
+            },
+            "010 Creating  Using Snapshots.mp4": {
+                "link": "https://www.mediafire.com/file/s18pryebp6wdf5y/010_Creating__Using_Snapshots.mp4/file",
+                "slno": 10.0
+            }
+        }
+    },
+    "03 Information Gathering": {
+        "link": "https://www.mediafire.com/folder/zkwldpmnyysib/03+Information+Gathering",
+        "slno": 3.0,
+        "videos": {
+            "011 Introduction.mp4": {
+                "link": "https://www.mediafire.com/file/vj7haxol5zwfzwf/011_Introduction.mp4/file",
+                "slno": 11.0
+            }
+        }
+    },
+    "04 Information Gathering - Gathering Info About A CompanyWebsite": {
+        "link": "https://www.mediafire.com/folder/wr395wkrtfbyn/04+Information+Gathering+-+Gathering+Info+About+A+CompanyWebsite",
+        "slno": 4.0,
+        "videos": {
+            "012 Maltego Overview.mp4": {
+                "link": "https://www.mediafire.com/file/8bqgbd0drn1vnwy/012_Maltego_Overview.mp4/file",
+                "slno": 12.0
+            },
+            "012 How-to-fix-Maltego-if-its-not-starting.txt": {
+                "link": "https://www.mediafire.com/file/ql2ukb3cmysniod/012_How-to-fix-Maltego-if-its-not-starting.txt/file",
+                "slno": 12.0
+            },
+            "013 Discovering Domain Info  Emails Associated With Target.mp4": {
+                "link": "https://www.mediafire.com/file/7bvz0hapf8ecpeb/013_Discovering_Domain_Info__Emails_Associated_With_Target.mp4/file",
+                "slno": 13.0
+            },
+            "014 Discovering Information About Hosting Company Support Team Emails  Admin Email.mp4": {
+                "link": "https://www.mediafire.com/file/vkmmcrw6ravssjc/014_Discovering_Information_About_Hosting_Company_Support_Team_Emails__Admin_Email.mp4/file",
+                "slno": 14.0
+            },
+            "015 Discovering Files Links Websites  Other Companies Related To Target.mp4": {
+                "link": "https://www.mediafire.com/file/2329z6xc8i7yne8/015_Discovering_Files_Links_Websites__Other_Companies_Related_To_Target.mp4/file",
+                "slno": 15.0
+            },
+            "016 Using The Gathered Info To Build An Attack Strategy.mp4": {
+                "link": "https://www.mediafire.com/file/0ns0ympd2fnkudd/016_Using_The_Gathered_Info_To_Build_An_Attack_Strategy.mp4/file",
+                "slno": 16.0
+            }
+        }
+    },
+    "05 Information Gathering - Gathering Info About A Person": {
+        "link": "https://www.mediafire.com/folder/dbnwk1y5bpgh4/05+Information+Gathering+-+Gathering+Info+About+A+Person",
+        "slno": 5.0,
+        "videos": {
+            "017 Discovering Websites Links  Social Networking Accounts.mp4": {
+                "link": "https://www.mediafire.com/file/t3sb5of8euk87xt/017_Discovering_Websites_Links__Social_Networking_Accounts.mp4/file",
+                "slno": 17.0
+            },
+            "018 Discovering Twitter Friends  Associated Accounts.mp4": {
+                "link": "https://www.mediafire.com/file/4z8uz18yd60tzrs/018_Discovering_Twitter_Friends__Associated_Accounts.mp4/file",
+                "slno": 18.0
+            },
+            "019 Discovering Emails Of The Targets Friends.mp4": {
+                "link": "https://www.mediafire.com/file/fg8fpchx68mk2cp/019_Discovering_Emails_Of_The_Targets_Friends.mp4/file",
+                "slno": 19.0
+            },
+            "020 Analysing The Gathered Info  Building An Attack Strategy.mp4": {
+                "link": "https://www.mediafire.com/file/jl7cvj9lgipy6wi/020_Analysing_The_Gathered_Info__Building_An_Attack_Strategy.mp4/file",
+                "slno": 20.0
+            }
+        }
+    },
+    "06 Windows Evil Files": {
+        "link": "https://www.mediafire.com/folder/89phq2rl13845/06+Windows+Evil+Files",
+        "slno": 6.0,
+        "videos": {
+            "021 Introduction.mp4": {
+                "link": "https://www.mediafire.com/file/51cilftboizgblw/021_Introduction.mp4/file",
+                "slno": 21.0
+            }
+        }
+    },
+    "07 Windows Evil Files - Generating Undetectable Backdoors": {
+        "link": "https://www.mediafire.com/folder/t233x77sbdh4f/07+Windows+Evil+Files+-+Generating+Undetectable+Backdoors",
+        "slno": 7.0,
+        "videos": {
+            "022 Veil-3.0-Git-Repo.txt": {
+                "link": "https://www.mediafire.com/file/66xrf1uy7wqp6tl/022_Veil-3.0-Git-Repo.txt/file",
+                "slno": 22.0
+            },
+            "022 Installing Veil 3.1.mp4": {
+                "link": "https://www.mediafire.com/file/w5elz7wqv3c8plj/022_Installing_Veil_3.1.mp4/file",
+                "slno": 22.0
+            },
+            "023 Veil Overview  Payloads Basics.mp4": {
+                "link": "https://www.mediafire.com/file/4ubb96hxq2jz26z/023_Veil_Overview__Payloads_Basics.mp4/file",
+                "slno": 23.0
+            },
+            "024 Generating An Undetectable Backdoor Using Veil 3.mp4": {
+                "link": "https://www.mediafire.com/file/ycwcac6fg5jx8o8/024_Generating_An_Undetectable_Backdoor_Using_Veil_3.mp4/file",
+                "slno": 24.0
+            },
+            "025 Listening For Incoming Connections.mp4": {
+                "link": "https://www.mediafire.com/file/9sc7ovxmvawcjdn/025_Listening_For_Incoming_Connections.mp4/file",
+                "slno": 25.0
+            },
+            "026 Hacking A Windows 10 Machine Using The Generated Backdoor.mp4": {
+                "link": "https://www.mediafire.com/file/gtw8f1mxi4szx7f/026_Hacking_A_Windows_10_Machine_Using_The_Generated_Backdoor.mp4/file",
+                "slno": 26.0
+            },
+            "027 The-Fat-Rat-Git-Repo.txt": {
+                "link": "https://www.mediafire.com/file/wx0lra6m46casj5/027_The-Fat-Rat-Git-Repo.txt/file",
+                "slno": 27.0
+            },
+            "027 Installing The Fat Rat.mp4": {
+                "link": "https://www.mediafire.com/file/y9fke8jkpkvwstz/027_Installing_The_Fat_Rat.mp4/file",
+                "slno": 27.0
+            },
+            "028 Generating An Undetectable Backdoor Using TheFatRat.mp4": {
+                "link": "https://www.mediafire.com/file/oscl7bgekotzfy8/028_Generating_An_Undetectable_Backdoor_Using_TheFatRat.mp4/file",
+                "slno": 28.0
+            },
+            "029 Installing Empire.mp4": {
+                "link": "https://www.mediafire.com/file/qop7zt00r3zgjjw/029_Installing_Empire.mp4/file",
+                "slno": 29.0
+            },
+            "029 Empire-Git-Repo.txt": {
+                "link": "https://www.mediafire.com/file/8ne8bnw6tf96z2v/029_Empire-Git-Repo.txt/file",
+                "slno": 29.0
+            },
+            "030 Creating An Empire Listener.mp4": {
+                "link": "https://www.mediafire.com/file/q3lbwa5c7mgdk2d/030_Creating_An_Empire_Listener.mp4/file",
+                "slno": 30.0
+            },
+            "031 Creating a Windows Powershell Stager  Hacking Windows 10.mp4": {
+                "link": "https://www.mediafire.com/file/lg8p5jr6o8t552p/031_Creating_a_Windows_Powershell_Stager__Hacking_Windows_10.mp4/file",
+                "slno": 31.0
+            },
+            "032 Modifying Backdoor Source To Bypass All Anti-virus Programs.mp4": {
+                "link": "https://www.mediafire.com/file/sp3qcrggpmbx25r/032_Modifying_Backdoor_Source_To_Bypass_All_Anti-virus_Programs.mp4/file",
+                "slno": 32.0
+            }
+        }
+    },
+    "08 Windows Evil Files - Spying": {
+        "link": "https://www.mediafire.com/folder/051gd1oj9pvtc/08+Windows+Evil+Files+-+Spying",
+        "slno": 8.0,
+        "videos": {
+            "033 What Is A Keylogger.mp4": {
+                "link": "https://www.mediafire.com/file/7gjcuj9euo0qxp6/033_What_Is_A_Keylogger.mp4/file",
+                "slno": 33.0
+            },
+            "034 Creating A Remote Keylogger.mp4": {
+                "link": "https://www.mediafire.com/file/ujj3fhnk2vl8ksg/034_Creating_A_Remote_Keylogger.mp4/file",
+                "slno": 34.0
+            },
+            "034 BeeLogger-Git-Repo.txt": {
+                "link": "https://www.mediafire.com/file/106n5cno1705vrq/034_BeeLogger-Git-Repo.txt/file",
+                "slno": 34.0
+            },
+            "035 Using A Remote Keylogger To Capture Key Strikes Including Passwords.mp4": {
+                "link": "https://www.mediafire.com/file/7ne57s2x7kqurdl/035_Using_A_Remote_Keylogger_To_Capture_Key_Strikes_Including_Passwords.mp4/file",
+                "slno": 35.0
+            },
+            "036 Password Recovery Basics.mp4": {
+                "link": "https://www.mediafire.com/file/v1vtr85abdf4vt3/036_Password_Recovery_Basics.mp4/file",
+                "slno": 36.0
+            },
+            "037 Recovering Saved Passwords From Local Machine.mp4": {
+                "link": "https://www.mediafire.com/file/bqn7bvk3uhmmo34/037_Recovering_Saved_Passwords_From_Local_Machine.mp4/file",
+                "slno": 37.0
+            },
+            "038 run-laZagne.txt": {
+                "link": "https://www.mediafire.com/file/xwry0rc8y1vqkmh/038_run-laZagne.txt/file",
+                "slno": 38.0
+            },
+            "038 Recovering Saved Passwords From A Remote Machine.mp4": {
+                "link": "https://www.mediafire.com/file/ebbgrd9lrz3iu11/038_Recovering_Saved_Passwords_From_A_Remote_Machine.mp4/file",
+                "slno": 38.0
+            },
+            "061 ZLogger-Git-Repo.txt": {
+                "link": "https://www.mediafire.com/file/ggdxgiskdex8vsr/061_ZLogger-Git-Repo.txt/file",
+                "slno": 61.0
+            },
+            "062 LaZagne-Git-Repo.txt": {
+                "link": "https://www.mediafire.com/file/udvcwueouq3re9p/062_LaZagne-Git-Repo.txt/file",
+                "slno": 62.0
+            }
+        }
+    },
+    "09 Windows Evil Files - Enhancing Evil Files": {
+        "link": "https://www.mediafire.com/folder/f9zo3wrxq6ufx/09+Windows+Evil+Files+-+Enhancing+Evil+Files",
+        "slno": 9.0,
+        "videos": {
+            "039 Bypassing All Anti-Virus Programs By Modifying Hex Vales.mp4": {
+                "link": "https://www.mediafire.com/file/avixmk6leodxayr/039_Bypassing_All_Anti-Virus_Programs_By_Modifying_Hex_Vales.mp4/file",
+                "slno": 39.0
+            },
+            "040 Creating The Perfect Spying Tool.mp4": {
+                "link": "https://www.mediafire.com/file/cpjsfrlsbil6soz/040_Creating_The_Perfect_Spying_Tool.mp4/file",
+                "slno": 40.0
+            }
+        }
+    },
+    "10 Windows Evil Files - Converting Evil File To A Trojan": {
+        "link": "https://www.mediafire.com/folder/pi4sdq6j1mxn6/10+Windows+Evil+Files+-+Converting+Evil+File+To+A+Trojan",
+        "slno": 10.0,
+        "videos": {
+            "041 Embedding Evil Files With Any File Type Like An Image Or PDF.mp4": {
+                "link": "https://www.mediafire.com/file/tp3wfy5t2680u39/041_Embedding_Evil_Files_With_Any_File_Type_Like_An_Image_Or_PDF.mp4/file",
+                "slno": 41.0
+            },
+            "042 download-and-execute.txt": {
+                "link": "https://www.mediafire.com/file/vfbzn6do6y0t8bi/042_download-and-execute.txt/file",
+                "slno": 42.0
+            },
+            "042 Download  Execute Payload.mp4": {
+                "link": "https://www.mediafire.com/file/s5l6zh6k41vqi56/042_Download__Execute_Payload.mp4/file",
+                "slno": 42.0
+            },
+            "043 Running Evil Files Silently In The Background.mp4": {
+                "link": "https://www.mediafire.com/file/f1uv1oank54rb9y/043_Running_Evil_Files_Silently_In_The_Background.mp4/file",
+                "slno": 43.0
+            },
+            "043 Bat-To-EXE-Converter-Download-Page.txt": {
+                "link": "https://www.mediafire.com/file/x2rw0rqt20z6q98/043_Bat-To-EXE-Converter-Download-Page.txt/file",
+                "slno": 43.0
+            },
+            "044 PNG-To-ICO-Converter..txt": {
+                "link": "https://www.mediafire.com/file/ogndeb60ia27sgx/044_PNG-To-ICO-Converter..txt/file",
+                "slno": 44.0
+            },
+            "044 Icons-Website-iconarchive.com.txt": {
+                "link": "https://www.mediafire.com/file/v5bokyjpes40gsy/044_Icons-Website-iconarchive.com.txt/file",
+                "slno": 44.0
+            },
+            "044 Changing Trojans Icon.mp4": {
+                "link": "https://www.mediafire.com/file/3y89xblt56dvxi3/044_Changing_Trojans_Icon.mp4/file",
+                "slno": 44.0
+            },
+            "045 Spoofing File Extension from .exe to anything else (pdf png ..etc).mp4": {
+                "link": "https://www.mediafire.com/file/8l1w9uyp6yqhzxd/045_Spoofing_File_Extension_from_.exe_to_anything_else_%2528pdf_png_..etc%2529.mp4/file",
+                "slno": 45.0
+            },
+            "046 Download  Execute Payload (Method 2).mp4": {
+                "link": "https://www.mediafire.com/file/xzqwfaby8fwh0gc/046_Download__Execute_Payload_%2528Method_2%2529.mp4/file",
+                "slno": 46.0
+            },
+            "046 autoit-download-and-execute.txt": {
+                "link": "https://www.mediafire.com/file/mzop9v8670qwkw2/046_autoit-download-and-execute.txt/file",
+                "slno": 46.0
+            },
+            "047 Embedding Evil Files With Any File Type Like An Image Or PDF (Method 2).mp4": {
+                "link": "https://www.mediafire.com/file/12kyv2ovvcy26q9/047_Embedding_Evil_Files_With_Any_File_Type_Like_An_Image_Or_PDF_%2528Method_2%2529.mp4/file",
+                "slno": 47.0
+            },
+            "048 Embedding backdoor In A Legitimate Microsoft Office Document.mp4": {
+                "link": "https://www.mediafire.com/file/zl0tn8gnax5zpfh/048_Embedding_backdoor_In_A_Legitimate_Microsoft_Office_Document.mp4/file",
+                "slno": 48.0
+            },
+            "049 Embedding Any Evil File In A Legitimate Microsoft Office Document.mp4": {
+                "link": "https://www.mediafire.com/file/4fzchczr8he5jav/049_Embedding_Any_Evil_File_In_A_Legitimate_Microsoft_Office_Document.mp4/file",
+                "slno": 49.0
+            },
+            "049 download-and-execute-macro.txt": {
+                "link": "https://www.mediafire.com/file/halil7h584pllnf/049_download-and-execute-macro.txt/file",
+                "slno": 49.0
+            }
+        }
+    },
+    "11 Mac OS X Evil Files": {
+        "link": "https://www.mediafire.com/folder/lhp5muuxgxojd/11+Mac+OS+X+Evil+Files",
+        "slno": 11.0,
+        "videos": {
+            "050 Introduction.mp4": {
+                "link": "https://www.mediafire.com/file/9zvgbovo7gy4qa7/050_Introduction.mp4/file",
+                "slno": 50.0
+            },
+            "051 Hacking Mac OS X Using A Meterpreter Backdoor.mp4": {
+                "link": "https://www.mediafire.com/file/mx6nqhenczbkthj/051_Hacking_Mac_OS_X_Using_A_Meterpreter_Backdoor.mp4/file",
+                "slno": 51.0
+            },
+            "052 Hacking Mac OS X Using An Empire Stager.mp4": {
+                "link": "https://www.mediafire.com/file/1ecrvlhi1fn3b0j/052_Hacking_Mac_OS_X_Using_An_Empire_Stager.mp4/file",
+                "slno": 52.0
+            },
+            "053 Converting Basic Backdoor To An Executable.mp4": {
+                "link": "https://www.mediafire.com/file/g4ouuoxj3mo4z29/053_Converting_Basic_Backdoor_To_An_Executable.mp4/file",
+                "slno": 53.0
+            },
+            "054 Embedding A Normal File With Backdoor.mp4": {
+                "link": "https://www.mediafire.com/file/eck2tg00gdsgdxb/054_Embedding_A_Normal_File_With_Backdoor.mp4/file",
+                "slno": 54.0
+            },
+            "055 Download  Execute Payload.mp4": {
+                "link": "https://www.mediafire.com/file/mry1vqznm240uc6/055_Download__Execute_Payload.mp4/file",
+                "slno": 55.0
+            },
+            "056 Changing Trojans Icon.mp4": {
+                "link": "https://www.mediafire.com/file/168b7y4oa9q3stz/056_Changing_Trojans_Icon.mp4/file",
+                "slno": 56.0
+            },
+            "057 Configuring The Trojan To Run Silently.mp4": {
+                "link": "https://www.mediafire.com/file/fh1xp4en355dz8q/057_Configuring_The_Trojan_To_Run_Silently.mp4/file",
+                "slno": 57.0
+            },
+            "058 Embedding Backdoor In A Legitimate Microsoft Office Document.mp4": {
+                "link": "https://www.mediafire.com/file/d9a85l8andhlo72/058_Embedding_Backdoor_In_A_Legitimate_Microsoft_Office_Document.mp4/file",
+                "slno": 58.0
+            }
+        }
+    },
+    "12 Linux Evil Files": {
+        "link": "https://www.mediafire.com/folder/u1g1pw133vfgs/12+Linux+Evil+Files",
+        "slno": 12.0,
+        "videos": {
+            "059 Hacking Into Linux-Like Systems Using One Command.mp4": {
+                "link": "https://www.mediafire.com/file/as4cju3fy7iz8az/059_Hacking_Into_Linux-Like_Systems_Using_One_Command.mp4/file",
+                "slno": 59.0
+            },
+            "060 More Advanced Linux Backdoor.mp4": {
+                "link": "https://www.mediafire.com/file/xeb0lmo0k71g10g/060_More_Advanced_Linux_Backdoor.mp4/file",
+                "slno": 60.0
+            },
+            "061 Using A Remote Keylogger To Capture Key Strikes Including Passwords.mp4": {
+                "link": "https://www.mediafire.com/file/cyoo2jmdz2jucua/061_Using_A_Remote_Keylogger_To_Capture_Key_Strikes_Including_Passwords.mp4/file",
+                "slno": 61.0
+            },
+            "062 Recovering Saved Passwords From A Local Machine.mp4": {
+                "link": "https://www.mediafire.com/file/0eyik5osg7kufby/062_Recovering_Saved_Passwords_From_A_Local_Machine.mp4/file",
+                "slno": 62.0
+            },
+            "063 ZReporter.py": {
+                "link": "https://www.mediafire.com/file/8mznb403y9ocnfx/063_ZReporter.py/file",
+                "slno": 63.0
+            },
+            "063 ZReporter-Git-Repo.txt": {
+                "link": "https://www.mediafire.com/file/hg2n9ced56gzx3f/063_ZReporter-Git-Repo.txt/file",
+                "slno": 63.0
+            },
+            "063 Execute  Report Payload.mp4": {
+                "link": "https://www.mediafire.com/file/sn0o8qcyamemlmk/063_Execute__Report_Payload.mp4/file",
+                "slno": 63.0
+            },
+            "064 Recovering Saved Passwords From A Remote Machine.mp4": {
+                "link": "https://www.mediafire.com/file/a3o4a7v5rmmwl4o/064_Recovering_Saved_Passwords_From_A_Remote_Machine.mp4/file",
+                "slno": 64.0
+            },
+            "065 Embedding Evil Code In A Legitimate Linux Package - Part 1.mp4": {
+                "link": "https://www.mediafire.com/file/ddjhitzuhtfdh2w/065_Embedding_Evil_Code_In_A_Legitimate_Linux_Package_-_Part_1.mp4/file",
+                "slno": 65.0
+            },
+            "065 Ubuntu-Packages-Download-Page.txt": {
+                "link": "https://www.mediafire.com/file/eshavx0e5arh8a9/065_Ubuntu-Packages-Download-Page.txt/file",
+                "slno": 65.0
+            },
+            "066 Embedding Evil Code In A Legitimate Linux Package - Part 2.mp4": {
+                "link": "https://www.mediafire.com/file/fcgzzfw5zfrf1dr/066_Embedding_Evil_Code_In_A_Legitimate_Linux_Package_-_Part_2.mp4/file",
+                "slno": 66.0
+            },
+            "067 Backdooring a Legitimate Android App.mp4": {
+                "link": "https://www.mediafire.com/file/r09y8trxvrd5a5q/067_Backdooring_a_Legitimate_Android_App.mp4/file",
+                "slno": 67.0
+            }
+        }
+    },
+    "13 Delivery Methods": {
+        "link": "https://www.mediafire.com/folder/9erp01ns3yznk/13+Delivery+Methods",
+        "slno": 13.0,
+        "videos": {
+            "068 Introduction.mp4": {
+                "link": "https://www.mediafire.com/file/wjoo704b3fjyv1i/068_Introduction.mp4/file",
+                "slno": 68.0
+            },
+            "069 Mail Deliver - Setting up an SMTP Server.mp4": {
+                "link": "https://www.mediafire.com/file/yuvzw78p4qf3ob8/069_Mail_Deliver_-_Setting_up_an_SMTP_Server.mp4/file",
+                "slno": 69.0
+            },
+            "070 Mail Delivery - Spoofing Emails.mp4": {
+                "link": "https://www.mediafire.com/file/v9g1ltq9klnb5zc/070_Mail_Delivery_-_Spoofing_Emails.mp4/file",
+                "slno": 70.0
+            },
+            "071 Hacking OS X  Linux Using Pure Social Engineering Without Sending Any Files.mp4": {
+                "link": "https://www.mediafire.com/file/qlm4t1hsqyzp82w/071_Hacking_OS_X__Linux_Using_Pure_Social_Engineering_Without_Sending_Any_Files.mp4/file",
+                "slno": 71.0
+            },
+            "072 ScrapBook-Download-Page.txt": {
+                "link": "https://www.mediafire.com/file/1v676s0wiv0ma0d/072_ScrapBook-Download-Page.txt/file",
+                "slno": 72.0
+            },
+            "072 Creating A Replica Of Any Website  Login Page.mp4": {
+                "link": "https://www.mediafire.com/file/h4ew89ub2h7dgdn/072_Creating_A_Replica_Of_Any_Website__Login_Page.mp4/file",
+                "slno": 72.0
+            },
+            "073 Stealing Login Info Using Fake A Login Page.mp4": {
+                "link": "https://www.mediafire.com/file/b36n4os8yl1w652/073_Stealing_Login_Info_Using_Fake_A_Login_Page.mp4/file",
+                "slno": 73.0
+            },
+            "074 BeEF Overview  Basic Hook Method.mp4": {
+                "link": "https://www.mediafire.com/file/6r9v8v6jskccyeu/074_BeEF_Overview__Basic_Hook_Method.mp4/file",
+                "slno": 74.0
+            },
+            "075 Injecting BeEFs Hook In Any Webpage.mp4": {
+                "link": "https://www.mediafire.com/file/h83sqxhnkup7wqo/075_Injecting_BeEFs_Hook_In_Any_Webpage.mp4/file",
+                "slno": 75.0
+            },
+            "076 Luring Target Into Accessing Evil URL Without Direct Interaction.mp4": {
+                "link": "https://www.mediafire.com/file/1htj8e24g2b0a30/076_Luring_Target_Into_Accessing_Evil_URL_Without_Direct_Interaction.mp4/file",
+                "slno": 76.0
+            },
+            "077 Basic BeEF Commands.mp4": {
+                "link": "https://www.mediafire.com/file/qadc5rjcbjld383/077_Basic_BeEF_Commands.mp4/file",
+                "slno": 77.0
+            },
+            "078 Stealing CredentialsPasswords Using A Fake Login Prompt.mp4": {
+                "link": "https://www.mediafire.com/file/a6ryhfu9g9bdxpi/078_Stealing_CredentialsPasswords_Using_A_Fake_Login_Prompt.mp4/file",
+                "slno": 78.0
+            },
+            "079 Hacking Windows 10 Using A Fake Update.mp4": {
+                "link": "https://www.mediafire.com/file/94gscrs7y1ocorl/079_Hacking_Windows_10_Using_A_Fake_Update.mp4/file",
+                "slno": 79.0
+            },
+            "080 Hacking Mac OS X Using A Fake Update.mp4": {
+                "link": "https://www.mediafire.com/file/4n449qjum5ac89o/080_Hacking_Mac_OS_X_Using_A_Fake_Update.mp4/file",
+                "slno": 80.0
+            },
+            "081 Hacking Linux Using A Fake Update.mp4": {
+                "link": "https://www.mediafire.com/file/ddazblx7mfccgxv/081_Hacking_Linux_Using_A_Fake_Update.mp4/file",
+                "slno": 81.0
+            }
+        }
+    },
+    "14 Using The Above Attacks Outside The Local Network": {
+        "link": "https://www.mediafire.com/folder/723wdvbuahycl/14+Using+The+Above+Attacks+Outside+The+Local+Network",
+        "slno": 14.0,
+        "videos": {
+            "082 Overview of the Setup.mp4": {
+                "link": "https://www.mediafire.com/file/hblof9lh81hmj33/082_Overview_of_the_Setup.mp4/file",
+                "slno": 82.0
+            },
+            "083 Ex1 - Generating a Backdoor That Works Outside The Network.mp4": {
+                "link": "https://www.mediafire.com/file/zqwj49fuh8khjvh/083_Ex1_-_Generating_a_Backdoor_That_Works_Outside_The_Network.mp4/file",
+                "slno": 83.0
+            },
+            "084 Configuring The Router To Forward Connections To Kali.mp4": {
+                "link": "https://www.mediafire.com/file/fyzczaj0wwivca2/084_Configuring_The_Router_To_Forward_Connections_To_Kali.mp4/file",
+                "slno": 84.0
+            },
+            "085 Ex2 - Using BeEF Outside The Network.mp4": {
+                "link": "https://www.mediafire.com/file/0928p9mbo0wgash/085_Ex2_-_Using_BeEF_Outside_The_Network.mp4/file",
+                "slno": 85.0
+            }
+        }
+    },
+    "15 Post Exploitation": {
+        "link": "https://www.mediafire.com/folder/4tqjqvp0dzkfu/15+Post+Exploitation",
+        "slno": 15.0,
+        "videos": {
+            "086 Introduction.mp4": {
+                "link": "https://www.mediafire.com/file/9stcnu8uddfo1dy/086_Introduction.mp4/file",
+                "slno": 86.0
+            },
+            "087 Upgrading Basic Shell Access To A MeterpreterEmpire Access.mp4": {
+                "link": "https://www.mediafire.com/file/ex8rstfhz3sg595/087_Upgrading_Basic_Shell_Access_To_A_MeterpreterEmpire_Access.mp4/file",
+                "slno": 87.0
+            }
+        }
+    },
+    "16 Post Exploitation - Meterpreter": {
+        "link": "https://www.mediafire.com/folder/s6fhnncqrt74k/16+Post+Exploitation+-+Meterpreter",
+        "slno": 16.0,
+        "videos": {
+            "088 Meterpreter Basics.mp4": {
+                "link": "https://www.mediafire.com/file/7merz1r93c7zfab/088_Meterpreter_Basics.mp4/file",
+                "slno": 88.0
+            },
+            "089 File System Commands.mp4": {
+                "link": "https://www.mediafire.com/file/5g93uj1a7w3xt29/089_File_System_Commands.mp4/file",
+                "slno": 89.0
+            },
+            "090 Maintaining Access Basic Methods.mp4": {
+                "link": "https://www.mediafire.com/file/f09p5qfy6qkph93/090_Maintaining_Access_Basic_Methods.mp4/file",
+                "slno": 90.0
+            },
+            "091 Maintaining Access - Using a Reliable  undetectable Method.mp4": {
+                "link": "https://www.mediafire.com/file/z15hsjle3klqquj/091_Maintaining_Access_-_Using_a_Reliable__undetectable_Method.mp4/file",
+                "slno": 91.0
+            },
+            "092 Spying - Capturing Key Strikes  Taking Screen Shots.mp4": {
+                "link": "https://www.mediafire.com/file/2c2d696rld65x89/092_Spying_-_Capturing_Key_Strikes__Taking_Screen_Shots.mp4/file",
+                "slno": 92.0
+            },
+            "093 Pivoting - Theory (What is Pivoting).mp4": {
+                "link": "https://www.mediafire.com/file/wipwi41wp4w595v/093_Pivoting_-_Theory_%2528What_is_Pivoting%2529.mp4/file",
+                "slno": 93.0
+            },
+            "094 Pivoting - Exploiting Devices on The Same Network As The Target Computer.mp4": {
+                "link": "https://www.mediafire.com/file/6seoeknl69h88lv/094_Pivoting_-_Exploiting_Devices_on_The_Same_Network_As_The_Target_Computer.mp4/file",
+                "slno": 94.0
+            },
+            "095 Controlling Android Phone  Accessing Mic Camera Messages File System  More.mp4": {
+                "link": "https://www.mediafire.com/file/q5z0nt7hi7z9gdd/095_Controlling_Android_Phone__Accessing_Mic_Camera_Messages_File_System__More.mp4/file",
+                "slno": 95.0
+            },
+            "096 Maintaining Access On OS X.mp4": {
+                "link": "https://www.mediafire.com/file/yseonq99fwgx3p0/096_Maintaining_Access_On_OS_X.mp4/file",
+                "slno": 96.0
+            }
+        }
+    },
+    "17 Post Exploitation - Empire": {
+        "link": "https://www.mediafire.com/folder/c4asmv4lxo877/17+Post+Exploitation+-+Empire",
+        "slno": 17.0,
+        "videos": {
+            "097 Basics Of Empire Agents.mp4": {
+                "link": "https://www.mediafire.com/file/gx8fx11kfisgc2d/097_Basics_Of_Empire_Agents.mp4/file",
+                "slno": 97.0
+            },
+            "098 File System Commands.mp4": {
+                "link": "https://www.mediafire.com/file/37v8svcgrr5k2za/098_File_System_Commands.mp4/file",
+                "slno": 98.0
+            },
+            "099 Upload  Execute Shell Commands.mp4": {
+                "link": "https://www.mediafire.com/file/18r9tslux6dx8k4/099_Upload__Execute_Shell_Commands.mp4/file",
+                "slno": 99.0
+            },
+            "100 Injecting Backdoor Process In System Processes.mp4": {
+                "link": "https://www.mediafire.com/file/eqao0tiaxblfm8l/100_Injecting_Backdoor_Process_In_System_Processes.mp4/file",
+                "slno": 100.0
+            },
+            "101 Stealing root Password  Escalating Privileges On OS X.mp4": {
+                "link": "https://www.mediafire.com/file/qip0dn9m8xghb0b/101_Stealing_root_Password__Escalating_Privileges_On_OS_X.mp4/file",
+                "slno": 101.0
+            },
+            "102 Maintaining Access On OS X.mp4": {
+                "link": "https://www.mediafire.com/file/7vabpj7rb540zkf/102_Maintaining_Access_On_OS_X.mp4/file",
+                "slno": 102.0
+            }
+        }
+    },
+    "18 Security": {
+        "link": "https://www.mediafire.com/folder/ikbdtfe6t36ye/18+Security",
+        "slno": 18.0,
+        "videos": {
+            "103 Detecting FakeSpoofed Emails.mp4": {
+                "link": "https://www.mediafire.com/file/jr6toe3vi0frhmk/103_Detecting_FakeSpoofed_Emails.mp4/file",
+                "slno": 103.0
+            },
+            "104 How to Protect Against BeEF  Other Browser Exploits.mp4": {
+                "link": "https://www.mediafire.com/file/okojo9ous1f67bl/104_How_to_Protect_Against_BeEF__Other_Browser_Exploits.mp4/file",
+                "slno": 104.0
+            },
+            "105 Detecting Trojans Manually.mp4": {
+                "link": "https://www.mediafire.com/file/1e81c2cxw39z51j/105_Detecting_Trojans_Manually.mp4/file",
+                "slno": 105.0
+            },
+            "106 Hybrid-Analysis.txt": {
+                "link": "https://www.mediafire.com/file/cz36agpzjyk0xo5/106_Hybrid-Analysis.txt/file",
+                "slno": 106.0
+            },
+            "106 Detecting Trojans Using a Sandbox.mp4": {
+                "link": "https://www.mediafire.com/file/ju8k8pt7zs6j8sq/106_Detecting_Trojans_Using_a_Sandbox.mp4/file",
+                "slno": 106.0
+            }
+        }
+    },
+    "19 Bonus Section": {
+        "link": "https://www.mediafire.com/folder/d16gqxhks3lam/19+Bonus+Section",
+        "slno": 19.0,
+        "videos": {
+            "107 Bonus Lecture - Whats Next.html": {
+                "link": "https://www.mediafire.com/file/wsqwqpokz1nutno/107_Bonus_Lecture_-_Whats_Next.html/file",
+                "slno": 107.0
+            }
+        }
+    }
+}

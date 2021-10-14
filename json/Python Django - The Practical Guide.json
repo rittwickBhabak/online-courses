@@ -1,0 +1,888 @@
+{
+    "1 Getting Started": {
+        "link": "https://www.mediafire.com/folder/p33juuvplvbhw/1+Getting+Started",
+        "slno": 1.0,
+        "videos": {
+            "1 Welcome to the Course!.mp4": {
+                "link": "https://www.mediafire.com/file/q2fvv31jmd97qbo/1_Welcome_to_the_Course%2521.mp4/file",
+                "slno": 1.0
+            },
+            "2 What is Django.mp4": {
+                "link": "https://www.mediafire.com/file/lbe6dab1h2ms7c9/2_What_is_Django.mp4/file",
+                "slno": 2.0
+            },
+            "3 The Course Prerequisites.mp4": {
+                "link": "https://www.mediafire.com/file/bd75ynzxguwbklu/3_The_Course_Prerequisites.mp4/file",
+                "slno": 3.0
+            },
+            "4 What's Inside the Course.mp4": {
+                "link": "https://www.mediafire.com/file/uk2kpropby6ndbr/4_What%2527s_Inside_the_Course.mp4/file",
+                "slno": 4.0
+            },
+            "5 Getting the Most out of the Course.mp4": {
+                "link": "https://www.mediafire.com/file/dgec8kp9z3pp3g0/5_Getting_the_Most_out_of_the_Course.mp4/file",
+                "slno": 5.0
+            }
+        }
+    },
+    "2 Course Setup": {
+        "link": "https://www.mediafire.com/folder/xg0x783m27481/2+Course+Setup",
+        "slno": 2.0,
+        "videos": {
+            "6 Module Introduction.mp4": {
+                "link": "https://www.mediafire.com/file/ylor1agrqh80yvx/6_Module_Introduction.mp4/file",
+                "slno": 6.0
+            },
+            "7 Installing Python & Django.mp4": {
+                "link": "https://www.mediafire.com/file/j3lm6tncru3pmec/7_Installing_Python_%2526_Django.mp4/file",
+                "slno": 7.0
+            },
+            "8 Creating a Django Project.mp4": {
+                "link": "https://www.mediafire.com/file/sgfu9qqos2khy1s/8_Creating_a_Django_Project.mp4/file",
+                "slno": 8.0
+            },
+            "9 Installing an IDE.mp4": {
+                "link": "https://www.mediafire.com/file/yk3n7n6uch120ff/9_Installing_an_IDE.mp4/file",
+                "slno": 9.0
+            },
+            "10 Analyzing the Created Project.mp4": {
+                "link": "https://www.mediafire.com/file/pt56caz6d93z4r1/10_Analyzing_the_Created_Project.mp4/file",
+                "slno": 10.0
+            },
+            "11 Starting a Development Server.mp4": {
+                "link": "https://www.mediafire.com/file/81noszkog1io60w/11_Starting_a_Development_Server.mp4/file",
+                "slno": 11.0
+            },
+            "12 Django Apps.mp4": {
+                "link": "https://www.mediafire.com/file/c461jt260tapp11/12_Django_Apps.mp4/file",
+                "slno": 12.0
+            },
+            "13 Analyzing the Created Project.mp4": {
+                "link": "https://www.mediafire.com/file/hgppexj6lq9b9ls/13_Analyzing_the_Created_Project.mp4/file",
+                "slno": 13.0
+            }
+        }
+    },
+    "3 URLs": {
+        "link": "https://www.mediafire.com/folder/d8x1pmuwy28dm/3+URLs",
+        "slno": 3.0,
+        "videos": {
+            "14 Module Introduction.mp4": {
+                "link": "https://www.mediafire.com/file/rmea1d6h7ftis58/14_Module_Introduction.mp4/file",
+                "slno": 14.0
+            },
+            "15 Creating a New Project.mp4": {
+                "link": "https://www.mediafire.com/file/r36a8940ku18mfo/15_Creating_a_New_Project.mp4/file",
+                "slno": 15.0
+            },
+            "16 What are URLs & Views.mp4": {
+                "link": "https://www.mediafire.com/file/itjizrvk0j4skhq/16_What_are_URLs_%2526_Views.mp4/file",
+                "slno": 16.0
+            },
+            "17 Creating a First View & URL.mp4": {
+                "link": "https://www.mediafire.com/file/63bhlh673gh6lv7/17_Creating_a_First_View_%2526_URL.mp4/file",
+                "slno": 17.0
+            },
+            "18 Adding More Views & URLs.mp4": {
+                "link": "https://www.mediafire.com/file/b12ng2js44bn13h/18_Adding_More_Views_%2526_URLs.mp4/file",
+                "slno": 18.0
+            },
+            "19 Dynamic Path Segments & Captured Values.mp4": {
+                "link": "https://www.mediafire.com/file/vqnvjxchabdd6lx/19_Dynamic_Path_Segments_%2526_Captured_Values.mp4/file",
+                "slno": 19.0
+            },
+            "20 Path Converters.mp4": {
+                "link": "https://www.mediafire.com/file/0g1smcu67314zrz/20_Path_Converters.mp4/file",
+                "slno": 20.0
+            },
+            "21 Adding More Dynamic View Logic.mp4": {
+                "link": "https://www.mediafire.com/file/ux5xj1uni6548gk/21_Adding_More_Dynamic_View_Logic.mp4/file",
+                "slno": 21.0
+            },
+            "22 Redirects.mp4": {
+                "link": "https://www.mediafire.com/file/b9ordyk3lgxuxyb/22_Redirects.mp4/file",
+                "slno": 22.0
+            },
+            "23 The Reverse Function & Named URLs.mp4": {
+                "link": "https://www.mediafire.com/file/2y58tct6wwy9tkc/23_The_Reverse_Function_%2526_Named_URLs.mp4/file",
+                "slno": 23.0
+            },
+            "24 Returning HTML.mp4": {
+                "link": "https://www.mediafire.com/file/aqaj3lpthhj2gzm/24_Returning_HTML.mp4/file",
+                "slno": 24.0
+            },
+            "25 Practicing URLs, Views & Dynamic View Logic.mp4": {
+                "link": "https://www.mediafire.com/file/fianj4613wbmrnx/25_Practicing_URLs%252C_Views_%2526_Dynamic_View_Logic.mp4/file",
+                "slno": 25.0
+            },
+            "26 Summary.mp4": {
+                "link": "https://www.mediafire.com/file/epz1b9caeqxfn4c/26_Summary.mp4/file",
+                "slno": 26.0
+            }
+        }
+    },
+    "4 Templates": {
+        "link": "https://www.mediafire.com/folder/6g5ob66i6b0z6/4+Templates",
+        "slno": 4.0,
+        "videos": {
+            "27 Module Introduction.mp4": {
+                "link": "https://www.mediafire.com/file/8du9hnhemjyhv37/27_Module_Introduction.mp4/file",
+                "slno": 27.0
+            },
+            "28 Adding & Registering Templates.mp4": {
+                "link": "https://www.mediafire.com/file/1eula2a7rdgwt7u/28_Adding_%2526_Registering_Templates.mp4/file",
+                "slno": 28.0
+            },
+            "29 Rendering Templates.mp4": {
+                "link": "https://www.mediafire.com/file/hdstwzahbicgkhm/29_Rendering_Templates.mp4/file",
+                "slno": 29.0
+            },
+            "30 Template Language & Variable Interpolation.mp4": {
+                "link": "https://www.mediafire.com/file/w7otb5crkmz0utc/30_Template_Language_%2526_Variable_Interpolation.mp4/file",
+                "slno": 30.0
+            },
+            "31 Exercise Solution.mp4": {
+                "link": "https://www.mediafire.com/file/zx7g68qnzoa17ha/31_Exercise_Solution.mp4/file",
+                "slno": 31.0
+            },
+            "32 Filters.mp4": {
+                "link": "https://www.mediafire.com/file/45trwzs95wfixu1/32_Filters.mp4/file",
+                "slno": 32.0
+            },
+            "33 The Django Visual Studio Code Extension.mp4": {
+                "link": "https://www.mediafire.com/file/hlpoozzdeg2j3zo/33_The_Django_Visual_Studio_Code_Extension.mp4/file",
+                "slno": 33.0
+            },
+            "34 Tags & the for Tag.mp4": {
+                "link": "https://www.mediafire.com/file/l3595cl0n0uwp13/34_Tags_%2526_the_for_Tag.mp4/file",
+                "slno": 34.0
+            },
+            "35 The URL Tag for Dynamic URLs.mp4": {
+                "link": "https://www.mediafire.com/file/55qh2tg8tcknvun/35_The_URL_Tag_for_Dynamic_URLs.mp4/file",
+                "slno": 35.0
+            },
+            "36 The if Tag for Conditional Content.mp4": {
+                "link": "https://www.mediafire.com/file/whb9xnaz1x6wav7/36_The_if_Tag_for_Conditional_Content.mp4/file",
+                "slno": 36.0
+            },
+            "37 Template Inheritance.mp4": {
+                "link": "https://www.mediafire.com/file/tdam4oc7r4wgqgo/37_Template_Inheritance.mp4/file",
+                "slno": 37.0
+            },
+            "38 Exercise Solution.mp4": {
+                "link": "https://www.mediafire.com/file/z5ydhej671m21e2/38_Exercise_Solution.mp4/file",
+                "slno": 38.0
+            },
+            "39 Including Partial Template Snippets.mp4": {
+                "link": "https://www.mediafire.com/file/s650yyqsyoqvi8g/39_Including_Partial_Template_Snippets.mp4/file",
+                "slno": 39.0
+            },
+            "40 404 Templates.mp4": {
+                "link": "https://www.mediafire.com/file/i1r3o3leb64q3rw/40_404_Templates.mp4/file",
+                "slno": 40.0
+            },
+            "41 Adding Static Files.mp4": {
+                "link": "https://www.mediafire.com/file/95j6sa8jlu1f7ms/41_Adding_Static_Files.mp4/file",
+                "slno": 41.0
+            },
+            "42 Adding Global Static Files.mp4": {
+                "link": "https://www.mediafire.com/file/ab2y2nr77gmgghi/42_Adding_Global_Static_Files.mp4/file",
+                "slno": 42.0
+            },
+            "43 Adding CSS Styling.mp4": {
+                "link": "https://www.mediafire.com/file/up36lh5dsovwxzr/43_Adding_CSS_Styling.mp4/file",
+                "slno": 43.0
+            },
+            "44 Summary.mp4": {
+                "link": "https://www.mediafire.com/file/kcgv4ae9kmt6x9v/44_Summary.mp4/file",
+                "slno": 44.0
+            }
+        }
+    },
+    "5 Course Project Building a Blog - The Basics": {
+        "link": "https://www.mediafire.com/folder/6x0gatxha61ch/5+Course+Project+Building+a+Blog+-+The+Basics",
+        "slno": 5.0,
+        "videos": {
+            "45 Module Introduction.mp4": {
+                "link": "https://www.mediafire.com/file/rli51z624u7i1ua/45_Module_Introduction.mp4/file",
+                "slno": 45.0
+            },
+            "46 Setting Up the Starting Project.mp4": {
+                "link": "https://www.mediafire.com/file/o1x26dh4zid7fcw/46_Setting_Up_the_Starting_Project.mp4/file",
+                "slno": 46.0
+            },
+            "47 Planning the Project.mp4": {
+                "link": "https://www.mediafire.com/file/s0kotf3d3njv9sn/47_Planning_the_Project.mp4/file",
+                "slno": 47.0
+            },
+            "48 Adding URLs & Views.mp4": {
+                "link": "https://www.mediafire.com/file/o39m8bibg7y93bq/48_Adding_URLs_%2526_Views.mp4/file",
+                "slno": 48.0
+            },
+            "49 Adding First Templates.mp4": {
+                "link": "https://www.mediafire.com/file/a04jaib8ro9hc8p/49_Adding_First_Templates.mp4/file",
+                "slno": 49.0
+            },
+            "50 Template Content & Static Files.mp4": {
+                "link": "https://www.mediafire.com/file/4hshuokzefiln6t/50_Template_Content_%2526_Static_Files.mp4/file",
+                "slno": 50.0
+            },
+            "51 Adding Images as Static Files.mp4": {
+                "link": "https://www.mediafire.com/file/ew6xsmw5105jn0q/51_Adding_Images_as_Static_Files.mp4/file",
+                "slno": 51.0
+            },
+            "52 Adding the All Posts Page & Style.mp4": {
+                "link": "https://www.mediafire.com/file/jt66w43ygii22rh/52_Adding_the_All_Posts_Page_%2526_Style.mp4/file",
+                "slno": 52.0
+            },
+            "53 Linking the Pages.mp4": {
+                "link": "https://www.mediafire.com/file/lx45ux4qch4si81/53_Linking_the_Pages.mp4/file",
+                "slno": 53.0
+            },
+            "54 Adding the Single Post Page.mp4": {
+                "link": "https://www.mediafire.com/file/6gvqhe15f2tyi13/54_Adding_the_Single_Post_Page.mp4/file",
+                "slno": 54.0
+            },
+            "55 Adding Dummy Data to the Views File.mp4": {
+                "link": "https://www.mediafire.com/file/p9w8liiqr5e4j9x/55_Adding_Dummy_Data_to_the_Views_File.mp4/file",
+                "slno": 55.0
+            },
+            "56 Special Template Features & Syntax.mp4": {
+                "link": "https://www.mediafire.com/file/zsse9dy14hgsvrz/56_Special_Template_Features_%2526_Syntax.mp4/file",
+                "slno": 56.0
+            },
+            "57 Adding a Single Post Page.mp4": {
+                "link": "https://www.mediafire.com/file/io0z2kaahomy6q8/57_Adding_a_Single_Post_Page.mp4/file",
+                "slno": 57.0
+            },
+            "58 Adding a 404 Page.mp4": {
+                "link": "https://www.mediafire.com/file/5z4pod0q4079bxe/58_Adding_a_404_Page.mp4/file",
+                "slno": 58.0
+            }
+        }
+    },
+    "6 Data": {
+        "link": "https://www.mediafire.com/folder/dskzk7cnaadsd/6+Data",
+        "slno": 6.0,
+        "videos": {
+            "59 Module Introduction.mp4": {
+                "link": "https://www.mediafire.com/file/pyl8cly6klo7i3v/59_Module_Introduction.mp4/file",
+                "slno": 59.0
+            },
+            "60 Different Kinds of Data.mp4": {
+                "link": "https://www.mediafire.com/file/ha4fj9d3w3ogr1m/60_Different_Kinds_of_Data.mp4/file",
+                "slno": 60.0
+            },
+            "61 Understanding Database Options.mp4": {
+                "link": "https://www.mediafire.com/file/l66fwicdms1b0uo/61_Understanding_Database_Options.mp4/file",
+                "slno": 61.0
+            },
+            "62 Understanding SQL.mp4": {
+                "link": "https://www.mediafire.com/file/2dj430v50ppebnv/62_Understanding_SQL.mp4/file",
+                "slno": 62.0
+            },
+            "63 Django Models.mp4": {
+                "link": "https://www.mediafire.com/file/sben4gka3efmxia/63_Django_Models.mp4/file",
+                "slno": 63.0
+            },
+            "64 Creating a Django Model with Fields.mp4": {
+                "link": "https://www.mediafire.com/file/kia9s0ccx4rbmx8/64_Creating_a_Django_Model_with_Fields.mp4/file",
+                "slno": 64.0
+            },
+            "65 Migrations.mp4": {
+                "link": "https://www.mediafire.com/file/2vcrturdpaq17kx/65_Migrations.mp4/file",
+                "slno": 65.0
+            },
+            "66 Inserting Data.mp4": {
+                "link": "https://www.mediafire.com/file/shrybc2zmz9dcf5/66_Inserting_Data.mp4/file",
+                "slno": 66.0
+            },
+            "67 Getting all Entries.mp4": {
+                "link": "https://www.mediafire.com/file/tec0pf5rufe1d1b/67_Getting_all_Entries.mp4/file",
+                "slno": 67.0
+            },
+            "68 Updating Models & Migrations.mp4": {
+                "link": "https://www.mediafire.com/file/nft5sr5yzapyt77/68_Updating_Models_%2526_Migrations.mp4/file",
+                "slno": 68.0
+            },
+            "69 Updating Data.mp4": {
+                "link": "https://www.mediafire.com/file/g3ea78z47vmg86b/69_Updating_Data.mp4/file",
+                "slno": 69.0
+            },
+            "70 Deleting Data.mp4": {
+                "link": "https://www.mediafire.com/file/l8jjfv10lc9vmif/70_Deleting_Data.mp4/file",
+                "slno": 70.0
+            },
+            "71 Create Instead of Save.mp4": {
+                "link": "https://www.mediafire.com/file/aextif474hrts3l/71_Create_Instead_of_Save.mp4/file",
+                "slno": 71.0
+            },
+            "72 Querying & Filtering Data.mp4": {
+                "link": "https://www.mediafire.com/file/tka3nreymx22k7j/72_Querying_%2526_Filtering_Data.mp4/file",
+                "slno": 72.0
+            },
+            "73 or Conditions.mp4": {
+                "link": "https://www.mediafire.com/file/8arpf6bhozb3dli/73_or_Conditions.mp4/file",
+                "slno": 73.0
+            },
+            "74 Query Performance.mp4": {
+                "link": "https://www.mediafire.com/file/r0ez3oausgmya9x/74_Query_Performance.mp4/file",
+                "slno": 74.0
+            },
+            "75 Preparing Templates.mp4": {
+                "link": "https://www.mediafire.com/file/eh26a2f31it85rk/75_Preparing_Templates.mp4/file",
+                "slno": 75.0
+            },
+            "76 Rendering Queried Data in the Template.mp4": {
+                "link": "https://www.mediafire.com/file/0kchpzp95otsnxc/76_Rendering_Queried_Data_in_the_Template.mp4/file",
+                "slno": 76.0
+            },
+            "77 Redering the Details Page.mp4": {
+                "link": "https://www.mediafire.com/file/12w7xzobrkvqd1t/77_Redering_the_Details_Page.mp4/file",
+                "slno": 77.0
+            },
+            "78 Model URLs.mp4": {
+                "link": "https://www.mediafire.com/file/r65ab1ksuxj4r85/78_Model_URLs.mp4/file",
+                "slno": 78.0
+            },
+            "79 Adding a Slugfield & Overwriting Save.mp4": {
+                "link": "https://www.mediafire.com/file/9eicf1kzflomh91/79_Adding_a_Slugfield_%2526_Overwriting_Save.mp4/file",
+                "slno": 79.0
+            },
+            "80 Using the Slug & Updating Field Options.mp4": {
+                "link": "https://www.mediafire.com/file/cn9wys2s69izs2p/80_Using_the_Slug_%2526_Updating_Field_Options.mp4/file",
+                "slno": 80.0
+            },
+            "81 Aggregation & Ordering.mp4": {
+                "link": "https://www.mediafire.com/file/guw3xepnwqst2lh/81_Aggregation_%2526_Ordering.mp4/file",
+                "slno": 81.0
+            },
+            "82 Summary.mp4": {
+                "link": "https://www.mediafire.com/file/rk0kcbtbb5u9ujb/82_Summary.mp4/file",
+                "slno": 82.0
+            }
+        }
+    },
+    "7 Admin": {
+        "link": "https://www.mediafire.com/folder/pwga3jl6s4dbt/7+Admin",
+        "slno": 7.0,
+        "videos": {
+            "83 Module Introduction.mp4": {
+                "link": "https://www.mediafire.com/file/9lzqoulclew34h3/83_Module_Introduction.mp4/file",
+                "slno": 83.0
+            },
+            "84 Logging Data Into the Admin Panel.mp4": {
+                "link": "https://www.mediafire.com/file/ptoq0yluzh4jiro/84_Logging_Data_Into_the_Admin_Panel.mp4/file",
+                "slno": 84.0
+            },
+            "85 Adding Models to the Admin Area.mp4": {
+                "link": "https://www.mediafire.com/file/xqe9tgrakru4k2l/85_Adding_Models_to_the_Admin_Area.mp4/file",
+                "slno": 85.0
+            },
+            "86 Configuring Model Fields.mp4": {
+                "link": "https://www.mediafire.com/file/2m35jv9kh7rfti0/86_Configuring_Model_Fields.mp4/file",
+                "slno": 86.0
+            },
+            "87 Configuring the Admin Settings.mp4": {
+                "link": "https://www.mediafire.com/file/iq9vjwy9vetzdi9/87_Configuring_the_Admin_Settings.mp4/file",
+                "slno": 87.0
+            },
+            "88 More Config Options.mp4": {
+                "link": "https://www.mediafire.com/file/l1r4z8gompeqjmz/88_More_Config_Options.mp4/file",
+                "slno": 88.0
+            }
+        }
+    },
+    "8 Relationships": {
+        "link": "https://www.mediafire.com/folder/1k2x6kfmbwpgq/8+Relationships",
+        "slno": 8.0,
+        "videos": {
+            "89 Module Introduction.mp4": {
+                "link": "https://www.mediafire.com/file/1erwt1748hz0v7y/89_Module_Introduction.mp4/file",
+                "slno": 89.0
+            },
+            "90 Understanding Relationship Types.mp4": {
+                "link": "https://www.mediafire.com/file/5tdow4aiq0k6ju7/90_Understanding_Relationship_Types.mp4/file",
+                "slno": 90.0
+            },
+            "91 Adding a one-to-many Relation & Migrations.mp4": {
+                "link": "https://www.mediafire.com/file/0k10r8rbkbms2o1/91_Adding_a_one-to-many_Relation_%2526_Migrations.mp4/file",
+                "slno": 91.0
+            },
+            "92 Working with Relations in Python Code.mp4": {
+                "link": "https://www.mediafire.com/file/1nat7v6wk0z85jw/92_Working_with_Relations_in_Python_Code.mp4/file",
+                "slno": 92.0
+            },
+            "93 Cross Model Queries.mp4": {
+                "link": "https://www.mediafire.com/file/4e91e08dekde3w8/93_Cross_Model_Queries.mp4/file",
+                "slno": 93.0
+            },
+            "94 Managing Relations in Admin.mp4": {
+                "link": "https://www.mediafire.com/file/7p2i6ej0i5fi8xu/94_Managing_Relations_in_Admin.mp4/file",
+                "slno": 94.0
+            },
+            "95 Adding a one-to-one Relation.mp4": {
+                "link": "https://www.mediafire.com/file/4e3p6hxf41v9yzs/95_Adding_a_one-to-one_Relation.mp4/file",
+                "slno": 95.0
+            },
+            "96 One-to-one Python Code.mp4": {
+                "link": "https://www.mediafire.com/file/onqgyvr8lmg9ho8/96_One-to-one_Python_Code.mp4/file",
+                "slno": 96.0
+            },
+            "97 One-to-one & Admin Config.mp4": {
+                "link": "https://www.mediafire.com/file/euvymyz88fznh2j/97_One-to-one_%2526_Admin_Config.mp4/file",
+                "slno": 97.0
+            },
+            "98 Setting-up many-to-many.mp4": {
+                "link": "https://www.mediafire.com/file/an5blo01zkdcdfh/98_Setting-up_many-to-many.mp4/file",
+                "slno": 98.0
+            },
+            "99 Using many-to-many in Python.mp4": {
+                "link": "https://www.mediafire.com/file/2row5w3bi99au8k/99_Using_many-to-many_in_Python.mp4/file",
+                "slno": 99.0
+            },
+            "100 Many-to-many in Admin.mp4": {
+                "link": "https://www.mediafire.com/file/axlv0detiu0w7ox/100_Many-to-many_in_Admin.mp4/file",
+                "slno": 100.0
+            },
+            "101 Summary.mp4": {
+                "link": "https://www.mediafire.com/file/9rhy0hw5d8jmesa/101_Summary.mp4/file",
+                "slno": 101.0
+            }
+        }
+    },
+    "9 Course Project - Building a Blog Data": {
+        "link": "https://www.mediafire.com/folder/bfd7p1yd9xzx7/9+Course+Project+-+Building+a+Blog+Data",
+        "slno": 9.0,
+        "videos": {
+            "102 Module Introduction.mp4": {
+                "link": "https://www.mediafire.com/file/5evcazpytm9id6a/102_Module_Introduction.mp4/file",
+                "slno": 102.0
+            },
+            "103 Planning the Data Models.mp4": {
+                "link": "https://www.mediafire.com/file/6j369fnisues7w1/103_Planning_the_Data_Models.mp4/file",
+                "slno": 103.0
+            },
+            "104 Adding a Post Model.mp4": {
+                "link": "https://www.mediafire.com/file/jl7puqzpfn0mhyl/104_Adding_a_Post_Model.mp4/file",
+                "slno": 104.0
+            },
+            "105 Author Model & one-to-many.mp4": {
+                "link": "https://www.mediafire.com/file/k934qbtl76wy53y/105_Author_Model_%2526_one-to-many.mp4/file",
+                "slno": 105.0
+            },
+            "106 Tag Model many-to-many.mp4": {
+                "link": "https://www.mediafire.com/file/23kpos5rs3k1mdp/106_Tag_Model_many-to-many.mp4/file",
+                "slno": 106.0
+            },
+            "107 Registering Models for Admin.mp4": {
+                "link": "https://www.mediafire.com/file/yz4zj1tknz6rg0b/107_Registering_Models_for_Admin.mp4/file",
+                "slno": 107.0
+            },
+            "108 Migrations & Admin Login.mp4": {
+                "link": "https://www.mediafire.com/file/91ubjek8x47td4y/108_Migrations_%2526_Admin_Login.mp4/file",
+                "slno": 108.0
+            },
+            "109 Adding Data via Admin.mp4": {
+                "link": "https://www.mediafire.com/file/r1eo8hfxdyphihi/109_Adding_Data_via_Admin.mp4/file",
+                "slno": 109.0
+            },
+            "110 Configuring the Admin Panel.mp4": {
+                "link": "https://www.mediafire.com/file/39ywp5tu8ark6xb/110_Configuring_the_Admin_Panel.mp4/file",
+                "slno": 110.0
+            },
+            "111 Fetching Posts for Starting Page.mp4": {
+                "link": "https://www.mediafire.com/file/shmrfamd8ebyoc6/111_Fetching_Posts_for_Starting_Page.mp4/file",
+                "slno": 111.0
+            },
+            "112 All Post & Single Post Pages.mp4": {
+                "link": "https://www.mediafire.com/file/aw5go2kri4ts4hm/112_All_Post_%2526_Single_Post_Pages.mp4/file",
+                "slno": 112.0
+            },
+            "113 Using Author & Tags Data.mp4": {
+                "link": "https://www.mediafire.com/file/0n3tui5tusgla5f/113_Using_Author_%2526_Tags_Data.mp4/file",
+                "slno": 113.0
+            },
+            "114 Summary.mp4": {
+                "link": "https://www.mediafire.com/file/p7skg0olas5tdro/114_Summary.mp4/file",
+                "slno": 114.0
+            }
+        }
+    },
+    "10 Forms": {
+        "link": "https://www.mediafire.com/folder/ez0mk9cz1wep7/10+Forms",
+        "slno": 10.0,
+        "videos": {
+            "115 Module Introduction.mp4": {
+                "link": "https://www.mediafire.com/file/c0rp2cs7se3ak3k/115_Module_Introduction.mp4/file",
+                "slno": 115.0
+            },
+            "116 Starting Setup.mp4": {
+                "link": "https://www.mediafire.com/file/1miqrf86mq0y96o/116_Starting_Setup.mp4/file",
+                "slno": 116.0
+            },
+            "117 Adding a Dummy Form.mp4": {
+                "link": "https://www.mediafire.com/file/mkf9697z06bo1ol/117_Adding_a_Dummy_Form.mp4/file",
+                "slno": 117.0
+            },
+            "118 Get & Post Requests.mp4": {
+                "link": "https://www.mediafire.com/file/t29cfg7opcxbygg/118_Get_%2526_Post_Requests.mp4/file",
+                "slno": 118.0
+            },
+            "119 CSRF Protection.mp4": {
+                "link": "https://www.mediafire.com/file/mgatq0rg5suwhrs/119_CSRF_Protection.mp4/file",
+                "slno": 119.0
+            },
+            "120 Handling Form Submission & Extracting Data.mp4": {
+                "link": "https://www.mediafire.com/file/3ggohrkvpgurv4m/120_Handling_Form_Submission_%2526_Extracting_Data.mp4/file",
+                "slno": 120.0
+            },
+            "121 Manual Form Validation & the Problems with that.mp4": {
+                "link": "https://www.mediafire.com/file/e8rigws8ovew8ik/121_Manual_Form_Validation_%2526_the_Problems_with_that.mp4/file",
+                "slno": 121.0
+            },
+            "122 Using the Django Form Class.mp4": {
+                "link": "https://www.mediafire.com/file/m417t7s45ajavyw/122_Using_the_Django_Form_Class.mp4/file",
+                "slno": 122.0
+            },
+            "123 Validation with Django Forms.mp4": {
+                "link": "https://www.mediafire.com/file/d6e0bakcgy7wa5p/123_Validation_with_Django_Forms.mp4/file",
+                "slno": 123.0
+            },
+            "124 Customizing the Form Controls.mp4": {
+                "link": "https://www.mediafire.com/file/7hye5lr5po3055t/124_Customizing_the_Form_Controls.mp4/file",
+                "slno": 124.0
+            },
+            "125 Customizing the Rendered HTML.mp4": {
+                "link": "https://www.mediafire.com/file/jt6xtv6zdmnat3v/125_Customizing_the_Rendered_HTML.mp4/file",
+                "slno": 125.0
+            },
+            "126 Adding Styling.mp4": {
+                "link": "https://www.mediafire.com/file/kj6cakydh8v8je8/126_Adding_Styling.mp4/file",
+                "slno": 126.0
+            },
+            "127 Adding More Form Controls.mp4": {
+                "link": "https://www.mediafire.com/file/4bkq0p81zrtox3x/127_Adding_More_Form_Controls.mp4/file",
+                "slno": 127.0
+            },
+            "128 Storing Form Data in a Database.mp4": {
+                "link": "https://www.mediafire.com/file/6649vc6yg43hujo/128_Storing_Form_Data_in_a_Database.mp4/file",
+                "slno": 128.0
+            },
+            "129 Introducing Modelforms.mp4": {
+                "link": "https://www.mediafire.com/file/93db3lpyvm3mrqt/129_Introducing_Modelforms.mp4/file",
+                "slno": 129.0
+            },
+            "130 Configuring the Modelform.mp4": {
+                "link": "https://www.mediafire.com/file/y8802c3merb97i5/130_Configuring_the_Modelform.mp4/file",
+                "slno": 130.0
+            },
+            "131 Saving Data with a Modelform.mp4": {
+                "link": "https://www.mediafire.com/file/fp454kth7c5o83r/131_Saving_Data_with_a_Modelform.mp4/file",
+                "slno": 131.0
+            },
+            "132 Class Based Views.mp4": {
+                "link": "https://www.mediafire.com/file/mquvri0l35qee59/132_Class_Based_Views.mp4/file",
+                "slno": 132.0
+            },
+            "133 Summary.mp4": {
+                "link": "https://www.mediafire.com/file/98wbsp8aocmzbvh/133_Summary.mp4/file",
+                "slno": 133.0
+            }
+        }
+    },
+    "11 Class Views": {
+        "link": "https://www.mediafire.com/folder/i0nk3l2uy50mq/11+Class+Views",
+        "slno": 11.0,
+        "videos": {
+            "134 Module Introduction.mp4": {
+                "link": "https://www.mediafire.com/file/jrcldml6mlzju19/134_Module_Introduction.mp4/file",
+                "slno": 134.0
+            },
+            "135 Adding Templates.mp4": {
+                "link": "https://www.mediafire.com/file/ww85ud41p9qb8rf/135_Adding_Templates.mp4/file",
+                "slno": 135.0
+            },
+            "136 TemplateView.mp4": {
+                "link": "https://www.mediafire.com/file/n09igzacmz9dy6z/136_TemplateView.mp4/file",
+                "slno": 136.0
+            },
+            "137 Using the TemplateView.mp4": {
+                "link": "https://www.mediafire.com/file/n2udeix6xarxscn/137_Using_the_TemplateView.mp4/file",
+                "slno": 137.0
+            },
+            "138 Showing a Detail Template.mp4": {
+                "link": "https://www.mediafire.com/file/fgu7xs4cifzlbto/138_Showing_a_Detail_Template.mp4/file",
+                "slno": 138.0
+            },
+            "139 The ListView.mp4": {
+                "link": "https://www.mediafire.com/file/g38c1xqvhk6yfq7/139_The_ListView.mp4/file",
+                "slno": 139.0
+            },
+            "140 DetailView.mp4": {
+                "link": "https://www.mediafire.com/file/qcmkf2s1reig5xh/140_DetailView.mp4/file",
+                "slno": 140.0
+            },
+            "141 When to Use Which View.mp4": {
+                "link": "https://www.mediafire.com/file/uptqb2n5oty223h/141_When_to_Use_Which_View.mp4/file",
+                "slno": 141.0
+            },
+            "142 FormView.mp4": {
+                "link": "https://www.mediafire.com/file/11gdczlkjgyh6wt/142_FormView.mp4/file",
+                "slno": 142.0
+            },
+            "143 CreateView.mp4": {
+                "link": "https://www.mediafire.com/file/6u1js18amlkfo4o/143_CreateView.mp4/file",
+                "slno": 143.0
+            }
+        }
+    },
+    "12 File Uploads": {
+        "link": "https://www.mediafire.com/folder/ryd9xzmgki238/12+File+Uploads",
+        "slno": 12.0,
+        "videos": {
+            "144 Module Introduction.mp4": {
+                "link": "https://www.mediafire.com/file/1hgz3cmqc87c9am/144_Module_Introduction.mp4/file",
+                "slno": 144.0
+            },
+            "145 Starting Setup.mp4": {
+                "link": "https://www.mediafire.com/file/mmqt30eh2smxrnw/145_Starting_Setup.mp4/file",
+                "slno": 145.0
+            },
+            "146 Making the File Upload Work.mp4": {
+                "link": "https://www.mediafire.com/file/0utuf03vch9qys8/146_Making_the_File_Upload_Work.mp4/file",
+                "slno": 146.0
+            },
+            "147 Storing Uploaded Files Naive Approach.mp4": {
+                "link": "https://www.mediafire.com/file/0sueu8z59jimrzm/147_Storing_Uploaded_Files_Naive_Approach.mp4/file",
+                "slno": 147.0
+            },
+            "148 Adding a Form with a Filefield (.mp4": {
+                "link": "https://www.mediafire.com/file/ybfb078b6ba7vem/148_Adding_a_Form_with_a_Filefield_%2528.mp4/file",
+                "slno": 148.0
+            },
+            "149 Using Models for File Storage.mp4": {
+                "link": "https://www.mediafire.com/file/3xuaw6u7k2s4c6f/149_Using_Models_for_File_Storage.mp4/file",
+                "slno": 149.0
+            },
+            "150 Using an Imagefield.mp4": {
+                "link": "https://www.mediafire.com/file/mlo689ztvhzs4nh/150_Using_an_Imagefield.mp4/file",
+                "slno": 150.0
+            },
+            "151 Using a CreateView.mp4": {
+                "link": "https://www.mediafire.com/file/5l317bvhmi0y53x/151_Using_a_CreateView.mp4/file",
+                "slno": 151.0
+            },
+            "152 Working with the File Field.mp4": {
+                "link": "https://www.mediafire.com/file/sqf538s7jday5oa/152_Working_with_the_File_Field.mp4/file",
+                "slno": 152.0
+            },
+            "153 Serving Uploaded Files.mp4": {
+                "link": "https://www.mediafire.com/file/xirz0sj68cf35qs/153_Serving_Uploaded_Files.mp4/file",
+                "slno": 153.0
+            },
+            "154 Summary.mp4": {
+                "link": "https://www.mediafire.com/file/d8nii4xxz6z56sx/154_Summary.mp4/file",
+                "slno": 154.0
+            }
+        }
+    },
+    "13 Sessions": {
+        "link": "https://www.mediafire.com/folder/vkab5ouqhu47m/13+Sessions",
+        "slno": 13.0,
+        "videos": {
+            "155 Module Introduction.mp4": {
+                "link": "https://www.mediafire.com/file/9s7uvez1m8z567a/155_Module_Introduction.mp4/file",
+                "slno": 155.0
+            },
+            "156 Problem Description.mp4": {
+                "link": "https://www.mediafire.com/file/6cwl6xutu8bze52/156_Problem_Description.mp4/file",
+                "slno": 156.0
+            },
+            "157 What are Sessions.mp4": {
+                "link": "https://www.mediafire.com/file/r12qob296q4ktcz/157_What_are_Sessions.mp4/file",
+                "slno": 157.0
+            },
+            "158 Enabling & Configuring Sessions.mp4": {
+                "link": "https://www.mediafire.com/file/zpqgs6ogdzf4eqm/158_Enabling_%2526_Configuring_Sessions.mp4/file",
+                "slno": 158.0
+            },
+            "159 Adding a New View.mp4": {
+                "link": "https://www.mediafire.com/file/supfjzh6v9y99ld/159_Adding_a_New_View.mp4/file",
+                "slno": 159.0
+            },
+            "160 Storing Data in Sessions.mp4": {
+                "link": "https://www.mediafire.com/file/wep9t888g799axb/160_Storing_Data_in_Sessions.mp4/file",
+                "slno": 160.0
+            },
+            "161 Which Kind of Data Should be Stored.mp4": {
+                "link": "https://www.mediafire.com/file/s8rsbl5ibb03627/161_Which_Kind_of_Data_Should_be_Stored.mp4/file",
+                "slno": 161.0
+            },
+            "162 Using Session Data.mp4": {
+                "link": "https://www.mediafire.com/file/5otdkqdm1e37efq/162_Using_Session_Data.mp4/file",
+                "slno": 162.0
+            },
+            "163 Safely Accessing Session Data.mp4": {
+                "link": "https://www.mediafire.com/file/er3svrlz6llyx2i/163_Safely_Accessing_Session_Data.mp4/file",
+                "slno": 163.0
+            },
+            "164 Summary.mp4": {
+                "link": "https://www.mediafire.com/file/rotmm6gucnssvyh/164_Summary.mp4/file",
+                "slno": 164.0
+            }
+        }
+    },
+    "14 Course Project Building a Blog - Forms, Files": {
+        "link": "https://www.mediafire.com/folder/g8vxfyy8fplb5/14+Course+Project+Building+a+Blog+-+Forms,+Files",
+        "slno": 14.0,
+        "videos": {
+            "165 Module Introduction.mp4": {
+                "link": "https://www.mediafire.com/file/3gf95w1um56z9jl/165_Module_Introduction.mp4/file",
+                "slno": 165.0
+            },
+            "166 Adding an Imagefield to the Post Model.mp4": {
+                "link": "https://www.mediafire.com/file/isyluy6qgw13qa4/166_Adding_an_Imagefield_to_the_Post_Model.mp4/file",
+                "slno": 166.0
+            },
+            "167 Serving Uploaded Files.mp4": {
+                "link": "https://www.mediafire.com/file/edpzrwwyetype9b/167_Serving_Uploaded_Files.mp4/file",
+                "slno": 167.0
+            },
+            "168 Converting Views to Class Based.mp4": {
+                "link": "https://www.mediafire.com/file/amqpwmxnygzjbhd/168_Converting_Views_to_Class_Based.mp4/file",
+                "slno": 168.0
+            },
+            "169 Adding a Comment Model.mp4": {
+                "link": "https://www.mediafire.com/file/ad0wjc1ubhcrvad/169_Adding_a_Comment_Model.mp4/file",
+                "slno": 169.0
+            },
+            "170 Adding a Comment Form.mp4": {
+                "link": "https://www.mediafire.com/file/igwbes43gsipb74/170_Adding_a_Comment_Form.mp4/file",
+                "slno": 170.0
+            },
+            "171 Styling the Comment Form.mp4": {
+                "link": "https://www.mediafire.com/file/udt5x1ahbnpblou/171_Styling_the_Comment_Form.mp4/file",
+                "slno": 171.0
+            },
+            "172 Handling Comment Form Submission.mp4": {
+                "link": "https://www.mediafire.com/file/a9x8aiwsi5rrssa/172_Handling_Comment_Form_Submission.mp4/file",
+                "slno": 172.0
+            },
+            "173 Comment Form Validation Styles.mp4": {
+                "link": "https://www.mediafire.com/file/sn87zwmw5zb41gm/173_Comment_Form_Validation_Styles.mp4/file",
+                "slno": 173.0
+            },
+            "174 Outputting Comments.mp4": {
+                "link": "https://www.mediafire.com/file/5fx9pg1thoxc6ub/174_Outputting_Comments.mp4/file",
+                "slno": 174.0
+            },
+            "175 Styling the Comments.mp4": {
+                "link": "https://www.mediafire.com/file/ehkghds5ea6wpd5/175_Styling_the_Comments.mp4/file",
+                "slno": 175.0
+            },
+            "176 Comment Admin.mp4": {
+                "link": "https://www.mediafire.com/file/3nfu7vb75neyqy8/176_Comment_Admin.mp4/file",
+                "slno": 176.0
+            },
+            "177 Read Later Starting Setup.mp4": {
+                "link": "https://www.mediafire.com/file/okpj4yogxbhqsf9/177_Read_Later_Starting_Setup.mp4/file",
+                "slno": 177.0
+            },
+            "178 Managing Read Later via Session.mp4": {
+                "link": "https://www.mediafire.com/file/o5l1fmkgc5nirgv/178_Managing_Read_Later_via_Session.mp4/file",
+                "slno": 178.0
+            },
+            "179 Read Later Page & Styling.mp4": {
+                "link": "https://www.mediafire.com/file/m5147bej141gstk/179_Read_Later_Page_%2526_Styling.mp4/file",
+                "slno": 179.0
+            },
+            "180 Finishing the Read Later Feature.mp4": {
+                "link": "https://www.mediafire.com/file/utp3p3w8j3v6p3m/180_Finishing_the_Read_Later_Feature.mp4/file",
+                "slno": 180.0
+            }
+        }
+    },
+    "15 Deployment": {
+        "link": "https://www.mediafire.com/folder/ptn3pj2doj0xl/15+Deployment",
+        "slno": 15.0,
+        "videos": {
+            "181 Module Introduction.mp4": {
+                "link": "https://www.mediafire.com/file/z80gfs7sefk5dir/181_Module_Introduction.mp4/file",
+                "slno": 181.0
+            },
+            "182 Deployment Considerations.mp4": {
+                "link": "https://www.mediafire.com/file/uw89oq2z4a6x2x6/182_Deployment_Considerations.mp4/file",
+                "slno": 182.0
+            },
+            "183 Which Database.mp4": {
+                "link": "https://www.mediafire.com/file/fczxfb0ixxulca1/183_Which_Database.mp4/file",
+                "slno": 183.0
+            },
+            "184 Django & Web Servers.mp4": {
+                "link": "https://www.mediafire.com/file/gpc38wbqc97t0x4/184_Django_%2526_Web_Servers.mp4/file",
+                "slno": 184.0
+            },
+            "185 Serving Static Files.mp4": {
+                "link": "https://www.mediafire.com/file/6dqskmuy0oydgw2/185_Serving_Static_Files.mp4/file",
+                "slno": 185.0
+            },
+            "186 Choosing a Hosting Provider.mp4": {
+                "link": "https://www.mediafire.com/file/pfn9g3lu7b1fsob/186_Choosing_a_Hosting_Provider.mp4/file",
+                "slno": 186.0
+            },
+            "187 Getting Started & Revisiting Settings.mp4": {
+                "link": "https://www.mediafire.com/file/rsc5ncjjtjq14v6/187_Getting_Started_%2526_Revisiting_Settings.mp4/file",
+                "slno": 187.0
+            },
+            "188 Collecting Static Files.mp4": {
+                "link": "https://www.mediafire.com/file/9o4okmghueh42ru/188_Collecting_Static_Files.mp4/file",
+                "slno": 188.0
+            },
+            "189 Serving Static Files.mp4": {
+                "link": "https://www.mediafire.com/file/hohh06hqvryit96/189_Serving_Static_Files.mp4/file",
+                "slno": 189.0
+            },
+            "190 A Note About Migrations.mp4": {
+                "link": "https://www.mediafire.com/file/3v9at60bh6lo4fn/190_A_Note_About_Migrations.mp4/file",
+                "slno": 190.0
+            },
+            "191 Locking in Dependencies.mp4": {
+                "link": "https://www.mediafire.com/file/uc3os4ofklc27j4/191_Locking_in_Dependencies.mp4/file",
+                "slno": 191.0
+            },
+            "192 Using Environment Variables.mp4": {
+                "link": "https://www.mediafire.com/file/pcusd7ki9i3osa8/192_Using_Environment_Variables.mp4/file",
+                "slno": 192.0
+            },
+            "193 Deploying with Elastic Beanstalk.mp4": {
+                "link": "https://www.mediafire.com/file/8ewzwjoyxqgbn2m/193_Deploying_with_Elastic_Beanstalk.mp4/file",
+                "slno": 193.0
+            },
+            "194 SSL & Custom Domains.mp4": {
+                "link": "https://www.mediafire.com/file/rfg08n1w9yyd6wj/194_SSL_%2526_Custom_Domains.mp4/file",
+                "slno": 194.0
+            },
+            "195 Connecting PostgreSQL.mp4": {
+                "link": "https://www.mediafire.com/file/zgz1wszc3u5lzz2/195_Connecting_PostgreSQL.mp4/file",
+                "slno": 195.0
+            },
+            "196 Serving Static Files Separately.mp4": {
+                "link": "https://www.mediafire.com/file/al70u4nn4nkdq2d/196_Serving_Static_Files_Separately.mp4/file",
+                "slno": 196.0
+            },
+            "197 Serving Static Files via S3.mp4": {
+                "link": "https://www.mediafire.com/file/y8ps09lonxllz9b/197_Serving_Static_Files_via_S3.mp4/file",
+                "slno": 197.0
+            },
+            "198 Moving File Uploads to S3.mp4": {
+                "link": "https://www.mediafire.com/file/e5jgw2mq0yqpi5y/198_Moving_File_Uploads_to_S3.mp4/file",
+                "slno": 198.0
+            },
+            "199 Summary.mp4": {
+                "link": "https://www.mediafire.com/file/pub73866s6v23qq/199_Summary.mp4/file",
+                "slno": 199.0
+            }
+        }
+    }
+}

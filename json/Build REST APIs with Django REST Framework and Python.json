@@ -1,0 +1,438 @@
+{
+    "1. Course Introduction": {
+        "link": "https://www.mediafire.com/folder/drnfihk2wuv5d/1.+Course+Introduction",
+        "slno": 1.0,
+        "videos": {
+            "1. Course Introduction.mp4": {
+                "link": "https://www.mediafire.com/file/ii6uqj5i5pbpm49/1._Course_Introduction.mp4/file",
+                "slno": 1.0
+            },
+            "2. Welcome - Lets Get Started!.mp4": {
+                "link": "https://www.mediafire.com/file/f1xs34vxugo7hfc/2._Welcome_-_Lets_Get_Started%2521.mp4/file",
+                "slno": 2.0
+            }
+        }
+    },
+    "2. Basic API Concepts - Theory": {
+        "link": "https://www.mediafire.com/folder/qf6lhn94400w2/2.+Basic+API+Concepts+-+Theory",
+        "slno": 2.0,
+        "videos": {
+            "1. Understanding API.mp4": {
+                "link": "https://www.mediafire.com/file/tft5y7n12kne6t3/1._Understanding_API.mp4/file",
+                "slno": 1.0
+            },
+            "2. Understanding REST API.mp4": {
+                "link": "https://www.mediafire.com/file/r1fqneyoh8aq6hq/2._Understanding_REST_API.mp4/file",
+                "slno": 2.0
+            }
+        }
+    },
+    "3. API With Django": {
+        "link": "https://www.mediafire.com/folder/y1c2pqisvpc4h/3.+API+With+Django",
+        "slno": 3.0,
+        "videos": {
+            "1. Basic Django Setup.mp4": {
+                "link": "https://www.mediafire.com/file/0jrjl6g1500o0mu/1._Basic_Django_Setup.mp4/file",
+                "slno": 1.0
+            },
+            "1.1 Tabnine Extension.html": {
+                "link": "https://www.mediafire.com/file/5x57hqsjpuunx2e/1.1_Tabnine_Extension.html/file",
+                "slno": 1.1
+            },
+            "1.2 Django Official Website.html": {
+                "link": "https://www.mediafire.com/file/cicmjjf0kog4mba/1.2_Django_Official_Website.html/file",
+                "slno": 1.2
+            },
+            "1.3 Download VS Code.html": {
+                "link": "https://www.mediafire.com/file/awstyblzeph41v3/1.3_Download_VS_Code.html/file",
+                "slno": 1.3
+            },
+            "2. Installation.mp4": {
+                "link": "https://www.mediafire.com/file/kkra7jztj5vpqs5/2._Installation.mp4/file",
+                "slno": 2.0
+            },
+            "3. Models and Migrations.mp4": {
+                "link": "https://www.mediafire.com/file/nf4wsycvo6vydja/3._Models_and_Migrations.mp4/file",
+                "slno": 3.0
+            },
+            "4. Creating JSON Response - All Elements.mp4": {
+                "link": "https://www.mediafire.com/file/gag30pd2rqf7fmw/4._Creating_JSON_Response_-_All_Elements.mp4/file",
+                "slno": 4.0
+            },
+            "5. Creating JSON Response - Individual Elements.mp4": {
+                "link": "https://www.mediafire.com/file/gk7tbti5or2ep0n/5._Creating_JSON_Response_-_Individual_Elements.mp4/file",
+                "slno": 5.0
+            },
+            "6. Code Source - Github.html": {
+                "link": "https://www.mediafire.com/file/h6uw6npfqvuj5i0/6._Code_Source_-_Github.html/file",
+                "slno": 6.0
+            }
+        }
+    },
+    "4. Django REST Framework": {
+        "link": "https://www.mediafire.com/folder/r8d70ol8wsukt/4.+Django+REST+Framework",
+        "slno": 4.0,
+        "videos": {
+            "1. DRF Introduction.mp4": {
+                "link": "https://www.mediafire.com/file/vm89mtti7rc2tc8/1._DRF_Introduction.mp4/file",
+                "slno": 1.0
+            },
+            "1.1 DRF Documentation.html": {
+                "link": "https://www.mediafire.com/file/w2sr6d0p4xw11rt/1.1_DRF_Documentation.html/file",
+                "slno": 1.1
+            }
+        }
+    },
+    "5. Views and Serializers": {
+        "link": "https://www.mediafire.com/folder/3j64m29dnkj7y/5.+Views+and+Serializers",
+        "slno": 5.0,
+        "videos": {
+            "1. Serializers - GET Request.mp4": {
+                "link": "https://www.mediafire.com/file/abfq2u6l2f5890r/1._Serializers_-_GET_Request.mp4/file",
+                "slno": 1.0
+            },
+            "2. Serializers\u00a0 - POST, PUT, DELETE Request.mp4": {
+                "link": "https://www.mediafire.com/file/duq0uyqpxy38vix/2._Serializers%25C2%25A0_-_POST%252C_PUT%252C_DELETE_Request.mp4/file",
+                "slno": 2.0
+            },
+            "3. Status Codes.mp4": {
+                "link": "https://www.mediafire.com/file/vko5i4qtm0txv94/3._Status_Codes.mp4/file",
+                "slno": 3.0
+            },
+            "4. APIView Class.mp4": {
+                "link": "https://www.mediafire.com/file/rw0fb73afunbg6k/4._APIView_Class.mp4/file",
+                "slno": 4.0
+            },
+            "5. Validation.mp4": {
+                "link": "https://www.mediafire.com/file/s8n6szznutajz4d/5._Validation.mp4/file",
+                "slno": 5.0
+            },
+            "6. Serializer Fields and Core Arguments.mp4": {
+                "link": "https://www.mediafire.com/file/mb17tpl1gbaxsv2/6._Serializer_Fields_and_Core_Arguments.mp4/file",
+                "slno": 6.0
+            },
+            "7. Model Serializer.mp4": {
+                "link": "https://www.mediafire.com/file/itix6tb0xbi8igy/7._Model_Serializer.mp4/file",
+                "slno": 7.0
+            },
+            "8. Custom Serializer Fields.mp4": {
+                "link": "https://www.mediafire.com/file/wa7kuboms3mpmog/8._Custom_Serializer_Fields.mp4/file",
+                "slno": 8.0
+            },
+            "9. Updating Models.mp4": {
+                "link": "https://www.mediafire.com/file/a3wph3slnv35qgm/9._Updating_Models.mp4/file",
+                "slno": 9.0
+            },
+            "10. Django Relationships.mp4": {
+                "link": "https://www.mediafire.com/file/y1e6ynm35sx2tfo/10._Django_Relationships.mp4/file",
+                "slno": 10.0
+            },
+            "10.1 Database Relationships.html": {
+                "link": "https://www.mediafire.com/file/pusdwau394dcqii/10.1_Database_Relationships.html/file",
+                "slno": 10.1
+            },
+            "11. Nested Serializers.mp4": {
+                "link": "https://www.mediafire.com/file/ld1a068ew2r0tb0/11._Nested_Serializers.mp4/file",
+                "slno": 11.0
+            },
+            "12. Serializer Relations.mp4": {
+                "link": "https://www.mediafire.com/file/tbd1h9x4hnx7wtv/12._Serializer_Relations.mp4/file",
+                "slno": 12.0
+            },
+            "13. HyperLinked Model Serializer.mp4": {
+                "link": "https://www.mediafire.com/file/117sssp4whx9k5f/13._HyperLinked_Model_Serializer.mp4/file",
+                "slno": 13.0
+            },
+            "14. Serializer Relations.mp4": {
+                "link": "https://www.mediafire.com/file/b89acyzictgenjh/14._Serializer_Relations.mp4/file",
+                "slno": 14.0
+            },
+            "15. GenericAPIView and Mixins.mp4": {
+                "link": "https://www.mediafire.com/file/4cf6zzllvcahiwq/15._GenericAPIView_and_Mixins.mp4/file",
+                "slno": 15.0
+            },
+            "16. URL Structure.mp4": {
+                "link": "https://www.mediafire.com/file/ao67cm32tr4bejt/16._URL_Structure.mp4/file",
+                "slno": 16.0
+            },
+            "17. Concrete View Classes.mp4": {
+                "link": "https://www.mediafire.com/file/tqs6u5uo62lcvs5/17._Concrete_View_Classes.mp4/file",
+                "slno": 17.0
+            },
+            "18. Overwrite Queryset.mp4": {
+                "link": "https://www.mediafire.com/file/8ixaszqpqyla62g/18._Overwrite_Queryset.mp4/file",
+                "slno": 18.0
+            },
+            "19. Viewsets and Routers.mp4": {
+                "link": "https://www.mediafire.com/file/w57qrr7bkhpw9m2/19._Viewsets_and_Routers.mp4/file",
+                "slno": 19.0
+            },
+            "20. ModelViewSets.mp4": {
+                "link": "https://www.mediafire.com/file/05p19xke6i8sjea/20._ModelViewSets.mp4/file",
+                "slno": 20.0
+            }
+        }
+    },
+    "6. Postman and Project Update": {
+        "link": "https://www.mediafire.com/folder/cuq09f54tblox/6.+Postman+and+Project+Update",
+        "slno": 6.0,
+        "videos": {
+            "1. Postman.mp4": {
+                "link": "https://www.mediafire.com/file/9rrr5gxtrj7mj2g/1._Postman.mp4/file",
+                "slno": 1.0
+            },
+            "1.1 Download Postman.html": {
+                "link": "https://www.mediafire.com/file/cclkqhyr2ndx8v9/1.1_Download_Postman.html/file",
+                "slno": 1.1
+            },
+            "1.2 Official Postman Website.html": {
+                "link": "https://www.mediafire.com/file/sta5tq4c5ir33e5/1.2_Official_Postman_Website.html/file",
+                "slno": 1.2
+            },
+            "2. User Model.mp4": {
+                "link": "https://www.mediafire.com/file/uzmnsaqsxa49w8y/2._User_Model.mp4/file",
+                "slno": 2.0
+            },
+            "3. Temporary Login and Logout.mp4": {
+                "link": "https://www.mediafire.com/file/49vw29p75uivbam/3._Temporary_Login_and_Logout.mp4/file",
+                "slno": 3.0
+            }
+        }
+    },
+    "7. Permissions": {
+        "link": "https://www.mediafire.com/folder/pnn1zvo7ioqcu/7.+Permissions",
+        "slno": 7.0,
+        "videos": {
+            "1. Introduction to Permissions.mp4": {
+                "link": "https://www.mediafire.com/file/ps9h6j72bo97z8i/1._Introduction_to_Permissions.mp4/file",
+                "slno": 1.0
+            },
+            "2. Custom Permissions.mp4": {
+                "link": "https://www.mediafire.com/file/vsm2yzdcrbs2k1x/2._Custom_Permissions.mp4/file",
+                "slno": 2.0
+            },
+            "3. Custom Calculation.mp4": {
+                "link": "https://www.mediafire.com/file/xuwie29bcqkfg5r/3._Custom_Calculation.mp4/file",
+                "slno": 3.0
+            }
+        }
+    },
+    "8. Authentication": {
+        "link": "https://www.mediafire.com/folder/2rjpnwvivon55/8.+Authentication",
+        "slno": 8.0,
+        "videos": {
+            "1. Introduction to Authentications.mp4": {
+                "link": "https://www.mediafire.com/file/zinhtopfsfxnzd0/1._Introduction_to_Authentications.mp4/file",
+                "slno": 1.0
+            }
+        }
+    },
+    "9. Basic Authentication": {
+        "link": "https://www.mediafire.com/folder/l5wlt5wh3471p/9.+Basic+Authentication",
+        "slno": 9.0,
+        "videos": {
+            "1. Basic Authentication.mp4": {
+                "link": "https://www.mediafire.com/file/183fwtru5p0q17p/1._Basic_Authentication.mp4/file",
+                "slno": 1.0
+            },
+            "1.1 Base64 Encode.html": {
+                "link": "https://www.mediafire.com/file/fyrftj74ywhp6m4/1.1_Base64_Encode.html/file",
+                "slno": 1.1
+            }
+        }
+    },
+    "10. Token Authentication": {
+        "link": "https://www.mediafire.com/folder/yp0127oqexpko/10.+Token+Authentication",
+        "slno": 10.0,
+        "videos": {
+            "1. Token Authentication - Part 1.mp4": {
+                "link": "https://www.mediafire.com/file/ikfjxpt9afhtqna/1._Token_Authentication_-_Part_1.mp4/file",
+                "slno": 1.0
+            },
+            "2. Token Authentication - Part 2.mp4": {
+                "link": "https://www.mediafire.com/file/fmap45nfh3x39y8/2._Token_Authentication_-_Part_2.mp4/file",
+                "slno": 2.0
+            },
+            "3. Token Authentication - Part 3 (Login).mp4": {
+                "link": "https://www.mediafire.com/file/baj5giue17xxh3e/3._Token_Authentication_-_Part_3_%2528Login%2529.mp4/file",
+                "slno": 3.0
+            },
+            "4. Token Authentication - Part 4 (Registration).mp4": {
+                "link": "https://www.mediafire.com/file/e1vecuovpn2gi91/4._Token_Authentication_-_Part_4_%2528Registration%2529.mp4/file",
+                "slno": 4.0
+            },
+            "5. Token Authentication - Part 5 (Registration).mp4": {
+                "link": "https://www.mediafire.com/file/kojbjwqpn365sfo/5._Token_Authentication_-_Part_5_%2528Registration%2529.mp4/file",
+                "slno": 5.0
+            },
+            "6. Token Authentication - Part 6 (Logout).mp4": {
+                "link": "https://www.mediafire.com/file/q9e8tat9cowrcmg/6._Token_Authentication_-_Part_6_%2528Logout%2529.mp4/file",
+                "slno": 6.0
+            }
+        }
+    },
+    "11. Manual Testing Entire Project": {
+        "link": "https://www.mediafire.com/folder/jg6x52nn3x5rj/11.+Manual+Testing+Entire+Project",
+        "slno": 11.0,
+        "videos": {
+            "1. Manual Testing Entire Project - Part 1.mp4": {
+                "link": "https://www.mediafire.com/file/ajgew4jw7bjoopt/1._Manual_Testing_Entire_Project_-_Part_1.mp4/file",
+                "slno": 1.0
+            },
+            "2. Manual Testing Entire Project -\u00a0Part 2.mp4": {
+                "link": "https://www.mediafire.com/file/vfu8nbvy7w8l99v/2._Manual_Testing_Entire_Project_-%25C2%25A0Part_2.mp4/file",
+                "slno": 2.0
+            }
+        }
+    },
+    "12. JWT Authentication": {
+        "link": "https://www.mediafire.com/folder/lnmgobbuswhr7/12.+JWT+Authentication",
+        "slno": 12.0,
+        "videos": {
+            "1. JWT Authentication - Access Token and Refresh Token.mp4": {
+                "link": "https://www.mediafire.com/file/o1rzk4htdiemlya/1._JWT_Authentication_-_Access_Token_and_Refresh_Token.mp4/file",
+                "slno": 1.0
+            },
+            "1.1 JWT.html": {
+                "link": "https://www.mediafire.com/file/rj4aoe0x679stmz/1.1_JWT.html/file",
+                "slno": 1.1
+            },
+            "2. JWT Authentication - Login.mp4": {
+                "link": "https://www.mediafire.com/file/18tlbcj5kn9pinr/2._JWT_Authentication_-_Login.mp4/file",
+                "slno": 2.0
+            },
+            "3. JWT Authentication - Registration.mp4": {
+                "link": "https://www.mediafire.com/file/j2u87ymzl6iup8m/3._JWT_Authentication_-_Registration.mp4/file",
+                "slno": 3.0
+            }
+        }
+    },
+    "13. Throttling": {
+        "link": "https://www.mediafire.com/folder/blj7vlyewje5z/13.+Throttling",
+        "slno": 13.0,
+        "videos": {
+            "1. Throttling Introduction.mp4": {
+                "link": "https://www.mediafire.com/file/u285905t2k2krku/1._Throttling_Introduction.mp4/file",
+                "slno": 1.0
+            },
+            "2. Throttle Rate (Anon and User).mp4": {
+                "link": "https://www.mediafire.com/file/w34l919w3isfycz/2._Throttle_Rate_%2528Anon_and_User%2529.mp4/file",
+                "slno": 2.0
+            },
+            "3. Throttle Rate (Custom and Scope).mp4": {
+                "link": "https://www.mediafire.com/file/3d4h6p6l61wikr0/3._Throttle_Rate_%2528Custom_and_Scope%2529.mp4/file",
+                "slno": 3.0
+            }
+        }
+    },
+    "14. Filtering, Searching, Ordering": {
+        "link": "https://www.mediafire.com/folder/ebj6mqrjxe3og/14.+Filtering,+Searching,+Ordering",
+        "slno": 14.0,
+        "videos": {
+            "1. Filtering Introduction.mp4": {
+                "link": "https://www.mediafire.com/file/04ef3xihmyj1uuc/1._Filtering_Introduction.mp4/file",
+                "slno": 1.0
+            },
+            "2. Filter, Search, Ordering.mp4": {
+                "link": "https://www.mediafire.com/file/gy0fs9hmzidh7f0/2._Filter%252C_Search%252C_Ordering.mp4/file",
+                "slno": 2.0
+            },
+            "2.1 Django Filter Documentation.html": {
+                "link": "https://www.mediafire.com/file/vxh7ucjami34cfu/2.1_Django_Filter_Documentation.html/file",
+                "slno": 2.1
+            },
+            "3. Project Update.mp4": {
+                "link": "https://www.mediafire.com/file/c4eey6syj3klqof/3._Project_Update.mp4/file",
+                "slno": 3.0
+            }
+        }
+    },
+    "15. Pagination": {
+        "link": "https://www.mediafire.com/folder/en35m0xwdb5u8/15.+Pagination",
+        "slno": 15.0,
+        "videos": {
+            "1. Pagination Part 1 - PageNumber.mp4": {
+                "link": "https://www.mediafire.com/file/dpkraovttc919j9/1._Pagination_Part_1_-_PageNumber.mp4/file",
+                "slno": 1.0
+            },
+            "2. Pagination Part 2 - LimitOffset.mp4": {
+                "link": "https://www.mediafire.com/file/2ct1ew2j0mxvj8f/2._Pagination_Part_2_-_LimitOffset.mp4/file",
+                "slno": 2.0
+            },
+            "3. Pagination Part 2 - Cursor.mp4": {
+                "link": "https://www.mediafire.com/file/4dulk2iof1jk4jh/3._Pagination_Part_2_-_Cursor.mp4/file",
+                "slno": 3.0
+            },
+            "4. Browsable API Update.mp4": {
+                "link": "https://www.mediafire.com/file/qssql06l46detov/4._Browsable_API_Update.mp4/file",
+                "slno": 4.0
+            },
+            "4.1 Browsable API Update.html": {
+                "link": "https://www.mediafire.com/file/ozpnpprf4rgptie/4.1_Browsable_API_Update.html/file",
+                "slno": 4.1
+            }
+        }
+    },
+    "16. Automated API Testing": {
+        "link": "https://www.mediafire.com/folder/t44ir2fb4sqd8/16.+Automated+API+Testing",
+        "slno": 16.0,
+        "videos": {
+            "1. API Testing - Registration.mp4": {
+                "link": "https://www.mediafire.com/file/u6x6zrygcfm4r84/1._API_Testing_-_Registration.mp4/file",
+                "slno": 1.0
+            },
+            "2. API Testing - Login and Logout.mp4": {
+                "link": "https://www.mediafire.com/file/v4jz7juoy6na6ou/2._API_Testing_-_Login_and_Logout.mp4/file",
+                "slno": 2.0
+            },
+            "3. API Testing - StreamPlatform.mp4": {
+                "link": "https://www.mediafire.com/file/24nih15l3oteku5/3._API_Testing_-_StreamPlatform.mp4/file",
+                "slno": 3.0
+            },
+            "4. API Testing - WatchList.mp4": {
+                "link": "https://www.mediafire.com/file/0fl5aembw2r5547/4._API_Testing_-_WatchList.mp4/file",
+                "slno": 4.0
+            },
+            "5. API Testing - ReviewTestCase.mp4": {
+                "link": "https://www.mediafire.com/file/3oqavwtn3m4tz8x/5._API_Testing_-_ReviewTestCase.mp4/file",
+                "slno": 5.0
+            },
+            "6. API Testing - UserTestCase.mp4": {
+                "link": "https://www.mediafire.com/file/0lqkbhkyl4jdgyi/6._API_Testing_-_UserTestCase.mp4/file",
+                "slno": 6.0
+            },
+            "7. Test Driven Development - TDD.mp4": {
+                "link": "https://www.mediafire.com/file/dw23mofmv9rdbwo/7._Test_Driven_Development_-_TDD.mp4/file",
+                "slno": 7.0
+            },
+            "7.1 TDD Basics.html": {
+                "link": "https://www.mediafire.com/file/0bngc83f3vohvmc/7.1_TDD_Basics.html/file",
+                "slno": 7.1
+            },
+            "8. Project Completed.mp4": {
+                "link": "https://www.mediafire.com/file/ojs8fzv1oos7i0z/8._Project_Completed.mp4/file",
+                "slno": 8.0
+            }
+        }
+    },
+    "17. Project Code Source": {
+        "link": "https://www.mediafire.com/folder/gth4cm3wv4ko7/17.+Project+Code+Source",
+        "slno": 17.0,
+        "videos": {
+            "1. Project Code Source - Github.html": {
+                "link": "https://www.mediafire.com/file/r4rddtx2camhsx9/1._Project_Code_Source_-_Github.html/file",
+                "slno": 1.0
+            }
+        }
+    },
+    "18. Thank You For Being Here!": {
+        "link": "https://www.mediafire.com/folder/hznxc2d6x7azx/18.+Thank+You+For+Being+Here!",
+        "slno": 18.0,
+        "videos": {
+            "1. Thank You For Being Here!.mp4": {
+                "link": "https://www.mediafire.com/file/k994el0wrql0mwr/1._Thank_You_For_Being_Here%2521.mp4/file",
+                "slno": 1.0
+            }
+        }
+    }
+}

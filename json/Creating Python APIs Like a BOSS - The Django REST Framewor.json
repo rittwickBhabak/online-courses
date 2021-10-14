@@ -1,0 +1,130 @@
+{
+    "1. Introduction": {
+        "link": "https://www.mediafire.com/folder/lrs44w7eqht55/1.+Introduction",
+        "slno": 1.0,
+        "videos": {
+            "1. What is an API and Why is it Important.mp4": {
+                "link": "https://www.mediafire.com/file/kq7q7fm6nc1zai4/1._What_is_an_API_and_Why_is_it_Important.mp4/file",
+                "slno": 1.0
+            }
+        }
+    },
+    "2. API Basics - Making a Reddit Clone": {
+        "link": "https://www.mediafire.com/folder/aqb1snhmdt3j3/2.+API+Basics+-+Making+a+Reddit+Clone",
+        "slno": 2.0,
+        "videos": {
+            "1. Curl and REST Clients.mp4": {
+                "link": "https://www.mediafire.com/file/m9fanya2mfy4tgv/1._Curl_and_REST_Clients.mp4/file",
+                "slno": 1.0
+            },
+            "2. Zappit Models.mp4": {
+                "link": "https://www.mediafire.com/file/914v2xrq86yk4e1/2._Zappit_Models.mp4/file",
+                "slno": 2.0
+            },
+            "3. Django REST Framework.mp4": {
+                "link": "https://www.mediafire.com/file/pjhr50nz2vlwoai/3._Django_REST_Framework.mp4/file",
+                "slno": 3.0
+            },
+            "4. Serializers.mp4": {
+                "link": "https://www.mediafire.com/file/8tbn79ijjroslp6/4._Serializers.mp4/file",
+                "slno": 4.0
+            },
+            "5. Adding Posts to the Database.mp4": {
+                "link": "https://www.mediafire.com/file/q6muky619zm0lau/5._Adding_Posts_to_the_Database.mp4/file",
+                "slno": 5.0
+            },
+            "6. Creating Posts via the API.mp4": {
+                "link": "https://www.mediafire.com/file/uplw9p99rr6wr41/6._Creating_Posts_via_the_API.mp4/file",
+                "slno": 6.0
+            },
+            "7. Upvoting Posts.mp4": {
+                "link": "https://www.mediafire.com/file/ck1y8hgeraky4nx/7._Upvoting_Posts.mp4/file",
+                "slno": 7.0
+            },
+            "8. API Auth.mp4": {
+                "link": "https://www.mediafire.com/file/vvpujaojiu7fzix/8._API_Auth.mp4/file",
+                "slno": 8.0
+            },
+            "9. Deleting Votes.mp4": {
+                "link": "https://www.mediafire.com/file/0opjqclp0sxhpxh/9._Deleting_Votes.mp4/file",
+                "slno": 9.0
+            },
+            "10. Deleting Posts.mp4": {
+                "link": "https://www.mediafire.com/file/jratwrcpffkwd6v/10._Deleting_Posts.mp4/file",
+                "slno": 10.0
+            },
+            "11. Recap.mp4": {
+                "link": "https://www.mediafire.com/file/1l72zxbjgj6iazm/11._Recap.mp4/file",
+                "slno": 11.0
+            },
+            "12. Source Code.html": {
+                "link": "https://www.mediafire.com/file/y8j670r60741bpt/12._Source_Code.html/file",
+                "slno": 12.0
+            }
+        }
+    },
+    "3. Adding an API to an Existing Project": {
+        "link": "https://www.mediafire.com/folder/y5kw4lc8drwy2/3.+Adding+an+API+to+an+Existing+Project",
+        "slno": 3.0,
+        "videos": {
+            "1. ToDoWoo Code.html": {
+                "link": "https://www.mediafire.com/file/si5htrmlewfpilr/1._ToDoWoo_Code.html/file",
+                "slno": 1.0
+            },
+            "2. ToDoWoo Walkthrough.mp4": {
+                "link": "https://www.mediafire.com/file/89ft9es0jdmrknu/2._ToDoWoo_Walkthrough.mp4/file",
+                "slno": 2.0
+            },
+            "3. Adding the API.mp4": {
+                "link": "https://www.mediafire.com/file/lqv9msnbkebxtto/3._Adding_the_API.mp4/file",
+                "slno": 3.0
+            },
+            "4. Listing Completed Todos.mp4": {
+                "link": "https://www.mediafire.com/file/efp1z3285r41dp5/4._Listing_Completed_Todos.mp4/file",
+                "slno": 4.0
+            },
+            "5. Create, Retrieve, Update, Destroy.mp4": {
+                "link": "https://www.mediafire.com/file/msgz2rirnbj4dms/5._Create%252C_Retrieve%252C_Update%252C_Destroy.mp4/file",
+                "slno": 5.0
+            },
+            "6. Completing Todos.mp4": {
+                "link": "https://www.mediafire.com/file/o647ondr6n4h5yo/6._Completing_Todos.mp4/file",
+                "slno": 6.0
+            },
+            "7. Basic Authentication.mp4": {
+                "link": "https://www.mediafire.com/file/2ptawg4vwi69ztn/7._Basic_Authentication.mp4/file",
+                "slno": 7.0
+            },
+            "8. User SignUp.mp4": {
+                "link": "https://www.mediafire.com/file/glautdcma5muelx/8._User_SignUp.mp4/file",
+                "slno": 8.0
+            },
+            "9. Creating Tokens.mp4": {
+                "link": "https://www.mediafire.com/file/4o4wpq622v6iz21/9._Creating_Tokens.mp4/file",
+                "slno": 9.0
+            },
+            "10. Login Tokens.mp4": {
+                "link": "https://www.mediafire.com/file/ceu81cckh5dp2bp/10._Login_Tokens.mp4/file",
+                "slno": 10.0
+            },
+            "11. Source Code.html": {
+                "link": "https://www.mediafire.com/file/5fcfesh4h1mpe81/11._Source_Code.html/file",
+                "slno": 11.0
+            }
+        }
+    },
+    "4. Finishing Thoughts": {
+        "link": "https://www.mediafire.com/folder/1cnfzg47rdwvr/4.+Finishing+Thoughts",
+        "slno": 4.0,
+        "videos": {
+            "1. So Long My Friend....mp4": {
+                "link": "https://www.mediafire.com/file/51w2itnigit3ht8/1._So_Long_My_Friend....mp4/file",
+                "slno": 1.0
+            },
+            "2. Bonus Lecture.html": {
+                "link": "https://www.mediafire.com/file/9wnm8xyljo5wqpn/2._Bonus_Lecture.html/file",
+                "slno": 2.0
+            }
+        }
+    }
+}
