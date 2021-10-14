@@ -1,7 +1,7 @@
 {% extends 'base.html' %}
 {% block page_title %} {{playlist.title}}| YouTube {% endblock page_title %}
 {% block youtube_active %} active {% endblock youtube_active %}
-{% block page_content %} 
+{% block page_content %}
     <h1 class="text-center">
         {{playlist.title}}
         {% if playlist.is_done %}
@@ -48,15 +48,15 @@
         {% csrf_token %}
         <p>Add New Video</p>
         <div class="mb-3">
-            <label for="title" class="form-label">Email address</label>
+            <label for="title" class="form-label">Enter Video Titel</label>
             <input type="text" class="form-control" id="title" name="title" placeholder="Enter Title" required>
         </div>
         <div class="mb-3">
-            <label for="vid" class="form-label">Email address</label>
+            <label for="vid" class="form-label">Enter YouTube Video ID</label>
             <input type="text" class="form-control" id="vid" name="vid" placeholder="Enter YouTube Video ID" required>
         </div>
         <input type="number" name="pid" id="pid" value="{{playlist.id}}" hidden>
         <input type="submit" value="Add New Video" class="btn btn-primary">
     </form>
 
-{% endblock page_content %} 
+{% endblock page_content %}

@@ -1,7 +1,7 @@
 from django.core.checks import messages
 from django.shortcuts import get_list_or_404, get_object_or_404, redirect, render
 from .models import Playlist, YTVideo
-import json 
+import json
 from django.contrib import messages
 from django.urls import reverse
 
@@ -10,19 +10,19 @@ from django.urls import reverse
 def playlist_list(request):
     context = {
         'playlists': Playlist.objects.all()
-    } 
+    }
     return render(request, 'youtube/playlist_list.html', context=context)
 
 def playlist_detail(request, id):
     context = {
         'playlist': get_object_or_404(Playlist, pk=id)
-    } 
+    }
     return render(request, 'youtube/playlist_detail.html', context=context)
 
 def playlist_update(request, id):
     context = {
-        
-    } 
+
+    }
     return render(request, 'youtube/.html', context=context)
 
 def playlist_add(request):
@@ -40,10 +40,11 @@ def playlist_add(request):
             videos = []
             try:
                 for key, value in data.items():
-                    yt_video_title = key 
+                    yt_video_title = key
                     video_id = value['vid']
                     yt_video = YTVideo.objects.create(title=yt_video_title, video_id=video_id, playlist=playlist)
                     videos.append(yt_video)
+                messages.success(request, 'New course created successfully.')
                 redirect_path = reverse('playlist-detail-page', args=[playlist.id])
                 return redirect(redirect_path)
             except:
@@ -55,7 +56,7 @@ def playlist_add(request):
             messages.error(request, 'Some error occoured. Failed to create new course.')
             redirect_path = reverse('playlist-add-page')
             return redirect(redirect_path)
-        
+
     return render(request, 'youtube/playlist_add.html')
 
 def yt_video_detail(request, id):
@@ -66,13 +67,13 @@ def yt_video_detail(request, id):
         'video': video,
         'next': next_video,
         'prev': prev_video
-    } 
+    }
     return render(request, 'youtube/yt_video_detail.html', context=context)
 
 def yt_video_update(request, id):
     context = {
-        
-    } 
+
+    }
     return render(request, 'youtube/.html', context=context)
 
 def yt_video_completed(request):
