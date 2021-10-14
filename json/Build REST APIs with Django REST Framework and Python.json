@@ -2,6 +2,9 @@
     "1. Course Introduction": {
         "link": "https://www.mediafire.com/folder/drnfihk2wuv5d/1.+Course+Introduction",
         "slno": 1.0,
+        "email": "sxo79459@cuoly.com",
+        "password": "storage",
+        "description": "Build REST APIs with Django REST Framework and Python",
         "videos": {
             "1. Course Introduction.mp4": {
                 "link": "https://www.mediafire.com/file/ii6uqj5i5pbpm49/1._Course_Introduction.mp4/file",
@@ -16,6 +19,9 @@
     "2. Basic API Concepts - Theory": {
         "link": "https://www.mediafire.com/folder/qf6lhn94400w2/2.+Basic+API+Concepts+-+Theory",
         "slno": 2.0,
+        "email": "sxo79459@cuoly.com",
+        "password": "storage",
+        "description": "Build REST APIs with Django REST Framework and Python",
         "videos": {
             "1. Understanding API.mp4": {
                 "link": "https://www.mediafire.com/file/tft5y7n12kne6t3/1._Understanding_API.mp4/file",
@@ -30,6 +36,9 @@
     "3. API With Django": {
         "link": "https://www.mediafire.com/folder/y1c2pqisvpc4h/3.+API+With+Django",
         "slno": 3.0,
+        "email": "sxo79459@cuoly.com",
+        "password": "storage",
+        "description": "Build REST APIs with Django REST Framework and Python",
         "videos": {
             "1. Basic Django Setup.mp4": {
                 "link": "https://www.mediafire.com/file/0jrjl6g1500o0mu/1._Basic_Django_Setup.mp4/file",
@@ -72,6 +81,9 @@
     "4. Django REST Framework": {
         "link": "https://www.mediafire.com/folder/r8d70ol8wsukt/4.+Django+REST+Framework",
         "slno": 4.0,
+        "email": "sxo79459@cuoly.com",
+        "password": "storage",
+        "description": "Build REST APIs with Django REST Framework and Python",
         "videos": {
             "1. DRF Introduction.mp4": {
                 "link": "https://www.mediafire.com/file/vm89mtti7rc2tc8/1._DRF_Introduction.mp4/file",
@@ -86,6 +98,9 @@
     "5. Views and Serializers": {
         "link": "https://www.mediafire.com/folder/3j64m29dnkj7y/5.+Views+and+Serializers",
         "slno": 5.0,
+        "email": "sxo79459@cuoly.com",
+        "password": "storage",
+        "description": "Build REST APIs with Django REST Framework and Python",
         "videos": {
             "1. Serializers - GET Request.mp4": {
                 "link": "https://www.mediafire.com/file/abfq2u6l2f5890r/1._Serializers_-_GET_Request.mp4/file",
@@ -176,6 +191,9 @@
     "6. Postman and Project Update": {
         "link": "https://www.mediafire.com/folder/cuq09f54tblox/6.+Postman+and+Project+Update",
         "slno": 6.0,
+        "email": "sxo79459@cuoly.com",
+        "password": "storage",
+        "description": "Build REST APIs with Django REST Framework and Python",
         "videos": {
             "1. Postman.mp4": {
                 "link": "https://www.mediafire.com/file/9rrr5gxtrj7mj2g/1._Postman.mp4/file",
@@ -202,6 +220,9 @@
     "7. Permissions": {
         "link": "https://www.mediafire.com/folder/pnn1zvo7ioqcu/7.+Permissions",
         "slno": 7.0,
+        "email": "sxo79459@cuoly.com",
+        "password": "storage",
+        "description": "Build REST APIs with Django REST Framework and Python",
         "videos": {
             "1. Introduction to Permissions.mp4": {
                 "link": "https://www.mediafire.com/file/ps9h6j72bo97z8i/1._Introduction_to_Permissions.mp4/file",
@@ -220,6 +241,9 @@
     "8. Authentication": {
         "link": "https://www.mediafire.com/folder/2rjpnwvivon55/8.+Authentication",
         "slno": 8.0,
+        "email": "sxo79459@cuoly.com",
+        "password": "storage",
+        "description": "Build REST APIs with Django REST Framework and Python",
         "videos": {
             "1. Introduction to Authentications.mp4": {
                 "link": "https://www.mediafire.com/file/zinhtopfsfxnzd0/1._Introduction_to_Authentications.mp4/file",
@@ -230,6 +254,9 @@
     "9. Basic Authentication": {
         "link": "https://www.mediafire.com/folder/l5wlt5wh3471p/9.+Basic+Authentication",
         "slno": 9.0,
+        "email": "sxo79459@cuoly.com",
+        "password": "storage",
+        "description": "Build REST APIs with Django REST Framework and Python",
         "videos": {
             "1. Basic Authentication.mp4": {
                 "link": "https://www.mediafire.com/file/183fwtru5p0q17p/1._Basic_Authentication.mp4/file",
@@ -244,6 +271,9 @@
     "10. Token Authentication": {
         "link": "https://www.mediafire.com/folder/yp0127oqexpko/10.+Token+Authentication",
         "slno": 10.0,
+        "email": "sxo79459@cuoly.com",
+        "password": "storage",
+        "description": "Build REST APIs with Django REST Framework and Python",
         "videos": {
             "1. Token Authentication - Part 1.mp4": {
                 "link": "https://www.mediafire.com/file/ikfjxpt9afhtqna/1._Token_Authentication_-_Part_1.mp4/file",
@@ -274,6 +304,9 @@
     "11. Manual Testing Entire Project": {
         "link": "https://www.mediafire.com/folder/jg6x52nn3x5rj/11.+Manual+Testing+Entire+Project",
         "slno": 11.0,
+        "email": "sxo79459@cuoly.com",
+        "password": "storage",
+        "description": "Build REST APIs with Django REST Framework and Python",
         "videos": {
             "1. Manual Testing Entire Project - Part 1.mp4": {
                 "link": "https://www.mediafire.com/file/ajgew4jw7bjoopt/1._Manual_Testing_Entire_Project_-_Part_1.mp4/file",
@@ -288,6 +321,9 @@
     "12. JWT Authentication": {
         "link": "https://www.mediafire.com/folder/lnmgobbuswhr7/12.+JWT+Authentication",
         "slno": 12.0,
+        "email": "sxo79459@cuoly.com",
+        "password": "storage",
+        "description": "Build REST APIs with Django REST Framework and Python",
         "videos": {
             "1. JWT Authentication - Access Token and Refresh Token.mp4": {
                 "link": "https://www.mediafire.com/file/o1rzk4htdiemlya/1._JWT_Authentication_-_Access_Token_and_Refresh_Token.mp4/file",
@@ -310,6 +346,9 @@
     "13. Throttling": {
         "link": "https://www.mediafire.com/folder/blj7vlyewje5z/13.+Throttling",
         "slno": 13.0,
+        "email": "sxo79459@cuoly.com",
+        "password": "storage",
+        "description": "Build REST APIs with Django REST Framework and Python",
         "videos": {
             "1. Throttling Introduction.mp4": {
                 "link": "https://www.mediafire.com/file/u285905t2k2krku/1._Throttling_Introduction.mp4/file",
@@ -328,6 +367,9 @@
     "14. Filtering, Searching, Ordering": {
         "link": "https://www.mediafire.com/folder/ebj6mqrjxe3og/14.+Filtering,+Searching,+Ordering",
         "slno": 14.0,
+        "email": "sxo79459@cuoly.com",
+        "password": "storage",
+        "description": "Build REST APIs with Django REST Framework and Python",
         "videos": {
             "1. Filtering Introduction.mp4": {
                 "link": "https://www.mediafire.com/file/04ef3xihmyj1uuc/1._Filtering_Introduction.mp4/file",
@@ -350,6 +392,9 @@
     "15. Pagination": {
         "link": "https://www.mediafire.com/folder/en35m0xwdb5u8/15.+Pagination",
         "slno": 15.0,
+        "email": "sxo79459@cuoly.com",
+        "password": "storage",
+        "description": "Build REST APIs with Django REST Framework and Python",
         "videos": {
             "1. Pagination Part 1 - PageNumber.mp4": {
                 "link": "https://www.mediafire.com/file/dpkraovttc919j9/1._Pagination_Part_1_-_PageNumber.mp4/file",
@@ -376,6 +421,9 @@
     "16. Automated API Testing": {
         "link": "https://www.mediafire.com/folder/t44ir2fb4sqd8/16.+Automated+API+Testing",
         "slno": 16.0,
+        "email": "sxo79459@cuoly.com",
+        "password": "storage",
+        "description": "Build REST APIs with Django REST Framework and Python",
         "videos": {
             "1. API Testing - Registration.mp4": {
                 "link": "https://www.mediafire.com/file/u6x6zrygcfm4r84/1._API_Testing_-_Registration.mp4/file",
@@ -418,6 +466,9 @@
     "17. Project Code Source": {
         "link": "https://www.mediafire.com/folder/gth4cm3wv4ko7/17.+Project+Code+Source",
         "slno": 17.0,
+        "email": "sxo79459@cuoly.com",
+        "password": "storage",
+        "description": "Build REST APIs with Django REST Framework and Python",
         "videos": {
             "1. Project Code Source - Github.html": {
                 "link": "https://www.mediafire.com/file/r4rddtx2camhsx9/1._Project_Code_Source_-_Github.html/file",
@@ -428,6 +479,9 @@
     "18. Thank You For Being Here!": {
         "link": "https://www.mediafire.com/folder/hznxc2d6x7azx/18.+Thank+You+For+Being+Here!",
         "slno": 18.0,
+        "email": "sxo79459@cuoly.com",
+        "password": "storage",
+        "description": "Build REST APIs with Django REST Framework and Python",
         "videos": {
             "1. Thank You For Being Here!.mp4": {
                 "link": "https://www.mediafire.com/file/k994el0wrql0mwr/1._Thank_You_For_Being_Here%2521.mp4/file",
