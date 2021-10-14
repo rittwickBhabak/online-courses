@@ -1,11 +1,11 @@
 {% extends 'myapp/base.html' %}
 {% block page_title %} {{video.title}} | Update {% endblock page_title %}
-{% block page_content %} 
+{% block page_content %}
     <p class="lead">
         <a href="{% url 'course-detail-page' video.chapter.course.id %}" class="bg-light p-1">{{video.chapter.course.title}}</a>
-         > 
+         >
         <a  href="{% url 'chapter-update-page' video.chapter.id %}" class="bg-light p-1">{{video.chapter.title}}</a>
-         > 
+         >
         <a href="{% url 'video-detail-page' video.id %}" class="bg-light p-1">{{video.title}}</a>
     </p>
     <form action="{% url 'video-update-page' video.id %}" method="POST">
@@ -25,12 +25,12 @@
         </div>
         <button type="submit" class="btn btn-primary">Update</button>
     </form>
-    <script>
-        var dwnldLink = document.querySelector('#download-link')
-        dwnldLink.addEventListener('blur', e=>{
-            var form = document.querySelector('form')
-            form.submit()
-        })
-    </script>
+    <!--<script>-->
+    <!--    var dwnldLink = document.querySelector('#download-link')-->
+    <!--    dwnldLink.addEventListener('blur', e=>{-->
+    <!--        var form = document.querySelector('form')-->
+    <!--        form.submit()-->
+    <!--    })-->
+    <!--</script>-->
 
-{% endblock page_content %} 
+{% endblock page_content %}
