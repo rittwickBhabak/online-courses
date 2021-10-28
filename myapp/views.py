@@ -40,16 +40,16 @@ def course_list(request):
 
 def course_detail(request, id):
     course = get_object_or_404(Course, pk=id)
-    chapters = course.chapter_set.all()
-    videos = Video.objects.all()
-    last_seen = None
-    videos = list(filter(lambda x: x.chapter in chapters, videos))
-    videos = sorted(videos, key=lambda x: x.last_seen)
-    last_seen = videos[-1]
+    # chapters = course.chapter_set.all()
+    # videos = Video.objects.all()
+    # last_seen = None
+    # videos = list(filter(lambda x: x.chapter in chapters, videos))
+    # videos = sorted(videos, key=lambda x: x.last_seen)
+    # last_seen = videos[-1]
 
     context = {
-        'course': course,
-        'last_seen': last_seen
+        'course': course
+        # 'last_seen': last_seen
     }
     return render(request, 'myapp/course_detail.html', context=context)
 

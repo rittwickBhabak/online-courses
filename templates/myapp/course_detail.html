@@ -28,9 +28,9 @@
         </div>
     </span>
 </h1>
-<p class="lead">Last seen: <a href="{% url 'video-detail-page' last_seen.id %}">{{last_seen.title}}</a></p>
+{% comment %} <p class="lead">Last seen: <a href="{% url 'video-detail-page' last_seen.id %}">{{last_seen.title}}</a></p> {% endcomment %}
 
-<ul>
+<ul class="mb-5">
     {% for chapter in course.chapter_set.all %}
         <li class="chapter mb-3">
             <span class="chapter-name">{{chapter.title}}</span> 
